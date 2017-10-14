@@ -761,6 +761,34 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="5">Aaahhhh!\nI am cumming like crazy! So nasty!</p>
 			</scenes>
 
+	<!--MORE THAN ONE PRINCESS-->
+			<scenes scene="princessesGangbang">
+				<p i="1">What are you\ngirls doing here!?</p>
+				<f i="1a">Well, ever since\nour sessions, we have been kinda getting attached to you.</f>
+				<f i="1b">That is why we\ndecided we want to have some more fun together!</f>
+				<e i="1c">They have\nbeen very sexy and wet</e>
+				<p i="2">Well... thanks\ngirls, I would not mind having some more fun...</p>
+				<f i="2">That\'s great!\nWe are also thinking of adding some... spice.  Wendy?</f>
+				<p i="3">Wow... so this\nis what you meant by spice... I like it.</p>
+				<f i="3a">Excellent! Now,\ncome over here and show us what you got, {CHARACTER_NAME} babe...</f>
+				<p i="4">These dicks are\nso big and hot, I am going to be addicted to them!</p>
+				<f i="4a">Yes, {CHARACTER_NAME},\nyes. Your mouth and hand feels sooo good!</f>
+				<f i="4b">I... cannot take it anymore, {CHARACTER_NAME}, I need your ass!</f>
+				<e i="4c">Come on, {CHARACTER_NAME},\ngive me some more, I’m so horny!</e>
+				<p i="5">Oh yes! This\n is just what I need! Keep going, Honey!</p>
+				<f i="5b">Are you ready\n to have the time of you life, {CHARACTER_NAME}?</f>
+				<f i="6">What a delicious\nnasty pussy, dear...</f>
+				<p i="6a">Sooo\nHOT...</p>
+				<f i="6b">Oh, I\nam cumming!</f>
+				<e i="6c">I am\ncumming, bitch!</e>
+				<f i="6d">I am\ncumming!</f>
+				<p i="7">OH, girls, you\nare so sweet! If Mario was not around, I would totally go for it... Everyday...</p>
+				<f i="7a">We love you\nso much, {CHARACTER_NAME}!</f>
+				<f i="7b">We love you\nso much, {CHARACTER_NAME}!</f>
+				<e i="7c">We love you\nso much, {CHARACTER_NAME}!</e>
+			</scenes>
+
+
 	<!--BOBOMBS-->
 			<scenes scene="bobomb1">
 				<p i="1">Wow! This\nlittle guy\'s got a long fuse!</p>
@@ -2006,6 +2034,20 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="7">Luigi: I dont know where my bro is. He keeps disappearing and he never calls me!</f>
 				<f i="8">Luigi: Moreover, I am reading a great book I\'ve made. It\'s name is: \'Touching inner areas\' Are you wishing to hear it?</f>
 				<p i="9">(Press a Number)\n1) Yes, please read it! \n2) No, thank you!</p>
+			</scenes>			
+			<scenes scene="luigiGloryhole">
+				<p i="1">Oh, this toilet\nsmells so...manly? It makes me want to do something naughty!</p>
+				<f i="1">\nWhat was that noise?\nIs it a ghost!?</f>
+				<p i="2">Oooh! This naughty\nfeeling is so good! I hope no one comes in. I don\'t want to stop!</p>
+				<f i="2">\nWait! Is that...{CHARACTER_NAME}? Masturbating!? Wowowowow!!</f>
+				<p i="3">Oh! Someone was in\nthe other stall! I should go...but I want to get a closer look first!</p>
+				<f i="3">\nWhat are you doing Luigi? She\'s gonna freak out now and run away!</f>
+				<p i="4">Mmm. It tastes\nreally good! It kind of smells like Mario, but different.</p>
+				<f i="4">This was a mist--\nWHOA! Wowee! My dick feels wet all of a sudden!</f>
+				<p i="5">\nOooh, sucking on this dick is so arousing! I\'m gonna cum soon!</p>
+				<f i="5">OOOH! My dick!\nI\'m in heaven! She is sucking my dick! I\'ve never felt so good!</f>
+				<p i="6">Oh wow! I came\nso hard! I just want to enjoy this, but I better leave quickly!</p>
+				<f i="6">Whew! That was AWESOME!! I wonder if she\'ll come back here again?</f>
 			</scenes>			
 			
 			<!--LUIGI BOOKS-->
@@ -3569,6 +3611,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 					<p i="8e">I don\'t know why, but... I feel myself so exposed in this pose...</p>
 				<p i="9">It\'s a...toilet! But it\'s out of order!</p>
 				<p i="10">(Press a Number)\n1) Just Seat  2,3,4,5) Masturbation Mode\n6) Peeing (YES/NO)   7) Fart (may diminish Belly size)   {NEXTKEY}) Exit</p>
+				<p i="10a">(Press a Number)\n1) Just Seat  2,3,4,5) Masturbation Mode\n6) Peeing (YES/NO)   7) Gloryhole scene    {NEXTKEY}) Exit</p>
 			</scenes>			
 			
 			<scenes scene="dialogueBottle">
@@ -3676,17 +3719,19 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>	
 			
 			<scenes scene="dialogueBed"> <!--All related to beds-->
-				<p i="1">Its my bed...\n1) Sit down   2) Touch curtains</p>
+				<p i="1">It\'s my bed...\n1) Sit down   2) Touch curtains</p>
 				<p i="2">How gross! am I supposed to sleep on THIS?</p>
-				<p i="3">(Press a Number)\n1) Sit or Lay\n2) Go away</p>
+				<p i="3">(Press a Number)\n1) Sit or Lay\n{NEXTKEY}) Go away</p>
 				<p i="4">It\'s Mario\'s bed!</p>
-				<p i="5">(Press a Number)\n1) Have a seat?\n2) Go away</p>
+				<p i="5">(Press a Number)\n1) Have a seat?\n{NEXTKEY}) Go away</p>
 				<p i="6">It\'s Toadette\'s bed...</p>
-				<p i="7">(Press a Number)\n1) Have a seat?\n2) Go away</p>
+				<p i="7">(Press a Number)\n1) Have a seat?\n{NEXTKEY}) Go away</p>
 				<p i="8">(Press a Number)\n1) Go away</p>
 				<p i="9">(Press a Number)\n1) Kiss Mario</p>
 				<p i="10">(Press a Number)\n1) Masturbate in order to sleep</p>
 				<p i="11">(Press a Number)\n1) Lay down</p>
+				<p i="11a">(Press a Number)\n1) Lay down   2) Call a Toad</p>
+				<p i="11b">(Press a Number)\n1) Lay down   2) Call a Toad    3) Call other Princesses</p>
 				<p i="12">to Sit down, or press a number to choose</p>
 				<p i="13">(beware of sneaker toads!)</p>
 				<p i="14">(PRESS A NUMBER):\n1) Masturbate tenderly       2) Masturbate vigorously\n3) Turn backside and masturbate</p>
@@ -3695,16 +3740,16 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<scenes scene="dialogueClosetCastle">
 				<p i="1">1) Open/Close it\n</p>
 				<p i="2">1) Open/Close it   2) Make the Princess Fall!\n</p>
-				<p i="3">Its my cute closet...</p>
-				<p i="4">(SELECT AN OPTION)\n1) Enter on it     2) Open/Close the Left Door    3) Open/Close the Right Door</p>
+				<p i="3">It\'s my cute closet...</p>
+				<p i="4">(SELECT AN OPTION)\n1) Sit inside    2) Open/Close the Left Door    3) Open/Close the Right Door</p>
 				<p i="5">(SELECT AN OPTION)\n1) Masturbate  \n2) Open/Close it</p>
-				<p i="6">This Door is Locked! But it opened in other days... (CHOOSE)\n2) Open/Close the Left Door    3) Open/Close the Right Door   \n4) Enter on the Right Door</p>
+				<p i="6">This Door is Locked! But... it opened the other day... (CHOOSE)\n2) Open/Close the Left Door    3) Open/Close the Right Door   \n4) Sit down on the Right</p>
 				<p i="7">(SELECT AN OPTION)\n1) Open/Close the left door   2) Open/Close the right door</p>
 				<p i="8">(SELECT AN OPTION)\n1) Masturbate  \n2) Open/Close it</p>
 				<p i="9">(SELECT AN OPTION)\n1) Masturbate   2) HandJob \n3) Open/Close it</p>
 				<p i="10">(SELECT AN OPTION)\n1) Masturbate   2) HandJob   3) Suck it  \n4) Open/Close it</p>
-				<p i="11">(SELECT AN OPTION)\n1) Masturbate   2) HandJob   3) Suck it   4) Cum   5) Drop your butt in it  \n6) Open/Close it</p>
-				<p i="12">Make you both cum</p>
+				<p i="11">(SELECT AN OPTION)\n1) Masturbate   2) HandJob   3) Suck it   4) Cum   5) Stick your butt on it  \n6) Open/Close it</p>
+				<p i="12">Cum!</p>
 				
 				<!--Different creatures inside the closet-->
 				<p i="13">Ohhh...I like\nto be hidden inside my cabinet. I feel safe!</p>
@@ -5223,6 +5268,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 				<f i="medal24">IMPREGNATED: The princess\' is a ditzy pregnant blonde!</f>
 					<f i="desc24">NOT YET!</f>
+
+				<f i="medal51">GANGBANGED IN THE PRISION: She\'s a slave!</f>
 					
 				<!--More Later-->
 			</scenes>
@@ -5709,6 +5756,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="CurrentGame">Current Game</text>
 			<text name="QuickWarpToActiveLevel">Quick Warp to an Active Level</text>
 			<text name="LostHerVirginity">lost her Virginity!</text>
+			<text name="GotGangBangedInPrison">got gangbanged in the prison!</text>
 			
 			<text name="Diary">Книга</text>
 			<text name="MyMushroomDiary">My Mushroom Diary</text>
@@ -5780,8 +5828,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="D_PussyFront">Клитор спереди</text>
 			<text name="D_Lay">Лечь</text>
 			<text name="D_Butt">Butt</text>
-			<text name="D_ArmsLegs">Arms/\nLegs</text>
-			<text name="D_FaceHair">Face/\nHair</text>
+			<text name="D_ArmsLegs">Arms/Legs</text>
+			<text name="D_FaceHair">Face/Hair</text>
+			<text name="D_LessBelly">Less Belly</text>
+			<text name="D_BurnOff">Burn Off</text>
 			
 			<text name="noMorePages">No more pages</text>
 			<text name="nextPage">Слeд.страница</text>
@@ -5883,7 +5933,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="or">or</text>
 			<text name="YES">YES</text>
 			<text name="NO">NO</text>
+			<text name="ALWAYS">ALWAYS</text>
+			<text name="SOMETIMES">SOMETIMES</text>
 			<text name="UNAVAIL">UNAV.</text>
+			<text name="ALL">ALL</text>
+			<text name="AT_EAT">EATING</text>
+			<text name="ON_CUMS">ON CUMS</text>
+			<text name="PREGNANT">PREGNANT</text>
 			<text name="NONE">NONE</text>
 			<text name="LOW">LOW</text>
 			<text name="MEDIUM">MEDIUM</text>
@@ -5891,6 +5947,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="AUTO">AUTO</text>
 			<text name="UPDATING">UPDATING...</text>
 	
+			<text name="LOOP10xNext">Loop 10X then NEXT</text>
 			<text name="LOOP5xNext">Loop 5X then NEXT</text>
 			<text name="LOOP4xNext">Loop 4X then NEXT</text>
 			<text name="LOOP3xNext">Loop 3X then NEXT</text>
@@ -6280,7 +6337,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_BellyMinMax">Belly Min/Max</text>
 				<text name="ScreenOptions_CanOnlyIfPregnant">(Can only be disabled if not pregnant!)</text>
 			<text name="ScreenOptions_Header_ShredBraIf">Shred Bra if...</text>
-			<text name="ScreenOptions_Header_BellyCanIncrease">Belly can increase</text>
+			<text name="ScreenOptions_Header_BellyCanIncrease">Bigger Belly when...</text>
 			<text name="ScreenOptions_Header_PregnancyChance">Pregnancy Chance</text>
 			<text name="ScreenOptions_Header_NPCBoobBelly">NPC Boob/Belly</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
@@ -6338,7 +6395,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_AssholeState">Asshole state</text>
 				<text name="ScreenOptions_IfAutoOpenSwell">(If AUTO, in-game situations can open/swell it)</text>
 			<text name="ScreenOptions_Header_ToadCanFuckImm">Toads Able to Fuck her immediatelly</text>
-				<text name="ScreenOptions_IfNoOnlyFuckCommand">(If NO, they will only fuck her by command dialogues)</text>
+				<text name="ScreenOptions_IfNoOnlyFuckCommand">(If NONE, they will only fuck her by command dialogues)</text>
 			<text name="ScreenOptions_Header_Personality">Personality</text>
 				<text name="ScreenOptions_SheDecidesInnocentNymph">She decides: she will act like a nymph over time.\nInnocent: she won\'t be acting like a whore or nymph, even with 80 lays, but this wont cancel her \'whorish\' actions and her whore ending.\nNymph: the opposite.</text>
 			<text name="ScreenOptions_Header_MaximumCum">Макс.кол-во спeрмы:</text>

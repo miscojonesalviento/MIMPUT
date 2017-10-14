@@ -757,6 +757,33 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="5">(*Chupa*) seu cuzinho\n e xaninha SÃO MEUS!</f>
 				<p i="5">Aaahhhh!\nEstou gozando como uma cadela! Que safadeza!</p>
 			</scenes>
+			
+	<!--MORE THAN ONE PRINCESS-->			
+			<scenes scene="princessesGangbang">
+				<p i="1">O que vocês\ngarotas estão fazendo aqui!?</p>
+				<f i="1a">Meu bem, desde\nnossos últimos encontros, estamos ficando...caídas por você...</f>
+				<f i="1b">Por isso nós\ndecidimos curtir bastante juntas!</f>
+				<e i="1c">Nós todas\nestamos mais sexys e molhadinhas!</e>
+				<p i="2">Éee, humm...\nobrigada garotas, eu...acho que não me importaria...</p>
+				<f i="2">Que legal!\nQueremos começar com...um aperitivo...não é, Wendy?</f>
+				<p i="3">Epa, mas...isto\né muito mais do que.....eu......gostei...</p>
+				<f i="3a">Excelente! Agora,\nvenha cá e mostre-nos sua feminilidade, {CHARACTER_NAME}...</f>
+				<p i="4">Estas pirocas\nsão grandes e tesudas, irei me viciar! Estou doida!</p>
+				<f i="4a">Sim, {CHARACTER_NAME},\nisso mesmo! Sua boquinha e mãos me deixam excitada!</f>
+				<f i="4b">Eu... não consigo mais segurar, {CHARACTER_NAME}, preciso de seu cu!</f>
+				<e i="4c">Venha, {CHARACTER_NAME},\ndeixa eu bombar mais, estou doidona!</e>
+				<p i="5">Oh sim! Isto\né o que minhas entranhas precisam! Mais, querida!</p>
+				<f i="5b">Está pronta\npara ter a fodida da sua vida, {CHARACTER_NAME}?</f>
+				<f i="6">Que bucetinha\ncheirosa, pura sexo, querida...</f>
+				<p i="6a">Ahhh\nque tesão...</p>
+				<f i="6b">Oh, Eu\nestou gozando!</f>
+				<e i="6c">Estou\ngozando, PUTA!</e>
+				<f i="6d">Estou\ngozandoo!</f>
+				<p i="7">Oh, garotas,\nvocês são tão doces! Se Mário não estivesse atrás de mim, eu....me doaria todinha, todo dia...</p>
+				<f i="7a">Nós te amamos\ntanto, {CHARACTER_NAME}!</f>
+				<f i="7b">Nós te amamos\ntanto, {CHARACTER_NAME}!</f>
+				<e i="7c">Nós te amamos\ntanto, {CHARACTER_NAME}!</f>
+			</scenes>
 
 	<!--BOBOMBS-->
 			<scenes scene="bobomb1">
@@ -2001,6 +2028,20 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="7">Luigi: Não sei aonde meu mano está. Ele sempre some quando vai comer muito e nunca me chama!</f>
 				<f i="8">Luigi: Além do mais, estou lendo um excelente livro que fiz. O nome é: \'Tocando áreas calientes\'. Você quer ouvir?</f>
 				<p i="9">(ESCOLHA UM NÚMERO)\n1) Sim, por favor! \n2) Não, obrigada!</p>
+			</scenes>			
+			<scenes scene="luigiGloryhole">
+				<p i="1">Oh, esta priva-\nda cheira a...macho! Está me deixando doidona...</p>
+				<f i="1">\nQue barulho foi esse?\nSerá um fantasma!?</f>
+				<p i="2">Ooou! Esta sensação\né tão depravada! Espero que ninguem entre... Não quero parar!</p>
+				<f i="2">\nEspere! Será que está do outro lado? {CHARACTER_NAME}? Masturbando-se?! Uououououououuu!</f>
+				<p i="3">Oh! Alguém está\nna outra privada!? Eu devo ir... mas... quero olhar esse buraco primeiro!</p>
+				<f i="3">\nO que eu estou fazendo? Ela vai gritar e sair correndo!</f>
+				<p i="4">Hummm... Isto\né divino! Esse...pinto me faz lembrar Mário, mas...um pouco diferente.</p>
+				<f i="4">Espere, foi um eng...\nEITA! Uoooueee! Meu pau ficou molhado de repente!</f>
+				<p i="5">\nOooh, chupar esta piroca dão muito tesão! Ahhh! Logo vou gozar!</p>
+				<f i="5">OOOH! Meu pau!\nEstou na fase das nuvens! Ela está sugando meu pinto completamente! Nunca me senti tão bem!</f>
+				<p i="6">Oh, ahhh! Eu\ngozei muito forte! Quero curtir mais, mas... devo ir embora e já!</p>
+				<f i="6">Oooh, isto foi INCRÍVEL!! Será que ela voltará novamente? Estarei por perto!</f>
 			</scenes>			
 			
 			<!--LUIGI BOOKS-->
@@ -3564,6 +3605,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 					<p i="8e">Não sei porquê,\n mas me sinto bem exposta nessa posição!</p>
 				<p i="9">É uma...privada! Mas...está quebrada!</p>
 				<p i="10">(ESCOLHA UM NÚMERO)\n1) Apena sentar  2,3,4,5) Masturbar-se\n6) Fazer xixi (SIM/NÃO)   7) Peidar (pode diminuir barriga)   {NEXTKEY}) Sair</p>
+				<p i="10a">(ESCOLHA UM NÚMERO)\n1) Apena sentar  2,3,4,5) Masturbar-se\n6) Fazer xixi (SIM/NÃO)   7) Avistar o Buraco da Glória    {NEXTKEY}) Sair</p>
 			</scenes>			
 			
 			<scenes scene="dialogueBottle">
@@ -3673,15 +3715,17 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<scenes scene="dialogueBed"> <!--All related to beds-->
 				<p i="1">É minha cama...\n1) Sente-se   2) Use as cortinas</p>
 				<p i="2">Que nojo! Eu terei mesmo que dormir AQUI?</p>
-				<p i="3">(ESCOLHA UM NÚMERO)\n1) Sente-se ou Deite-se\n2) Sair</p>
+				<p i="3">(ESCOLHA UM NÚMERO)\n1) Sente-se ou Deite-se\n{NEXTKEY}) Sair</p>
 				<p i="4">É a cama do Mário!</p>
-				<p i="5">(ESCOLHA UM NÚMERO)\n1) Sente-se\n2) Sair</p>
+				<p i="5">(ESCOLHA UM NÚMERO)\n1) Sente-se\n{NEXTKEY}) Sair</p>
 				<p i="6">É a cama da Toadette...</p>
-				<p i="7">(ESCOLHA UM NÚMERO)\n1) Sente-se\n2) Sair</p>
+				<p i="7">(ESCOLHA UM NÚMERO)\n1) Sente-se\n{NEXTKEY}) Sair</p>
 				<p i="8">(ESCOLHA UM NÚMERO)\n1) Sair</p>
 				<p i="9">(ESCOLHA UM NÚMERO)\n1) Beijar Mário</p>
 				<p i="10">(ESCOLHA UM NÚMERO)\n1) Masturbatar para conseguir dormir</p>
 				<p i="11">(ESCOLHA UM NÚMERO)\n1) Deitar-se</p>
+				<p i="11a">(ESCOLHA UM NÚMERO)\n1) Deitar-se   2) Chamar um Toad</p>
+				<p i="11b">(ESCOLHA UM NÚMERO)\n1) Deitar-se   2) Chamar um Toad    3) Chamar outras Princesas</p>
 				<p i="12">para sentar, ou ESCOLHA UM NÚMERO para escolher</p>
 				<p i="13">(cuidado com toads pestinhas!)</p>
 				<p i="14">(ESCOLHA UM NÚMERO):\n1) Masturbar-se devagar       2) Masturbar-se vigorosamente\n3) Dobrar (ficar de costas) e masturbar-se</p>
@@ -5216,6 +5260,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 					
 				<f i="medal24">FECUNDADINHA: A Princesa é uma doidinha grávida!</f>
 					<f i="desc24">AINDA NÃO FEITO!</f>
+
+				<f i="medal51">FODIDA na PRISÃO: A escravinha!</f>
 					
 				<!--More Later-->
 			</scenes>
@@ -5705,6 +5751,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="CurrentGame">Jogo Atual</text>
 			<text name="QuickWarpToActiveLevel">Teleportar para Fase Ativa</text>
 			<text name="LostHerVirginity">perdeu a Virgindade!</text>
+			<text name="GotGangBangedInPrison">foi fodida por muitos na prisão!</text>
 			
 			<text name="Diary">Diário</text>
 			<text name="MyMushroomDiary">Meu Diário Cogumelo</text>
@@ -5776,8 +5823,10 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="D_PussyFront">Xana Frente</text>
 			<text name="D_Lay">Deitar</text>
 			<text name="D_Butt">Bunda</text>
-			<text name="D_ArmsLegs">Braços/\nPernas</text>
-			<text name="D_FaceHair">Rosto/\nCabelo</text>
+			<text name="D_ArmsLegs">Braço/Perna</text>
+			<text name="D_FaceHair">Rosto</text>
+			<text name="D_LessBelly">Menos Barriga</text>
+			<text name="D_BurnOff">Apag.Fogo</text>
 			
 			<text name="noMorePages">Não há páginas</text>
 			<text name="nextPage">Próxima Página</text>
@@ -5879,7 +5928,17 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="or">ou</text>
 			<text name="YES">SIM</text>
 			<text name="NO">NÃO</text>
+			<text name="ALWAYS">SEMPRE</text>
+			<text name="SOMETIMES">ÀS VEZES</text>
 			<text name="UNAVAIL">DESAB.</text>
+			<text name="ALL">TODOS</text>
+			<text name="AT_EAT">AO COMER</text>
+			<text name="ON_CUMS">GOZADAS</text>
+			<text name="PREGNANT">GRÁVIDA</text>
+			<text name="ALL">TODOS</text>
+			<text name="AT_EAT">EATING</text>
+			<text name="ON_CUMS">ON CUMS</text>
+			<text name="PREGNANT">PREGNANT</text>
 			<text name="NONE">NENHUM</text>
 			<text name="LOW">BAIXO</text>
 			<text name="MEDIUM">MÉDIO</text>
@@ -5887,6 +5946,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="AUTO">AUTOM.</text>
 			<text name="UPDATING">Atualizando...</text>
 	
+			<text name="LOOP10xNext">Repetir 10X</text>
 			<text name="LOOP5xNext">Repetir 5X</text>
 			<text name="LOOP4xNext">Repetir 4X</text>
 			<text name="LOOP3xNext">Repetir 3X</text>
@@ -6276,7 +6336,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_BellyMinMax">Tamanho Barriga</text>
 				<text name="ScreenOptions_CanOnlyIfPregnant">(Só podem desabilitar se não estiver grávida!)</text>
 			<text name="ScreenOptions_Header_ShredBraIf">Sutiãs rasgam se...</text>
-			<text name="ScreenOptions_Header_BellyCanIncrease">Barriga aumentará</text>
+			<text name="ScreenOptions_Header_BellyCanIncrease">Barriga aumentará se...</text>
 			<text name="ScreenOptions_Header_PregnancyChance">Chance de Gravidez</text>
 			<text name="ScreenOptions_Header_NPCBoobBelly">Barriga/Peito NPC</text>
 		<text name="ScreenOptions_Title_EXTRAS">EXTRAS</text>
@@ -6334,7 +6394,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_AssholeState">Estado do cuzinho</text>
 				<text name="ScreenOptions_IfAutoOpenSwell">(Se AUTO, situações no jogo podem fodê-lo!)</text>
 			<text name="ScreenOptions_Header_ToadCanFuckImm">Toads podem fodê-la imediatamente</text>
-				<text name="ScreenOptions_IfNoOnlyFuckCommand">(Se NÃO, só poderão comê-la ao escolher um número)</text>
+				<text name="ScreenOptions_IfNoOnlyFuckCommand">(Se NENHUM, só poderão comê-la ao escolher um número)</text>
 			<text name="ScreenOptions_Header_Personality">Personalidade</text>
 				<text name="ScreenOptions_SheDecidesInnocentNymph">Ela decide: ela vai ficando puta com o tempo.\nInocente: não agirá como uma ninfa/puta, mesmo com 80 cenas ou mais, mas não cancelará sua \'putisse\' quando for o fim do jogo.\nPuta: o oposto.</text>
 			<text name="ScreenOptions_Header_MaximumCum">Quant. de Sêmen:</text>
