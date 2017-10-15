@@ -6189,7 +6189,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOutfit_AssSize">Ра3мeр попы</text>
 			
 	<!--SCREEN: PAUSE-->			
-			<text name="ControlsQWERTY">Controls - QWERTY</text>
 			<text name="ScreenPause_Nice">Nice</text>
 			<text name="ScreenPause_Naughty">Naughty</text>
 			<text name="ScreenPause_General">General</text>
