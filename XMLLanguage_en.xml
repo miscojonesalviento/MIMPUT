@@ -6379,6 +6379,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<text name="ScreenOptions_IfNoUseHerAss">(If NO, she will only use her ass if you force it in dialogues)</text>
 			<text name="ScreenOptions_Header_AssholeState">Asshole state</text>
 				<text name="ScreenOptions_IfAutoOpenSwell">(If AUTO, in-game situations can open/swell it)</text>
+			<text name="ScreenOptions_Header_AssholeSwollenTill">Asshole Swollen Until...</text>
+				<text name="ScreenOptions_DaysForItToBeBack">Days for it to be back to normal</text>
 			<text name="ScreenOptions_Header_ToadCanFuckImm">Toads Able to Fuck her immediatelly</text>
 				<text name="ScreenOptions_IfNoOnlyFuckCommand">(If NONE, they will only fuck her by command dialogues)</text>
 			<text name="ScreenOptions_Header_Personality">Personality</text>

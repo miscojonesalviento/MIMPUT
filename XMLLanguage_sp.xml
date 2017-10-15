@@ -6375,6 +6375,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<text name="ScreenOptions_IfNoUseHerAss">(Se NÃO, ela só poderá usar a bunda quando é informado)</text>
 			<text name="ScreenOptions_Header_AssholeState">Estado do cuzinho</text>
 				<text name="ScreenOptions_IfAutoOpenSwell">(Se AUTO, situações no jogo podem fodê-lo!)</text>
+			<text name="ScreenOptions_Header_AssholeSwollenTill">Cuzinho arreganhado até...</text>
+				<text name="ScreenOptions_DaysForItToBeBack">Dias para o cuzinho voltar ao normal</text>
 			<text name="ScreenOptions_Header_ToadCanFuckImm">Toads podem fodê-la imediatamente</text>
 				<text name="ScreenOptions_IfNoOnlyFuckCommand">(Se NENHUM, só poderão comê-la ao escolher um número)</text>
 			<text name="ScreenOptions_Header_Personality">Personalidade</text>
@@ -6384,7 +6386,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	
 	
 	<!-- HUD-->
-		<text name="HUD1">HUD: cant zoom when not focusing anything!</text>
+		<text name="HUD1">HUD: não pode aproximar/afastar se não ficar em nada primeiro!</text>
 		
 	<!--TIPS (você pode adicionar mais itens abaixo!)-->
 		<text name="tip">DICA: Ao começar uma fase, você pode voltar ao mapa-mundi ao entrar no castelo marrom, porta branca ou ao caminhar para a esquerda!</text>
