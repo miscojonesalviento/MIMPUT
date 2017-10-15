@@ -766,7 +766,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="1b">Por isso nós\ndecidimos curtir bastante juntas!</f>
 				<e i="1c">Nós todas\nestamos mais sexys e molhadinhas!</e>
 				<p i="2">Éee, humm...\nobrigada garotas, eu...acho que não me importaria...</p>
-				<f i="2">Que legal!\nQueremos começar com...um aperitivo...não é, Wendy?</f>
+				<f i="2a">Que legal!\nQueremos começar com...um aperitivo...não é, Wendy?</f>
 				<p i="3">Epa, mas...isto\né muito mais do que.....eu......gostei...</p>
 				<f i="3a">Excelente! Agora,\nvenha cá e mostre-nos sua feminilidade, {CHARACTER_NAME}...</f>
 				<p i="4">Estas pirocas\nsão grandes e tesudas, irei me viciar! Estou doida!</p>
@@ -6186,7 +6186,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOutfit_AssSize">Tam. Bunda</text>
 			
 	<!--SCREEN: PAUSE-->			
-			<text name="ScreenPause_Nice">Normal</text>
+			<text name="ControlsQWERTY">Controles - QWERTY</text>
+			<text name="ScreenPause_Nice">Delicada</text>
 			<text name="ScreenPause_Naughty">Pervertida</text>
 			<text name="ScreenPause_General">Geral</text>
 			<text name="ScreenPause_Header1">Esq/Direita\nPular/Voar/Nadar\nCorrer\nBaixo / Abaixar / Cano\nCIMA / Subir / Porta\nAtacar / Estátua\nPerder Vida\nZoom</text>

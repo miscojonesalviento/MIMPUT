@@ -756,7 +756,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="1b">Por isso nós\ndecidimos curtir bastante juntas!</f>
 				<e i="1c">Nós todas\nestamos mais sexys e molhadinhas!</e>
 				<p i="2">Éee, humm...\nobrigada garotas, eu...acho que não me importaria...</p>
-				<f i="2">Que legal!\nQueremos começar com...um aperitivo...não é, Wendy?</f>
+				<f i="2a">Que legal!\nQueremos começar com...um aperitivo...não é, Wendy?</f>
 				<p i="3">Epa, mas...isto\né muito mais do que.....eu......gostei...</p>
 				<f i="3a">Excelente! Agora,\nvenha cá e mostre-nos sua feminilidade, {CHARACTER_NAME}...</f>
 				<p i="4">Estas pirocas\nsão grandes e tesudas, irei me viciar! Estou doida!</p>
@@ -773,7 +773,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="7">Oh, garotas,\nvocês são tão doces! Se Mário não estivesse atrás de mim, eu....me doaria todinha, todo dia...</p>
 				<f i="7a">Nós te amamos\ntanto, {CHARACTER_NAME}!</f>
 				<f i="7b">Nós te amamos\ntanto, {CHARACTER_NAME}!</f>
-				<e i="7c">Nós te amamos\ntanto, {CHARACTER_NAME}!</f>
+				<e i="7c">Nós te amamos\ntanto, {CHARACTER_NAME}!</e>
 			</scenes>
 
 	<!--BOBOMBS-->
@@ -6172,7 +6172,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOutfit_AssSize">Tamaño del Culo</text>
 			
 	<!--SCREEN: PAUSE-->			
-			<text name="ScreenPause_Nice">Nice, Delicada</text>
+			<text name="ControlsQWERTY">Controles - QWERTY</text>
+			<text name="ScreenPause_Nice">Delicada</text>
 			<text name="ScreenPause_Naughty">Traviesa</text>
 			<text name="ScreenPause_General">General</text>
 			<text name="ScreenPause_Header1">Izquierda/Derecha\nSaltar / Volar / Nadar\nCorrer\nAbajo / Agacharse / Tubo\nArriba / Subir / Puerta\nAtacar / Estatua\nPerder una vida\nZoom</text>

@@ -754,7 +754,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="1b">That is why we\ndecided we want to have some more fun together!</f>
 				<e i="1c">They have\nbeen very sexy and wet</e>
 				<p i="2">Well... thanks\ngirls, I would not mind having some more fun...</p>
-				<f i="2">That\'s great!\nWe are also thinking of adding some... spice.  Wendy?</f>
+				<f i="2a">That\'s great!\nWe are also thinking of adding some... spice.  Wendy?</f>
 				<p i="3">Wow... so this\nis what you meant by spice... I like it.</p>
 				<f i="3a">Excellent! Now,\ncome over here and show us what you got, {CHARACTER_NAME} babe...</f>
 				<p i="4">These dicks are\nso big and hot, I am going to be addicted to them!</p>
@@ -773,7 +773,6 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="7b">We love you\nso much, {CHARACTER_NAME}!</f>
 				<e i="7c">We love you\nso much, {CHARACTER_NAME}!</e>
 			</scenes>
-
 
 	<!--BOBOMBS-->
 			<scenes scene="bobomb1">
@@ -6174,6 +6173,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOutfit_AssSize">Ass Size</text>
 			
 	<!--SCREEN: PAUSE-->			
+			<text name="ControlsQWERTY">Controls - QWERTY</text>
 			<text name="ScreenPause_Nice">Nice</text>
 			<text name="ScreenPause_Naughty">Naughty</text>
 			<text name="ScreenPause_General">General</text>
