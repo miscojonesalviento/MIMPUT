@@ -3328,6 +3328,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="1">Hello, Princess! To use our cannon, you have to get a special key.</f>
 				<f i="2">The sovereign of each palace might have them. You can travel to other worlds that way.</f>
 			</scenes>
+			<scenes scene="dialogueBuddySuck">
+				<f i="1">I am very disappointed! You need to be punished! Knell down!</f>
+				<p i="2">But I....erhm...\nI've thought you were an evil bobomb and...</p>
+				<f i="3">No escuses! Now suck\nmy dick! Or I\'ll tell Toadsworth! Now go!</f>
+				<f i="4">Oh yes....juuuuust like that! Press it with your tender hands more... Oooh!</f>
+				<p i="5">I\'ll rub it firmly\nbetween my boobs...You\'re almost...</p>
+			</scenes>
 
 			<scenes scene="dialogueToad1">
 				<f i="1">Princess....I feel you need my help! You...might have a gaping asshole problem!</f>
@@ -5930,6 +5937,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="HIGH">HIGH</text>
 			<text name="AUTO">AUTO</text>
 			<text name="UPDATING">UPDATING...</text>
+			<text name="YOUGOTPUNISHEDENEMIESFASTER">YOU GOT PUNISHED! ENEMIES ARE NOW FASTER UNTIL THE LEVEL ENDS!</text>
+			<text name="YOUGOTPUNISHEDDIZZY">YOU GOT PUNISHED! YOU GOT DIZZY FOR SOME TIME!</text>
+			<text name="YOUGOTPUNISHEDTIMEPASSED">YOU GOT PUNISHED! 50 SECONDS HAVE PASSED!</text>
+			<text name="YOUGOTPUNISHEDSLIPDOWN">YOU GOT PUNISHED! YOU HAVE SLIPPED DOWN!</text>
 	
 			<text name="LOOP10xNext">Loop 10X then NEXT</text>
 			<text name="LOOP5xNext">Loop 5X then NEXT</text>

@@ -3336,6 +3336,13 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="1">Olá, Princesa! Para usar o canhão, você tem que achar uma chave especial.</f>
 				<f i="2">O rei de cada palácio devem possuir essa chave. Com ela, você pode viajar a outros mundos.</f>
 			</scenes>
+			<scenes scene="dialogueBuddySuck">
+				<f i="1">Estou desapontadíssimo! Você será punida! Ajoelhe-se!</f>
+				<p i="2">Mas eu... É que\nvocê é um bobomb como os outros e....me desculpe...</p>
+				<f i="3">Sem desculpas! Agora\nchupe meu pai! Ou direi a Toadsworth! Vamos!</f>
+				<f i="4">Ah, isso!....Exatamente assim, guria! Bombeie mais com suas doces mãos... Oooh!</f>
+				<p i="5">Irei... esfregar firme\nentre meus peitos...Oh você está quase...</p>
+			</scenes>
 
 			<scenes scene="dialogueToad1">
 				<f i="1">Princesa...Eu sinto que você precisa de ajuda! Você...parece estar com...seu rabinho arregaçado!</f>
@@ -5945,6 +5952,10 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="HIGH">ALTO</text>
 			<text name="AUTO">AUTOM.</text>
 			<text name="UPDATING">Atualizando...</text>
+			<text name="YOUGOTPUNISHEDENEMIESFASTER">VOCÊ FOI PUNIDA! INIMIGOS ESTÃO MAIS RÁPIDOS ATÉ O FIM DA FASE!</text>
+			<text name="YOUGOTPUNISHEDDIZZY">YOU GOT PUNISHED! VOCÊ FICARÁ TONTA POR UM TEMPO!</text>
+			<text name="YOUGOTPUNISHEDTIMEPASSED">YOU GOT PUNISHED! 50 SEGUNDOS SE PASSARAM!</text>
+			<text name="YOUGOTPUNISHEDSLIPDOWN">VOCÊ FOI PUNIDA! VOCÊ ESCORREGOU!</text>
 	
 			<text name="LOOP10xNext">Repetir 10X</text>
 			<text name="LOOP5xNext">Repetir 5X</text>
