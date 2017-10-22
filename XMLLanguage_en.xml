@@ -4309,7 +4309,11 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 					<p i="toadStolenKey8a">(CHOOSE A NUMBER)\n1) Help me remove it!\n2) Leave</p>
 				<f i="toadStolenKey9">Good luck in your Quest!</f>
 				<f i="toadStolenKey10">Toad: Thank you very much!! The doors are now unlocked!</f>
-				<f i="toadStolenKey11">Toad: Nothing yet, princess? Can\'t you find him? Keep searching!</f>
+				<f i="toadStolenKey10a">Toad: I SAW IT! You fucked him instead! You\'re a slut, Princess! Now you got me hard down there! No one can see my junior like that! Let me fix that. Then I\'ll unlock the doors.</f>
+				<f i="toadStolenKey11a">Toad: I SAW IT! You killed him!!! Oh, I am sooooo sad!</f>
+					<p i="toadStolenKey11b">(CHOOSE A NUMBER)\n1) oh I... I am sorry...Please give me another chance! \n2) I haven\'t killed him!</p>
+					<f i="toadStolenKey11c">Toad: You are lying to me! Now I want something...You will play with my dick! Or I\'ll tell Toadsworth! Then I\'ll unlock the doors.</f>
+				<f i="toadStolenKey12">Toad: Nothing yet, princess? Can\'t you find him? Keep searching!</f>
 			</scenes>
 
 			<scenes scene="level1-4">

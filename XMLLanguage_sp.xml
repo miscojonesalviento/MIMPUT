@@ -4305,9 +4305,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="toadStolenKey7">But Princess, I ... I need to do something, I will be quick, I swear!</f>
 				<f i="toadStolenKey8">Toad: Thank you Princess! But....errr....the key is stuck in your...</f>
 					<p i="toadStolenKey8a">(ESCOLHA UM NÚMERO)\n1) Ajude-me a retirar!\n2) Sair</p>
-				<f i="toadStolenKey9">Good luck in your Quest!</f>
-				<f i="toadStolenKey10">Toad: Thank you very much!! The doors are now unlocked!</f>
-				<f i="toadStolenKey11">Toad: Nothing yet, princess? Didn\'t you find him? Try searching more!</f>
+				<f i="toadStolenKey9">Boa sorte em sua busca!</f>
+				<f i="toadStolenKey10">Toad: Obrigado de verdade! As portas estão agora destrancadas!</f>
+				<f i="toadStolenKey10a">Toad: EU VI! Você teve relações com ele! Você é uma puta, Princesa! Droga, estou de pau duro! Ninguém pode ver isso! Fique aí! Depois destranco as portas!</f>
+				<f i="toadStolenKey11a">Toad: EU VI! Você nocauteou-o! Agora fiquei muito triste!</f>
+					<p i="toadStolenKey11b">(ESCOLHA UM NÚMERO)\n1) Oh, me desculpe...me dê uma nova chance! \n2) Eu não fiz nada com ele!</p>
+					<f i="toadStolenKey11c">Toad: Você está mentindo! Eu quero uma coisa de você...Quero você no meu pau! Ou direi tudo ao Toadsworth! Daí posso destrancar as portas!</f>
+				<f i="toadStolenKey12">Toad: Nada ainda, princesa? Você não os achou? Tente procurar mais!</f>
 			</scenes>			
 
 			<scenes scene="level1-4">
