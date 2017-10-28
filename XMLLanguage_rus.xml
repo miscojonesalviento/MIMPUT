@@ -1955,7 +1955,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 	<!--LUMAs (star-like creatures from SUPER MARIO GALAXY)-->
 			<scenes scene="luma">
-				<f i="1">What do you want to do with your \'mommy\'? \n1) Suck her boobies  2) Suck her pussy \n3) Go away</f>
+				<f i="1">What do you want to do with your \'mommy\'? \n1) Suck her boobies  2) Suck her pussy \n3) Gangbang!  {NEXTKEY}) Go away</f>
 			</scenes>			
 			<scenes scene="luma1">
 				<p i="1">Oh so are you\nHungry? But....let\'s do this elsewhere...</p>
@@ -2296,6 +2296,51 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="6">Aaaaaaaaahh!\nNoooooo! It\'s..... tooooo much...</p>
 			</scenes>			
 
+		<!--BOSS - BOWSER JR-->
+			<scenes scene="bowserJr1">
+				<e i="1">You're my Mama\nno matter what they say! Fuck me, Mama!</e>
+				<p i="1">Of course I'm your mama! Now get ready for the mother fucking of your life!</p>
+				<e i="1a">I can't believe\nyou're in jail, Mama! And the only way out is to fuck me!</e>
+				<p i="1a">Um, sorry,\nBowser Jr. I'm still a virgin. I can't be your mother.</p>
+				<e i="1b">Mama?\nIs it really you? Are you really my mama?</e>
+				<p i="1b">Oh my! I don't\nthink I should say. Your big hard cock tells me it doesn't matter!</p>
+				<e i="2">Mama? Is this\na joke? Shouldn't you be trying to stop me?</e>
+				<p i="2">Of course I won't\nstop you! I can't wait to taste my little guy's big dick!</p>
+				<e i="2a">You just ate a magic fruit to get your cherry back, and I'm gonna pop it now!</e>
+				<p i="2a">I never! Anyway, couldn't you maybe let me go free with just this, pretty please?</p>
+				<e i="2b">You're right! I'm gonna fuck you like my mama! Because you are!</e>
+				<p i="2b">That's--some spirit?\nBut, you have to let me go after this, alright? Just one fuck!</p>
+				<e i="3">\nTake it Mama!</e>
+				<e i="3a">\nNo way!</e>
+				<e i="3b">\nEven just once--!</e>
+				<e i="4">Oh! Your pussy\nis so hot and wet! I just want to fuck\nyou, Mama!</e>
+				<p i="4">Oooh, yeah!\nFuck mommy with\nyour big, hard cock!</p>
+				<e i="4a">Ooh, fuck my\ncock! Your hot pussy is so tight on my dick!</e>
+				<p i="4a">Ngh! So big!\nMy pussy can't take much more, but it feels so good!</p>
+				<e i="4b">Wow! Your pussy\nis so hot, mama! I'll never stop fucking you!</e>
+				<p i="4b">Oooh! Your dick's already so deep! I'm going cross-eyed from the pleasure!</p>
+				<e i="5">Mama! Mama!\nOh fuck! So good! I'm gonna cum soon!</e>
+				<p i="5">Fuck me, baby! Fuck your mama hard and deep! I'm gonna cum\non my son's cock!</p>
+				<e i="5a">Fuck me!\nI'm gonna cum soon! Your pussy is too good!</e>
+				<p i="5a">Oooh! I can't believe\nI'm about to cum already! Bowser Jr., I love your dick!</p>
+				<e i="5b">Fuck, mama!\nI can't stop fucking! I'm gonna cum soon!</e>
+				<p i="5b">Mhmm! Fuck!\nYes! Fuck me hard!\nYour big cock is gonna\nmake me cum!</p>
+				<e i="6">Take my cum,\nmama! Take it all! I'm gonna fill you with cum!</e>
+				<p i="6">Oh yes!\nCum inside your mommy's pussy! Make your mama cum!</p>
+				<e i="6a">Fuuuck!\nI'm gonna cum!\nGonna cum inside\nyour pussy!</e>
+				<p i="6a">Aaah! Fuck me,\nJunior! Fuck! I'm about to cum!</p>
+				<e i="6b">I'm gonna cum\ninside you, mama! Take all my cum!</e>
+				<p i="6b">This boy's cock\nis too good!\nI'm gonna cum!\nFill my pussy!!</p>
+				<e i="7">\nFuuuuck!!</e>
+				<p i="7">\nI'm cumming!!</p>
+				<e i="8">Mama! I'm still cumming! I'm filling your pussy with my cum!</e>
+				<p i="8">Ooooh! Mommy\ncan't stop cumming from your hot cum! Ooh yeah! Sooo good!</p>
+				<e i="8a">Oh! Oooh!\nPrincess! I can't stop cumming! Your pussy is too good!</e>
+				<p i="8a">Ooooh! Yes!\nOh, I came so hard! Keep fucking me!</p>
+				<e i="8b">I don't care if\nyou're my mama! I can't stop cumming\ninside you!</e>
+				<p i="8b">Ooooh! Fuck me!\nYour cock is too good, Junior! I love your hot cum inside me!</p>
+			</scenes>			
+
 	<!--BOSS - Koopaling Larry-->
 			<!--Generally, those a,b,c for boss scenes are for normal and nymph Peach, but it can also refer to ass being swollen or other variable. Well, its only a matter to translate trying to guess the context-->
 			<scenes scene="koopalingLarry1">
@@ -2317,7 +2362,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<e i="3a">Really? Can I\ntouch your pussy, too?</e>
 				<p i="3b">Let\'s start\nwith some foreplay. I\'ll stroke yours and you stroke mine. Sound good?</p>
 				<e i="3b">Oh yes! I\'m finally gonna get to fuck a woman!! Uh, how should I start?</e>
-				<p i="4">Oh my! That\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
+				<p i="4">Oh my!\nThat\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
 				<e i="4">I wonder what the inside of a woman feels like?</e>
 				<p i="4a">Whoa! Ease up there, big boy! It feels like you\'re putting a dick in me already!</p>
 				<e i="4a">Oh! So this is what a pussy feels like!</e>
@@ -2422,7 +2467,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<e i="3b">Not so fast, Princess. Unlike my siblings, I\'m not desperate for a fuck. I already get plenty of pussy.</e>
 				<p i="3b">\nI bet you trick your own students into it, but that\'s okay. You won\'t need to trick this student.</p>
 				<e i="4">Let\'s start by getting\nyou naked. Take off your clothes, and the class can begin.</e>
-				<p i="4">Oh my! That\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
+				<p i="4">Oh my!\nThat\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
 				<e i="4a">Underestimate naked yoga\nat your peril. Getting through my class will require hard...work!</e>
 				<p i="4a">\n\nDon\'t you worry. I\'ll show you what a princess is capable of.</p>
 				<e i="4b">Well, I suppose I\'d fulfill\na childhood dream to go down on THE Princess!</e>
@@ -2513,7 +2558,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="23a">\nSo tasty! Oh, you\'ve lost it already? Well, at least your dick is still working!</p>
 				<p i="23b">\nOops! I guess you\'re broken already? Well, at least your dick is still working!</p>
 				<e i="24">\nOooh! I love, unh, the way your dick, ooh, slams into me every time we bounce! Agh!</e>
-				<e i="25">\n\nYou\'re tough! I am losing my breath!</e>
+				<e i="25">\nYou\'re tough! I am losing my breath!</e>
 				<p i="25">\n\nUnf, unf! I\'m gonna cum again! Fuck me harder, Iggy!</p>
 				<p i="26">\n\nCame so hard! I just want to keep fucking and fucking and fucking!</p>
 				<e i="26">Unhh. What? Where\nam I? Why am I on the floor? Did I pass ou-oh no! You\'re still here, Princess!?</e>

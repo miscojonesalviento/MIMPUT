@@ -1941,7 +1941,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 	<!--LUMAs (star-like creatures from SUPER MARIO GALAXY)-->
 			<scenes scene="luma">
-				<f i="1">What do you want to do with your \'mommy\'? \n1) Suck her boobies  2) Suck her pussy \n3) Go away</f>
+				<f i="1">O que você quer fazer com sua \'mamãe\'? \n1) Mamar nos peitinhos  2) Chupar a vagina \n3) Putaria geral!  {NEXTKEY}) Deixe-a ir</f>
 			</scenes>			
 			<scenes scene="luma1">
 				<p i="1">Oh so are you\nHungry? But....let\'s do this elsewhere...</p>
@@ -2282,6 +2282,51 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="6">Aaaaaaaaahh!\nNoooooo! It\'s..... tooooo much...</p>
 			</scenes>			
 
+	<!--BOSS - BOWSER JR-->
+			<scenes scene="bowserJr1">
+				<e i="1">Você é minha\nmamãe! Não importa o que digam! Vou te comer, mãe!</e>
+				<p i="1">Claro que sou sua mãe! Esteja pronto para a fodida de sua vida!</p>
+				<e i="1a">Não acredito\nque veio parar nessa prisão, mãe! Mas olha só! A única maneira de sair é fodendo!</e>
+				<p i="1a">Ummm, desculpa,\nBowser Jr. Ainda sou virgem! Não posso brincar de ser sua mãe.</p>
+				<e i="1b">Mamãe?\nÉ você? Você é a minha mãe?</e>
+				<p i="1b">Nossa! Não sei\no que dizer... sua pirocona dura me diz que isso não importa!</p>
+				<e i="2">Mamãe? Isto é\numa piada? Não deveria estar me dando uma peia?</e>
+				<p i="2">Claro que não\nvou pará-lo, bobinho! Não posso esperar para engolir isso aí tudo!</p>
+				<e i="2a">Você acabou de comer uma fruta mágica que abrirá a sua bocetinha! Irei rompê-la agora!</e>
+				<p i="2a">Ai...nunca! Você pode ao menos me deixar livre com minha xaninha intacta, por favor?</p>
+				<e i="2b">Você está certa! Irei comê-la como uma mãe! Porque você é uma!</e>
+				<p i="2b">Isto é...algum\nafrodisíaco? Ahhh...Mas...deixe-me ir embora depois dessa foda, tá bem?</p>
+				<e i="3">\nTome isso, mamãe!</e>
+				<e i="3a">\nIsso não!</e>
+				<e i="3b">\nAo menos uma vez!</e>
+				<e i="4">Oh! Seu gre-\nlhinho é tão quente e molhado! Quero fodê-lo mais, mamãe!</e>
+				<p i="4">Oooh, sim!\nFoda sua mamãe com sua trolha gigante! Enfia tudo! Ahh!</p>
+				<e i="4a">Ooh, toma\nmeu pau duro! Sua boceta tesuda está bem apertadinha!</e>
+				<p i="4a">Nhiáa! É grande!\nMinha xana não aguenta nem mais um centímetro! Mas é tão bom!</p>
+				<e i="4b">Uau! Sua xana\nestá taradíssima, mamãe! Não vou parar de fodê-la!</e>
+				<p i="4b">Oooh! Seu pau já está totalmente lá dentro! Vou acabar vesga de tanto prazer!</p>
+				<e i="5">Mamãe! Eita mãe!\nOh merda! Isso é bom demais! Vou gozar!</e>
+				<p i="5">Foda-me, bebê! Foda sua mãe lá dentro! Eu...vou gozar\nno pinto de meu filhão!</p>
+				<e i="5a">Foda-me!\nIrei gozar logo, mãe! Sua buceta é bom demais!</e>
+				<p i="5a">Oooh! Não acredito\nque irei gozar feito louca! Bowser Jr, eu AMO tua piroca!</p>
+				<e i="5b">Merda, mamãe!\nNão consigo parar de te comer! Vou gozar demais!</e>
+				<p i="5b">Mhmm! Aaai!\nSIM! Foda-me assim! Ritmado! Sua pirocona vai me fazer explodir de prazer!</p>
+				<e i="6">Receba minha\nporra, mãe! Toma tudo! Irei entupí-la de sêmen quente e melado!</e>
+				<p i="6">Oh SIM!\nGoze dentro da bucetona de mamãe! Faça sua mãe gozar!</p>
+				<e i="6a">Meeeerda!\nEstou gozando!\nNão dá para sacar fora, vai entrar tudo, Ooofh!!</e>
+				<p i="6a">Aaah! Enfia mais,\nJunior! Falta pouco para eu derreter!</p>
+				<e i="6b">Vou gozar\nlá dentro, mamãe. Toma minha porrona!</e>
+				<p i="6b">O pinto desse\ngaroto é tão bom! Vou gozar! Vou gozar todinha!!</p>
+				<e i="7">\nMeeeeerda!!</e>
+				<p i="7">\nGOZEI!!</p>
+				<e i="8">Mamãe! Estou ainda gozando! Não cabe mais porra na sua bocetona!</e>
+				<p i="8">Ooooh! Mamãe\nnão pode parar de gozar, que porra quente! Ahhhhh, Uuui que gostoso! Oh!</p>
+				<e i="8a">Oh! Oooh!\nPrincesa! Não consigo parar! Sua boceta me abraça ainda forte!</e>
+				<p i="8a">Ooooh! SIM!\nOu, eu gozei taaaanto! Continue me fodendo, tenho mais!</p>
+				<e i="8b">Não me importo\nmais se você é mesmo minha mãe. Não quero PARAR de gozar dentro!</e>
+				<p i="8b">Ooooh! Não para!\nSua piroca é divina, Junior! Eu amo essa porra melequenta! Aaaah!</p>
+			</scenes>			
+			
 	<!--BOSS - Koopaling Larry-->
 			<!--Generally, those a,b,c for boss scenes are for normal and nymph Peach, but it can also refer to ass being swollen or other variable. Well, its only a matter to translate trying to guess the context-->
 			<scenes scene="koopalingLarry1">
@@ -2303,7 +2348,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<e i="3a">Really? Can I\ntouch your pussy, too?</e>
 				<p i="3b">Let\'s start\nwith some foreplay. I\'ll stroke yours and you stroke mine. Sound good?</p>
 				<e i="3b">Oh yes! I\'m finally gonna get to fuck a woman!! Uh, how should I start?</e>
-				<p i="4">Oh my! That\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
+				<p i="4">Oh my!\nThat\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
 				<e i="4">I wonder what the inside of a woman feels like?</e>
 				<p i="4a">Whoa! Ease up there, big boy! It feels like you\'re putting a dick in me already!</p>
 				<e i="4a">Oh! So this is what a pussy feels like!</e>
@@ -2408,7 +2453,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<e i="3b">Not so fast, Princess. Unlike my siblings, I\'m not desperate for a fuck. I already get plenty of pussy.</e>
 				<p i="3b">\nI bet you trick your own students into it, but that\'s okay. You won\'t need to trick this student.</p>
 				<e i="4">Let\'s start by getting\nyou naked. Take off your clothes, and the class can begin.</e>
-				<p i="4">Oh my! That\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
+				<p i="4">Oh my!\nThat\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
 				<e i="4a">Underestimate naked yoga\nat your peril. Getting through my class will require hard...work!</e>
 				<p i="4a">\n\nDon\'t you worry. I\'ll show you what a princess is capable of.</p>
 				<e i="4b">Well, I suppose I\'d fulfill\na childhood dream to go down on THE Princess!</e>
@@ -2499,7 +2544,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="23a">\nSo tasty! Oh, you\'ve lost it already? Well, at least your dick is still working!</p>
 				<p i="23b">\nOops! I guess you\'re broken already? Well, at least your dick is still working!</p>
 				<e i="24">\nOooh! I love, unh, the way your dick, ooh, slams into me every time we bounce! Agh!</e>
-				<e i="25">\n\nYou\'re tough! I am losing my breath!</e>
+				<e i="25">\nYou\'re tough! I am losing my breath!</e>
 				<p i="25">\n\nUnf, unf! I\'m gonna cum again! Fuck me harder, Iggy!</p>
 				<p i="26">\n\nCame so hard! I just want to keep fucking and fucking and fucking!</p>
 				<e i="26">Unhh. What? Where\nam I? Why am I on the floor? Did I pass ou-oh no! You\'re still here, Princess!?</e>
