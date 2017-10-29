@@ -17,13 +17,13 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 - Por favor NÃO mude o nome das variáveis, como <p i="1teste"> ao invés de <p i="1">, e não tente criar novos, como <p i="40">, 41, 42...Não vai funcionar. Exceto áreas especiais como TIPS (você pode colocar ou remover itens)
 - E não mude o conteúdo entre chaves ({ } ), ou não vai funcionar. 
 - Se ocorrer algum erro (como alguma tela ou palavra esperada não esteja neste XML), ou se a tradução de alguma palavra como LOOK para OLHAR faz o texto ficar cortado ou a palavra sumir, me avise no LEGEND OF KRYSTAL FORUMS (sou o ivanaedler - Ivan-Aedler).
- Mas lembre-se de que algumas áreas não foram ainda trazidas para este XML. Não se preocupe caso voce traduza e eu venha com um XML atualizado. O que vai mudar é a colocação de novas entradas, daí é so a galera traduzir o que falta.
+ Não se preocupe caso voce traduza e eu venha com um XML atualizado. O que vai mudar é a colocação de novas entradas aqui em inglês, daí é so a galera traduzir o que falta.
  
- - Ah, e claro! Usem o GITHUB (https://github.com/ivanaedler/MIMPUT). Vocês poderão fazer pull requests, e eu vou atualizando o XML lá no GITHUB, assim todos terão a versão mais recente. Versões melhores podem ser votadas e postas no GITHUB, e poderemos ter versões alternativas, c
+ - Ah, e claro! Usem o GITHUB (https://github.com/ivanaedler/MIMPUT). Vocês poderão fazer pull requests, e eu vou atualizando o XML lá no GITHUB, assim todos terão a versão mais recente. Versões melhores podem ser votadas e postadas no GITHUB, e poderemos ter versões alternativas, c
  omo XMLLanguage_pt.xml, XMLLanguage_pt2.xml, XMLLanguage_brMELHOR.xml, etc. Não há problemas em ter versões diferentes por lá. 
  
  - Há regionalismos. Ex: Uso 'buceta' ao invés de 'boceta' de propósito, porque é um termo mais sexy ainda em mtos locais do Brasil. E uso 'racha' porque tem sentido de vagina no sul do país, e é bom para variar os nomes e deixar mais formal. E outros exemplos. 
-  (Sinônimos: periquita, priquita, pepeca, tchebs, perereca, pitchulinha, perseguida, procurada, xereca, pombinha, xana, racha, grelho, grelhinho) 
+  (Sinônimos: periquita, buça, priquita, pepeca, tchebs, perereca, pitchulinha, perseguida, procurada, xereca, pombinha, xana, racha, grelho, grelhinho) 
  
  - Fui! Saudações aos brazukas! ;) 
 -->
@@ -2310,7 +2310,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<e i="3b">\nAo menos uma vez!</e>
 				<e i="4">Oh! Seu gre-\nlhinho é tão quente e molhado! Quero fodê-lo mais, mamãe!</e>
 				<p i="4">Oooh, sim!\nFoda sua mamãe com sua trolha gigante! Enfia tudo! Ahh!</p>
-				<e i="4a">Ooh, toma\nmeu pau duro! Sua boceta tesuda está bem apertadinha!</e>
+				<e i="4a">Ooh, toma\nmeu pau duro! Sua buceta tesuda está bem apertadinha!</e>
 				<p i="4a">Nhiáa! É grande!\nMinha xana não aguenta nem mais um centímetro! Mas é tão bom!</p>
 				<e i="4b">Uau! Sua xana\nestá taradíssima, mamãe! Não vou parar de fodê-la!</e>
 				<p i="4b">Oooh! Seu pau já está totalmente lá dentro! Vou acabar vesga de tanto prazer!</p>
@@ -2330,7 +2330,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="7">\nGOZEI!!</p>
 				<e i="8">Mamãe! Estou ainda gozando! Não cabe mais porra na sua bocetona!</e>
 				<p i="8">Ooooh! Mamãe\nnão pode parar de gozar, que porra quente! Ahhhhh, Uuui que gostoso! Oh!</p>
-				<e i="8a">Oh! Oooh!\nPrincesa! Não consigo parar! Sua boceta me abraça ainda forte!</e>
+				<e i="8a">Oh! Oooh!\nPrincesa! Não consigo parar! Sua buceta me abraça ainda forte!</e>
 				<p i="8a">Ooooh! SIM!\nOu, eu gozei taaaanto! Continue me fodendo, tenho mais!</p>
 				<e i="8b">Não me importo\nmais se você é mesmo minha mãe. Não quero PARAR de gozar dentro!</e>
 				<p i="8b">Ooooh! Não para!\nSua piroca é divina, Junior! Eu amo essa porra melequenta! Aaaah!</p>
