@@ -24,11 +24,11 @@ Enjoy!
 -->
 
 		<game>
-			<lang>Francais</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
+			<lang>Français</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
 			
 	<!--TOADS-->
 			<scenes scene="toad1"> 
-				<p i="1">Personne ne vois\nca. Elles SONT si gouteuses, hmmm...</p>
+				<p i="1">Personne ne nous vois. Elles EST si gouteuses, hmmm...</p>
 				<p i="2">Mwa! Mm! Oh,\nc\'est encore plus gouteux maintenant!</p>
 				<p i="3">Oh non! Il a mit\ntoute sa creme sur mes cheveux! Mais ces boules sont si bonnes...</p>
 			</scenes>
@@ -55,7 +55,7 @@ Enjoy!
 			<scenes scene="toad3">
 				<p i="1">Je ne peux pas croire que\nje fais ca! Mais, wow! C\'est si doux, mais chaud.</p>
 				<p i="2">Wow! Ta\nbite est vraiment chaude!</p>
-				<p i="3">Jeez! Combien de temps\n tu peux tenir?</p>
+				<p i="3">Alor! Combien de temps\n tu peux tenir?</p>
 				<p i="4">Oh mon dieu! Tellement de\nvolume!</p>
 			</scenes>
 			<scenes scene="toad4">
@@ -73,11 +73,11 @@ Enjoy!
 				<p i="4">Oh, quel accident! J\'espere qu\'il ne va pas en demander plus!</p>
 			</scenes>
 			<scenes scene="toad6">
-				<p i="1">Ou est-ce\nqu\'il va?</p>
+				<p i="1">Ou est-ce\nqu\'il ne va pas?</p>
 				<p i="1a">Toad...que\nveux-tu f...?</p>
-				<p i="1b">Est-ce que tu vas\napporter quelque chose pour moi?</p>
+				<p i="1b">Est-ce que tu vas\na apporter pour moi?</p>
 				<p i="2">Hey, qu\'est-ce que\ntu fais...</p>
-				<p i="2a">Est-ce que tu\nessaies de...</p>
+				<p i="2a">Est-ce que tu\nn\'éssairait pas de...</p>
 				<p i="2b">Il y a\nquelque chose que tu dois faire avec moi?</p>
 				<p i="3">Ohh, il\nbaise mon cul si....tendrement.</p>
 				<p i="3a">Ahhh je pourrais\netre dans cette pose pour toujours...♥</p>
@@ -85,30 +85,30 @@ Enjoy!
 				<p i="3c">C\'est comme...\nfaire un gateau! Dans mon cul! ♥</p>
 				<p i="3d">Il me baise\n...Il baise mon cul!</p>
 				<p i="4">Ahhh...le\ngateau va etre pret! Hmm!</p>
-				<p i="4a">Si quelqu\'un est\ndevant moi, je vais tenter de, oooh, te deguiser.</p>
+				<p i="4a">Si quelqu\'un viens\ndevant moi, je vais tenter de, oooh, te camouflé.</p>
 				<p i="4b">Ahhh, continue de\nm\'enfoncer, s\'il te plait! T\'es si mignon! Ahh!</p>
 				<p i="4c">Je t\'adores, Ohhh,\n Toad! ♥ Yay, tu me rends excitee et joyeuse!</p>
-				<p i="4d">C\'est une banane\ndelicieuse, Ahhhh, va en haut et en bas, haut, bas!</p>
+				<p i="4d">C\'est une banane\ndelicieuse, Ahhhh,elle va en haut puis en bas, haut, bas!</p>
 				<p i="5">\nAhhhh tellement de\nsperme! ♥</p>
-				<p i="5a">\nIl me remplit\navec son mashmallow!</p>
+				<p i="5a">\nIl me remplit\navec sa semance!</p>
 				<p i="5b">\nJe me fais remplir\nde sperme chaud! ♥ Je ne peux pas me concentrer!</p>
 				<p i="5c">\nJe me sens...etourdie, oooohh, c\'est trop!</p>
 				<p i="5d">\nS\'il te plait, oooh, sors la, sors la, nooon!</p>
 			</scenes>
 			<scenes scene="toad7">
-				<p i="1">Ce footjob\nchatouille, et le masseur du haut est bon!</p>
-				<p i="2">Maintenant je le sens!\n Ce masseur est tout de meme sec. Je me demande s\'ils ont de la lotion?</p>
+				<p i="1">Ce masseur de pied me chatouille, et le masseur du haut est bon!</p>
+				<p i="2">Maintenant je le sens!\n Ce masseur est tout sec. Je me demande s\'ils ont de la lotion?</p>
 				<p i="3">Ooh! C\'est\nbeaucoup de lotion! Hey, attend! Tu vas la mettre dedans?</p>
 			</scenes>
 			<scenes scene="toad8">
-				<p i="1">Je pense que\nj\'attends maintenant?</p>
+				<p i="1">Je pense que\nje devrais attendre maintenant.Il veux surrement me donner quelque chose?</p>
 				<p i="2">*gulp* Wow!\nC\'est une fontaine! Et c\'est bon en plus!</p>
 			</scenes>
 			<scenes scene="toad9">
-				<p i="1">Je devrais etre rapide!\nOoh! My cul est bizarre! Si plein!</p>
-				<p i="2">Je me sens SAUVAGE quand\nje suis dans cette position! C\'est vraiment bon! Je pense que je vais...</p>
-				<p i="3">JOUIIIR!! Oh\noui! Je jouis tellement! Il l\'a laissee ici!</p>
-				<p i="4">Mon cut est\nhors-service... oooh... Je suis si fatiguee. Je dois me reposer un peu...</p>
+				<p i="1">Je doit etre rapide!\nOoh! Mon cul est bizarre! Si plein!</p>
+				<p i="2">Je me sens SAUVAGE quand je suis dans cette position! C\'est vraiment bon! Je pense que je vais...</p>
+				<p i="3">JOUIIIR!! Oh\noui! Je jouis tellement!</p>
+				<p i="4">Mon cut est hors-service... oooh... Je suis si fatiguee. Je dois me reposer un peu...</p>
 			</scenes>
 			<scenes scene="toad10">
 				<p i="1">Etrange position de massage, mais c\'est un expert!</p>
@@ -116,12 +116,12 @@ Enjoy!
 				<p i="3">Pourquoi mon derriere est\nmouille? Hey! Qu\'est-ce que tu as fait?</p>
 				<p i="4">Whaaa?? Hey!!\nTu...Ohhh...Tu l\'as mise dans ma chatte!</p>
 				<p i="4a">NooooN! Aahh!\nTu es en train... de baiser ma chatte!</p>
-				<p i="5">Hey! Vas-tu me\nmasser autre part?</p>
+				<p i="5">Hey! J\'éspere que\nca ne me coutera pas tros chers</p>
 			</scenes>
 			<scenes scene="toad11">
-				<p i="1">Whew! Cette bite est presque\nallee dedans--oh! Son massage du penis me fait sentir bizarre en bas!</p>
+				<p i="1">Ouf! Cette bite est presque\nallee dedans-oh! Son massage du penis me fait sentir bizarre vres le bas!</p>
 				<p i="2">Est-ce que tu vas\nme masser autre part...plus tard?</p>
-				<p i="3">Whew. C\'etait...\nun superbe massage. Mais il a mit sa lotion trop tard!</p>
+				<p i="3">Ouf. C\'etait...\nun superbe massage. Mais il a mit sa lotion trop tard!</p>
 				<p i="4">Hey!! Tu as\ninsere ta bite dans ma chatte!</p>
 				<p i="4a">Aaahhh!! Tu l\'as\nmise dedans!! Oohh, enleve la!</p>
 				<p i="5">Oh, noon!!\nJe jouis telleeeement! Aaah!</p>
@@ -134,8 +134,8 @@ Enjoy!
 				<p i="2a">Est-ce que tu\nessaies de...Ooooh!</p>
 				<p i="2b">Ooooh, trop tard!\nil me doigte la chatte si fort! j\'adore!</p>
 				<p i="3">Ohh, il me\ndoigte ma fente, je suis excitee!</p>
-				<p i="3a">Ahhh je pourrais\netre dans cette pose pour toujours...♥</p>
-				<p i="3b">J\'espere que\npersonne ne regarde...c\'est comme m\'embrasser...</p>
+				<p i="3a">Ahhh je pourrais\netre dans cette pose toute ma vie...♥</p>
+				<p i="3b">J\'espere que\npersonne ne regarde...c\'est embarasant...</p>
 				<p i="4">\nAhhhh je jouis\nsur ses mains!!</p>
 			</scenes>
 			<scenes scene="toad13">
@@ -148,43 +148,43 @@ Enjoy!
 				<p i="7">\nOh! On dirait qu\'il aime ca! Je ferais mieux d\'y mettre plus d\'efforts!</p>
 			</scenes>
 			<scenes scene="toad14">
-				<p i="1">Ack! Ou est-ce que\ntu penses lecher? Ooh, c\'est si bon!</p>
+				<p i="1">Ack! Ou est-ce que\ntu est en train de lecher? Ooh, c\'est si bon!</p>
 				<p i="2">Ah! Ah! Yes!\nJe vais bientot jouir! Continue de lecher ma chatte!</p>
-				<p i="3">Jouir!\nJOUIR! Aaaagh! OUI! Ha. Ha. SI BON!</p>
+				<p i="3">Je Jouilllee!\nAaaagh! OUI! Ha. Ha.C\'EST SI BON!</p>
 			</scenes>
 			<scenes scene="toad15">
 				<p i="1">\nAh! Mes nichons! Il les suce comme un bebe!</p>
-				<p i="2">\nWhew! Je vais jouir qu\'en ayant mes nichons suces!</p>
-				<p i="3">\nAhhh! Je jouis! Mes nichons sont en lactation aussi!</p>
+				<p i="2">\nOuf! Je vais jouir pendant qu\'il suce mes nichons!</p>
+				<p i="3">\nAhhh! Je jouilllle! Mes nichons sont plein de lait aussi!</p>
 			</scenes>
 			<scenes scene="toad16">
-				<p i="1">Mmph! C\'est bientot\ndans ma gorge! Et maintenant ma chatte est toute bizarre a cause de sa langue!</p>
+				<p i="1">Mmph! C\'est dans ma gorge! Et maintenant ma chatte est c\'est toute bizarre a cause de sa langue!</p>
 				<p i="2">Ah! Ah! Sa langue\nme leche comme une glace! Mnnnmph!</p>
 				<p i="3">Oh oui! Je\njouis! Jouis dans ma bouche! Ah! c\'est si bon!</p>
 			</scenes>
 			<scenes scene="toad17">
 				<p i="1">Toad! Tu es en train...\nde jouer avec mon gros cul! Je suis...excitee!</p>
 				<p i="2">Ok laisse-moi caresser...\nta chose. Ooooh! J\'ai envie de doigter mon anus ...</p>
-				<p i="3">Whew! Il jouis\ndes tonnes de semance! Ce serait mieux de lecher tout ca. Ce serait du gachis sinon!</p>
+				<p i="3">Ouf! Il jouis\ndes tonnes de semance! Ce serait mieux de lecher tout ca. Ce serait du gachis sinon!</p>
 			</scenes>
 			<scenes scene="toad18">
 				<p i="1">Whoops!\nJe ferais mieux d\'etre plus attentive! C\'est presque rentre dedans!</p>
-				<p i="2">Maintenant, je vais juste frotter\nla pointe--oups! Ca a presque glisse! Aahh.. Imagine l\'embarras de ce petit gars!</p>
+				<p i="2">Maintenant, je vais juste frotter\nla pointe-oups! Ca a presque glisse! Aahh.Imagine l\'embarras!</p>
 				<p i="3">Sain Champignon! Si\nj\'avais glisse, il aurait pu mettre tout ca en moi!</p>
-				<p i="4">Heeey! Tu as...\npenetre ma fente! (Oh, je peux pas m\'arreter!)</p>
+				<p i="4">Heeey! Tu as...\npenetre ma chatte! (Oh, je peux pas m\'arreter!)</p>
 				<p i="5">Ohhhhh! Tu as rempli\nmon trou excite avec ta creme chaude!</p>
 			</scenes>
 			<scenes scene="toad19">
-				<p i="1">Mm! C\'est comme si\nje lechais un Popsicle! Si gouteux!</p>
-				<p i="2">Mmf! J\'adore vraiment\nceux fourres a la creme!</p>
-				<p i="3">Mmmm! Je suis\nremplie de son provologne!</p>
+				<p i="1">Mm! C\'est comme si\nje lechais une glace! Si gouteux!</p>
+				<p i="2">Mmf! J\'adore vraiment\ncette fourrés a la creme!</p>
+				<p i="3">Mmmm! Je suis\nremplie de sa creme,Délicieux!</p>
 			</scenes>
 			<scenes scene="toad20">
-				<p i="1">Hey!! Tu\npenetres....ma cerise vierge!</p>
-				<p i="1a">Non! Pas\nici! C\'est l\'endroit de Mario!</p>
+				<p i="1">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!!</p>
+				<p i="1a">Non! Pas ici!\nC\'est a Mario ici!</p>
 				<p i="1b">Non! Ne touche\npas ma fente royale!</p>
 				<p i="2">Ah! Ca...\nCa ne fait pas aussi mal que ce je pensais.</p>
-				<p i="2a">J\'ai vendu\nma fleur pour un fongus! Desole Mario...</p>
+				<p i="2a">J\'ai vendu\nma fleur pour un Champigion! Desole Mario...</p>
 				<p i="2b">Ah! Ma petite\nfleur a coulee avant qu\'elle le devait!</p>
 				<p i="2c">J\'espere que Mario\nne s\'interessera pas a un peu de creme de champignon quand je vais le retrouver.</p>
 				<p i="2d">Oh non! Tout le monde\nvient regarder! Mais je dois continuer. Ils comptent sur moi!</p>
@@ -194,16 +194,16 @@ Enjoy!
 			</scenes>
 			<scenes scene="toad21">
 				<p i="1">Huh? Une piece!\nje devrais la prendre...</p>
-				<p i="2">Hey....ca\nchatouille! Stop that, please!</p>
+				<p i="2">Hey....ca\nchatouille! Arrete ca, S\'il te plaît!</p>
 				<f i="2">Hmmmm,\nma princesse!</f>
 				<p i="3">Vous etes\n tellement des pervers! Ahhh c\'est si bon!</p>
-				<f i="3">Notre peuple\nne peut pas avoir sa princesse sans chewing-gum!</f>
+				<f i="3">Notre peuple\nne peut pas voir sa princesse toute seule!</f>
 				<p i="4">Oh! Baise moi!\nJe m\'en fous si d\'autres nous voit maintenant! Ahhhh!</p>
-				<p i="5">Je jouis!\nTu as une bite champignon delicieuse, reste ici s\'il te plait!</p>
+				<p i="5">Je jouis!\nTu as une bite delicieuse, reste ici s\'il te plait!</p>
 			</scenes>
 			<scenes scene="toad22">
-				<p i="1">Huh? Ooohh\ns\'entassent pour baiser ma cerise royale maintenant!</p>
-				<p i="2">Je...\njouis enormement!! Je veux faire un calin a tout le monde pour ce plat special!</p>
+				<p i="1">Huh? Ooohh\ns\'entassent pour baiser ma chatte royale maintenant!</p>
+				<p i="2">Je...\njouis enormement!! Je veux faire un calin a tout le monde pour ce merveilleux plat!</p>
 				<p i="2a">Je...\njouis enormement!! Ahhhhh!! Quelqu\'un pourrait... s\'il vous plait... me nettoyer?</p>
 			</scenes>
 			<scenes scene="toad23">
@@ -217,7 +217,7 @@ Enjoy!
 				<p i="1b">Juste un....Ahhh!\nNe regarde pas s\'il te plait! C\'est...c\'est bloque! Attend!</p>
 				<p i="2">Ohhh, donc tu vas\nm\'aider? S\'il te plait, enleve la de mon petit trou! Ah! J\'aime ca!</p>
 				<p i="2a">Hey, non, attend!\nJe vais le faire moi-meme... Aaaahhh! Ce n\'est pas necessaire, Ooooooh!</p>
-				<p i="2b">Nooon, AHH! Les gens\nvont remarquer! C\'est mon anus! Ahhhh!</p>
+				<p i="2b">Nooon, AHH! Les gens\nvont nous remarquer! Mon anus! Ahhhh!</p>
 				<p i="3">Ahhh! Je sens\nta bite, sale pervers! Baise ma chatte! Ooooh!</p>
 				<p i="3a">Hey!! Tu vas faire\nca avec ce penis? Je suis si chaude!! Tu baises mon cul!</p>
 				<p i="3b">Ahhh! OOooh! Ahhhh!\nC\'est pas du jeu! Il me fait jouir juste ici! ♥</p>
@@ -225,7 +225,7 @@ Enjoy!
 				<p i="4a">Ooooh, ca va\ntrop loin! Tu...baises mon cul comme ca! Ahhh!</p>
 				<p i="4b">Pourrais-tu...Ahh!\nPourrais-tu la retirer maintenant? S\'il te plait soit rapide! OOooooh!</p>
 				<p i="5">Ooooh, j\'ai jouis!\nMon cul me fait si mal! J\'...aime ca! ♥</p>
-				<p i="5a">Ahhh, Je\njouis!Maintenant je sens que mon cul n\'est plus protege...♥</p>
+				<p i="5a">Ahhh, Je\njouis!Maintenant je sens que mon cul n\'est plus en danger...♥</p>
 			</scenes>
 			<scenes scene="toad25"> <!--DOC scene-->
 				<f i="1">Princesse! Je dois\n...euh...toucher votre anus. Calmez-vous!</f>
@@ -235,10 +235,10 @@ Enjoy!
 				<p i="2">Je...(Ooooh!)\ndois me relaxer! C\'est un docteur, pourquoi avoir honte de ca? Oooh!</p>
 				<f i="2a">C\'etait commande par\nToadsworth!</f>
 				<f i="2b">Je sais ce que\nje fais, ma princesse! C\'est commun de le faire ici!</f>
-				<p i="2a">Je...(Ooooh!)\npense que vous avez...raison! Je vais vous laisser l\'utiliser!</p>
+				<p i="2a">Je...(Ooooh!)\npense que vous avez...raison! Je vais vous laisser faire!</p>
 				<f i="3">Princesse! Calme!\nC\'est mon huile speciale! Ca y est bientot!</f>
 				<p i="3">Ahhhhhhh!\nOUI! Leche mon anus malsain! Baise le, il est a vous!</p>
-				<p i="3a">Ahhhhhhh!\nes-tu en train....de lecher mon... Oooooh IJe suis si embarrassee!</p>
+				<p i="3a">Ahhhhhhh!\nes-tu en train....de lecher mon... Oooooh Je suis si embarrassee!</p>
 				<f i="4">Ok, vous etes maintenant\nnettoyee et prete a etre bai... euh, usee!</f>
 				<f i="4a">Je l\'ai!!\nVote cul n\'est plus gonfle!</f>
 				<p i="4">Ahhhh! Je\njouis telleeeement! Oooouh!</p>
@@ -267,8 +267,8 @@ Enjoy!
 				<p i="2">Ahhhh.. Il\na vraiment du economiser!</p>
 			</scenes>
 			<scenes scene="goomba6">
-				<p i="1">Hey!! Tu\npenetres ma....cerise vierge!</p>
-				<p i="1a">Non! Pas\nici! C\'est l\'endroit de Mario!</p>
+				<p i="1">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!</p>
+				<p i="1a">Non! Pas ici!\nC\'est a Mario ici!</p>
 				<p i="1b">Non! Ne\ntouche pas ma fente royale!</p>
 				<p i="2">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais.</p>
 				<p i="2a">Ah! M-mais\nJe dois faire ca pour sauver Mario.</p>
@@ -367,8 +367,8 @@ Enjoy!
 				<p i="4">Je jouis des\ntonnes de jus ici! Je suis etourdie!</p>
 			</scenes>
 			<scenes scene="koopa7">
-				<p i="1">Hey!! Tu\npenetres ma....cerise vierge!</p>
-				<p i="1a">Non! Pas\nici! C\'est l\'endroit de Mario!</p>
+				<p i="1">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!</p>
+				<p i="1a">Non! Pas ici!\nC\'est a Mario ici!</p>
 				<p i="1b">Non! Ne\ntouche pas ma fente royale!</p>
 				<p i="2">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais.</p>
 				<p i="2a">Ah! M-mais\nJe dois faire ca pour sauver Mario.</p>
@@ -400,645 +400,645 @@ Enjoy!
 
 	<!--SHYGUYS-->
 			<scenes scene="shyguy1">
-				<p i="1">Now I would\nneed to... to taste this shyguy thing...</p>
-				<p i="2">Shyguy\ndicks are full of hidden cum...</p>
+				<p i="1">Maintenant je voudrais...\nJ\'ai besoin de... gouter a cette chose...</p>
+				<p i="2">cette chose\nest plein de sperme cacher...</p>
 			</scenes>
 			<scenes scene="shyguy2">
-				<p i="1">I need to...\nsuck you, my darling!</p>
-				<p i="2">They also cum so\nmuch! I hope my belly will stand everything!</p>
+				<p i="1">J\'ai besoin de...\nvous sucer mon cherie!</p>
+				<p i="2">Il jouisse...\ntellementtt! j\'éspére ne pas etres tomber adicte a tous ca!</p>
 			</scenes>
 			<scenes scene="shyguy3">
-				<p i="1">Hey\nwhat are you doing!!</p>
-				<p i="2">He restrained\n me! And he\'s...fucking my..titties! How indelicate!</p>
-				<p i="3">Ahhh, a very\nHOT steam into my boobies, I think he...he won!</p>
+				<p i="1">Hey\nqueseque tu fais!!</p>
+				<p i="2">il ma retenue\nEt il baisse mes nichon! quellle indelicat!</p>
+				<p i="3">Ahhh une vapeur\nCHAUDE sur mes sein,Je pense qu\'il...qu\'il a gagner!</p>
 			</scenes>
 			<scenes scene="shyguy4">
-				<p i="1">Hey, you\nplease remove this from my neck!</p>
-				<p i="2">Ouch! I\nfell and...How huge is that dick (Mmmmnph!) Hey!</p>
-				<p i="3">Ahhhh!\nIt\'s getting mmmmph hot, and mmmhp he keeps pushing mm...my neck!</p>
+				<p i="1">Hey, toi\nSilteplai retire ca de mon cou!</p>
+				<p i="2">Ouch! I\nJe suie tomber et...Quelle taille fais ca bite (Mmmmnph!) Hey!</p>
+				<p i="3">Ahhhh!\nCa devient mmmmph chaud, Il continue de pousser mm...mon cou!</p>
 				<p i="4">Mhmmmmp\nMmmmnnph! Mnhpm! Hmmmnhp! Mnhhnp!</p>
 			</scenes>
 			<scenes scene="shyguy5">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="2c">I hope Mario\ndoesn\'t mind a little \'shy cream\' in my pussy when I find him.</p>
-				<p i="2d">More Cock!\nInside my...my....little womb! Nooooo</p>
-				<p i="3">And this will\ncontinue until....I dunno! It\'s sooo good!</p>
+				<p i="1">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!</p>
+				<p i="1a">Non! Pas ici!\nC\'est a Mario ici!</p>
+				<p i="1b">Non! Ne\ntouche pas ma fente royal!</p>
+				<p i="2">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais..</p>
+				<p i="2a">Ah! M-Mais\nJe supose que je doit le faire pour sauver Mario.</p>
+				<p i="2b">Ah! Ah! Ma petite\nfleur a coule avant son temps!</p>
+				<p i="2c">J\'éspére que ca ne dérengera pas Mario.Un peu de creme chaude de\nMaskass ne fais pas de mal</p>
+				<p i="2d">Pluss!\nA l\'intérieur de mon...mon....petit utérus! Nooooon</p>
+				<p i="3">Et cela continua jusqu\'a...Je ne sais pas c\'est tellement bon!</p>
 			</scenes>
 			<scenes scene="shyguy6">
-				<p i="1">Hey!\nStop that! Release me! Don\'t!</p>
-				<p i="2">Ohhh!!\nI feel right on his...his... I must stop that!</p>
-				<p i="3">Ahhhh!\nOoooh!! I don\'t think I can....oooh, flee... His hot dick with this belt is so good!</p>
-				<p i="4">We\'re...\ncumming! And I can\'t stand up, I am locked by his, ohhh, belt.</p>
+				<p i="1">Hey!\nArrete ca! Libére moi! Ne fais pas ca!</p>
+				<p i="2">Ohhh!!\nJe me sent bien sur son...son...Je doit arreter ca!</p>
+				<p i="3">Ahhhh!Ooooh!! Je ne pense pas que je peu....oooh, fuir...Ca bite chaude avec cette ceinture est si bonne!</p>
+				<p i="4">On...\nJouillllle! Je ne pe pas me lever, Je suie blocker par sa, ohhh, ceiture.</p>
 			</scenes>
 			<scenes scene="shyguy7">
-				<p i="1">Hey!\nWhat are you going to do with me?</p>
-				<p i="2">Ohhh!!\nHmmm he muffled me mhmmmp and he is fucking my ASS!</p>
-				<p i="3">Mbbmmp\nmy little hole! MmamhPh! mhmmmp! MmamhPh!</p>
+				<p i="1">Hey!\nQu\'allez vous faire avec moi?</p>
+				<p i="2">Ohhh!!\nHmmm Il M\'ÉTOUFFE mhmmmp Et il baise mon cul!</p>
+				<p i="3">Mbbmmp\nMon petit trou! MmamhPh! mhmmmp! MmamhPh!</p>
 				<p i="4">Cumminmmmhp!\nMmmmnnp nmnmhph  mnnnh mnhmp!</p>
 			</scenes>
 			<scenes scene="shyguy8">
-				<p i="1">Hey!\nStop that! Why are you going to...fuck my pussy again?</p>
-				<p i="2">Ahhhh!!\nI am being raised...by Ohhh, another little Shyguy!</p>
-				<p i="3">I am cumming...\nin the air! I can\'t concentrate, I\'ll fall! Oohh...</p>
+				<p i="1">Hey!\nArrete ca! Pourquoi va tu...Baiser ma chatte a nouveau?</p>
+				<p i="2">Ahhhh!!\nJe sui élevé par...par Ohhh, Un petit Maskass!</p>
+				<p i="3">Je Jouilleee...\nDans les air! Je ne pe pas me concentrer, Je vais tomber! Oohh...</p>
 			</scenes>
 			<scenes scene="shyguy9">
-				<p i="1">It\'s...strange!\nMy butt is twitching so much! Ohh...</p>
-				<p i="2">Hey!\nIs that you again? You really love my butt, huh?</p>
-				<p i="3">Another shyguy...\ncame to....fuck me... Ohhh I really need to....Ahhhh!</p>
-				<p i="4">Mnnnnpmph\n Now mmits mmhhp three! I\'m so fulllmmmnp Oooh!</p>
+				<p i="1">C\'est étrange!\nMes fesse rebondisse tellement! Ohh...</p>
+				<p i="2">Hey!\nC\'est toi encore? Tu aime vraiment mes fesse, huh?</p>
+				<p i="3">Un autre Maskass...\nVenue pour me....Baiser... Ohhh J\'ai vraiment besoin de....Ahhhh!</p>
+				<p i="4">Mnnnnpmph\nMaintenant mm ils sont mmhhp trois! Je suis tellement remplie Oooh!</p>
 				<p i="5">Mnnnnpmph!\nMnnnnmph! Mnpmh hmmm mhnmp!!</p>
 			</scenes>
 			<scenes scene="shyguy10">
-				<p i="1">Hey! What are\nyou doing inside my... You\'re inserting something in! Ahh!</p>
-				<p i="2">Ooooh, I...\nI need to take it out of my butt!</p>
-				<p i="2a">Ahhh...I am\nsooo perverted showing myself up like this!</p>
-				<p i="3">Ohhh...here it\nis...Ahhhh, Ooooh!</p>
-				<p i="3a">Ahhhh, its going out!\nIt\'s sooooooo good...</p>
-				<p i="4">Better cover\nmy holes, Aaaaahhh! I am cumming!</p>
-				<p i="4a">Ohhh, I am\ncumming from my holes!</p>
+				<p i="1">Hey! Quesceque\ntu fais a l\'intérieur de mon... Vous inséré quelque chose dans...! Ahh!</p>
+				<p i="2">Ooooh, J\'ai...\nBesoin de a sortire de mes fesse!</p>
+				<p i="2a">Ahhh...Je suie\nTellementtt pervertie...me montrer comme ca!</p>
+				<p i="3">Ohhh...Ici\nc\'est...Ahhhh, Ooooh!</p>
+				<p i="3a">Ahhhh, C\'est Sortiee!\nCa fais tellement de biennn...</p>
+				<p i="4">Vous avez bien couver\nmes trous, Aaaaahhh! Je jouilleee!</p>
+				<p i="4a">Ohhh, Je\nJouilllee de mes trous!</p>
 			</scenes>
 
 	<!--POKEYS-->
 			<scenes scene="pokey1">
-				<p i="1">\nOuch! Oh, come on! I just want a little sip!</p>
-				<p i="2">I need to...\nput him....to sleep...\nTake this..now that...and now this!</p>
-				<p i="3">These dicks\n sprayed it all over me! But he\'s knocked out, now...</p>
+				<p i="1">\nAie! Oh, Vient ici! Je veux juste une petit gorgée!</p>
+				<p i="2">J\'ai besoin de...\nLe mettre....Pour m\'hydraté...\nPrend ca..maintenant ca...et ca!</p>
+				<p i="3">C\'est bites\n on tous pulvériser sur moi! Ils sont calmé maintenant...</p>
 			</scenes>
 			<scenes scene="pokey2">
-				<p i="1">Waah! *gulp*\nI can\'t hold myself up! But, I\'ve gotta keep trying!</p>
-				<p i="2">Ooh! This\ncreamy cum makes me so light-headed!</p>
+				<p i="1">Waah! *gulp*\nje ne peux pas me retenire! Mais je doit continuer d\'essayer!</p>
+				<p i="2">Ooh! Ce sperme\nCrémeux m\'étourdit!</p>
 			</scenes>
 			<scenes scene="pokey3">
-				<p i="1">Ouch! Oh, come\non! I just want a little sip!</p>
-				<p i="2">Wow! Now it\'s\ntoo much milk for me-Eek! What\'re yo--ooh! Feels nice!</p>
-				<p i="3">I want to play\nwith you, my power of love!</p>
-				<p i="4">Yeek! Ah!\nIt tickles and it\'s slimy in places that shouldn\'t be slimy!</p>
+				<p i="1">Aiee! Oh, Vien\nici! Je veux juste une petit gorgée!</p>
+				<p i="2">Hou la la! Maitenant c\'est\nTros de lait pour moi-Eek! Que faitte vouuuus!Ca fais du bienn!</p>
+				<p i="3">Je veux jouer avec\navec toi, mon chérie!</p>
+				<p i="4">Yeek! Ah!\nCa chatouille et c\'est visqueux dans des endroit qui ne devrais pas l\'etre!</p>
 			</scenes>
 			<scenes scene="pokey4">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="2c">Oooooh what\'s\nwith those...dicks? They are...fucking me!</p>
+				<p i="1">Oh non! Doucement!\nVous\navez pénétré....tous mes trous la!</p>
+				<p i="1a">Non! Pas\nIci! C'est a Mario ici!</p>
+				<p i="1b">Non! Ne\ntouche pas a ma fente royal!</p>
+				<p i="2">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais..</p>
+				<p i="2a">Ah! M-Mais\nJe suppose que je doit le faire si je veux sauvé Mario.</p>
+				<p i="2b">Ah! Ma petite\nfleur a coule avant son temps!</p>
+				<p i="2c">Oooooh C\'est\nquoi ces...Bites? Ils sons en train de...me baiser!</p>
 				<p i="3">Glllr\nlglrlgr glrlgrl</p>
 			</scenes>
 			<scenes scene="pokey5">
-				<p i="1">Wow! Now it\'s\ntoo much milk for me-Eek! What\'re yo--ooh! Feels nice!</p>
-				<p i="2">Whoa! This guy\nbrought a friend. Hope they don\'t wear me out too much!</p>
-				<p i="3">*gurgle* Mm! Cumming\nso hard! Whew. This oughta keep me hydrated!</p>
+				<p i="1">Hou la la! Maitenant c\'est\nTros de lait pour moi-Eek! Que faitte vouuuus!Ca fais du bienn!!</p>
+				<p i="2">Whoa! Ce mec\na amené un amie. j\'éspére qu\'il ne m\'utiliseront pas tros!</p>
+				<p i="3">*gurgle* Mm! Tellement de spermeeee! Ouf. Cette gorgé devrait me gardé hydraté!</p>
 			</scenes>
 			<scenes scene="pokey6">
-				<p i="1">Ohh!! Its touching\nmy ass! I want to get out of here! Maybe if I jump...</p>
-				<p i="2">Oh, wait!\nDon\'t move! Its..touching my pulsating ass!</p>
-				<p i="3">Oh nooooo\nIts ALL inside my ass! Ahhh!</p>
-				<p i="4">Ohhh, Ahhh!\nIts...Divine! A lot of pokey meat inside my bum! Oooh!</p>
-				<p i="5">Cuuuummming!\nI LOVE you! And you really love MY ASS!</p>
+				<p i="1">Ohh!! Il touche\nmon cul! Je veux sortire d\'ici! peutaitre que si je saute...</p>
+				<p i="2">Oh, attendez!\nne bouger pas! Il...touche mon cul, c\'est palpitant!</p>
+				<p i="3">Oh nooooon\nTout est dans mon cul! Ahhh!</p>
+				<p i="4">Ohhh, Ahhh!\nC\'est...Divinn!une partie de Pockey a l\'intérieur\nde mon cul! Oooh!</p>
+				<p i="5">Ejaculleee! Ohhh ouii!\n Je T\'aime! Et Tu aime vraiment MON CUL!</p>
 			</scenes>
 			<scenes scene="pokeySpecial1">
-				<p i="1">Such a cute little guy! I just wanna hug you and cum all over you!</p>
-				<p i="2">Ooh! I\'m gonna need that milk to get through this desert!</p>
+				<p i="1">Un petit bonhomme mignon! Je veux juste te sérer dans mes bras et jouire de toi  !</p>
+				<p i="2">Ooh! Je vais m\'enduire de ce lait pour traverser ce désert!</p>
 			</scenes>
 			<scenes scene="pokeySpecial2">
-				<p i="1">Ouch!\nWhat is this thing doing to me? He\'s touching there!</p>
-				<p i="2">Ooh! He\n stucked into me and....Ahhhh! And...</p>
-				<p i="3">Better to\nOoooh...match a pose, or I\'ll fall....Ahhhh!</p>
-				<p i="4">I fell! But\nHe....He\'s Stuck in me! And...still fucking me! Ahh!</p>
-				<p i="5">This is a\nreally hot load! And he\'s still stuck in my pussy!</p>
+				<p i="1">Aie!\nQueceque cette chose me fais? Il me touche!</p>
+				<p i="2">Ooh! Il\n Reste coincé en moi et....Ahhhh! Et...</p>
+				<p i="3">Mieux vaut Ooooh...me mettre dans une meilleur position, ou je tomberai....Ahhhh!</p>
+				<p i="4">Je tombee! Mais\nIl....Il est coicé en moi! Et...encore en train de me baiser! Ahh!</p>
+				<p i="5">C\'est une décharge\nVraiment chaud! Et il est toujoure coicé dans ma chatte!</p>
 			</scenes>
 			<scenes scene="pokeySpecial3">
-				<p i="1">*gulp* Mm! I\'m\nso thirsty! Hey wait, I don\'t drink from down there!</p>
-				<p i="2">Yes! So\nrefreshing! I wonder what SPF your cum has?</p>
+				<p i="1">*gulp* Mm! J\'ai\nTellement soif! Hey attant, Je ne boit pas d\'ici!</p>
+				<p i="2">OUI! Tellement\nRafraichissant! Je me demande quelle indice de protection solaire\nSon sperme a?</p>
 			</scenes>
 			<scenes scene="pokeySpecial4">
-				<p i="1">So horny! I can\nfuck with my ass while I have a drink, right?</p>
-				<p i="1a">So horny! I can\nfuck with my pussy while I have a drink, right?</p>
-				<p i="2">Ooh yes! Fill my\nass with cum! I just want it all inside me!</p>
-				<p i="2a">Ooh yes! Fill my\ncherry with cum! I just want it all inside me!</p>
+				<p i="1">Tellemenet exité! Je peux baiser avec mon cul pendant que je bois, c\'est incroyable?</p>
+				<p i="1a">Tellemenet exité! Je peux\nje peux baiser avec ma chatte pendant que je bois, vrais?</p>
+				<p i="2">Ooh Oui! Remplis mon\ncul de sperme! Je veux tous en moi!</p>
+				<p i="2a">Ooh Oui! Remplis ma\nchatte de sperme! Je veux tous en moi!!</p>
 			</scenes>
 			
 	<!--WIGGLERS (catterpillas)-->
 			<scenes scene="wiggler1">
-				<p i="1">Wigglie...\nWhat is this...thing doing? Is it..okay?</p>
-				<p i="2">I better have\na look at this...little plant...</p>
-				<p i="3">It feels like\na....a....you know...It\'s gorgeous too!</p>
-				<p i="4">Its...it\'s a\ntrue dick! This thing is cumming! It\'s all over my face!</p>
-				<p i="5">It\'s better\nto drink it faster or his friends might discover this!</p>
+				<p i="1">Wigglie...\nQueceque c\'est...que cette chose? C\'est..Dangereu?</p>
+				<p i="2">Je ferai mieux de\nm\'en assuré...pauvre petit plante...</p>
+				<p i="3">On se sent comme\nun....un....vous savez...C\'est splendide aussi!</p>
+				<p i="4">C\'est...C\'est une\nvrais bite! Cette chose est en train de jouiree! Partous sur mon visage!</p>
+				<p i="5">Il vaut mieux\nle boire au plus vite ou ces amies pourai le decouvrire!</p>
 			</scenes>
 			<scenes scene="wiggler2">
-				<p i="1">Wigglie...\nI fell right on your...face!</p>
-				<p i="2">Mmmhnmph...\nI need to fix what I broke here, mmmhmp!</p>
-				<p i="3">Wigglie is\ncumming in my mouth! I can\'t control my desires anymore!</p>
+				<p i="1">Wigglie...\nJe suie tombé sur ton visage!</p>
+				<p i="2">Mmmhnmph...\nJe doit réparé ce que j\'ai cassé, mmmhmp!</p>
+				<p i="3">Wigglie est en train de\nJouireee dans ma bouche! Je ne pe plus controler mes desire!</p>
 			</scenes>
 			<scenes scene="wiggler3">
-				<p i="1">Hey, stop\nthat! I\'m not a plant!</p>
-				<p i="2">Are you...\nsucking my boobies? Why are you....oh...doing this...!</p>
-				<p i="3">\nYou sucked\n my breasts dry!</p>
+				<p i="1">Hey, arreter\nca! je ne suie pas une plante!</p>
+				<p i="2">Vous étes en train de...\nsucer mes seins? Pourquoi vouss....oh...faite ca...!</p>
+				<p i="3">\nVous sucer\n mes seins.Il son a sec!</p>
 			</scenes>
 			<scenes scene="wiggler4">
-				<p i="1">Stop, caterpillar!!\nYou are making me fall!</p>
-				<p i="2">What are you\nthink you\'re doing sniffing my ass?</p>
-				<p i="3">Ohhh, he\'s direct\n to the matter..inside my bumhole! And it\'s twitching!</p>
-				<p i="4">Ooooohh, I\nam stuck in this butt pluggie!</p>
+				<p i="1">Arrete, Chenille!!\nTu me fais tomber!</p>
+				<p i="2">Que pense tu\nfaire en reniflant mon cul?</p>
+				<p i="3">Ohhh, Il est direct\nquand il sagit de jouer..\nIl est dans mon anus! Et ca rebondie!</p>
+				<p i="4">Ooooohh, Mes\nfesse son coincer!</p>
 			</scenes>
 			<scenes scene="wiggler5">
-				<p i="1">Hey, no!\nI don\'t want...to touch that thing!</p>
-				<p i="2">Wigglie...\nI....hmmmm will do that for a quickie!</p>
-				<p i="3">No, I can\'t\nstand, and he...he is pushing it again...</p>
-				<p i="4">He\'s cumming\nin my mouth! Its like a chlorophyll juice!</p>
-				<p i="5">More! I am\nthirsty, its only a juice, right? Its not nasty! Hmmmhmp!</p>
-				<p i="6">He\'s cumming\nagain!! I am filled up! I am your plant, Wiggie!</p>
+				<p i="1">Hey, non!\nje ne veux pas...toucher a cette chose!</p>
+				<p i="2">Wigglie...\nJe....hmmmm Je vais faire ca rappidement!</p>
+				<p i="3">Non, Je ne peux pas\nsupporter ca, et il...il pousse a nouveau...</p>
+				<p i="4">Il éjacullleee\nDans ma bouchee! C\'est comme un jus fruit!</p>
+				<p i="5">Plus! J\'ai\nSoif, C'est seulement du jus, non? Ce n\'est pas méchant! Hmmmhmp!</p>
+				<p i="6">Il éjacullle\nencoree!! Je suie remplie! Je suie ta plante, Wiggie!</p>
 			</scenes>
 			<scenes scene="wiggler6">
-				<p i="1">Calm down\nWigglie, I.... Ohhh, my ass is...inside of you!</p>
-				<p i="2">Ahhh, I am...\ncumming...and being sucked dry!</p>
-				<p i="3">Ahhh, I am...\ncumming...and being sucked in my C cups!</p>
-				<p i="4">Ahhh, I am...\ncumming...and being sucked dry in my DD cups!</p>
-				<p i="5">He removed\nAhhh...his dick, but its too late, my ass is overflowing!</p>
+				<p i="1">Calme toi\nWigglie, Je.... Ohhh, mon cul est...A l\'interieur de toi!</p>
+				<p i="2">Ahhh, Je...\nJouilleee...J\'ai etais entierrement sucer!</p>
+				<p i="3">Ahhh, Je...\nJouilleee...J\'ai etais entierrement sucer dans mon bonnet C !</p>
+				<p i="4">Ahhh, Je...\nJouilleee...J\'ai etais entierrement sucer dans mon bonnet DD!</p>
+				<p i="5">Il la retiré\nAhhh...Ca bite, mais c\'est tros tard, mon cul deborde de sperme!</p>
 			</scenes>
 			<scenes scene="wiggler7">
-				<p i="1">Wigglie...\nAre you fucking...Oh...my ass again?!</p>
-				<p i="2">Cumming\nalready...Ahhhh...But he is still sticking it there!</p>
-				<p i="3">Cumming again!!\nMy rectum is\nall filled up!</p>
+				<p i="1">Wigglie...\netes vous en train de baiser...Oh...mon cul encor?!</p>
+				<p i="2">Éjaculeeee\naller...Ahhhh...ca colle toujoure la (meme si j\'adorerai rester collé a lui)!</p>
+				<p i="3">Éjacule encore!!\nMon rectum est completement remplie!</p>
 			</scenes>
 			<scenes scene="wiggler8">
-				<p i="1">Oh no! Slowly!\nYou\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">\nWigglie, are\nyou...penetrating my cherry this time?</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="2c">I hope Mario\ndoesn\'t mind a plant seed inside my pussy when I find him.</p>
-				<p i="2d">\nHe\'s fucking\nmy flower hard! Ahhh he never gets tired! Oooh!</p>
-				<p i="3">His bulge is\nbigger! Ahhh I fell it exploding my opening! I\'ll cum!</p>
-				<p i="4">\nAAAAAaaah!\nI am cumming aloud! This is the paradise!</p>
+				<p i="1">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!</p>
+				<p i="1a">Non! Pas\nIci! C'est a Mario ici!</p>
+				<p i="1b">\nWigglie, a\ntu...pénétré mon vagin cette fois?</p>
+				<p i="2">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais..</p>
+				<p i="2a">Ah! M-Mais\nJe suppose que je doit le faire si je veux sauvé Mario.</p>
+				<p i="2b">Ah! Ma petite\nfleur a coule avant son temps!</p>
+				<p i="2c">J\'éspére que Mario\ndne ment voudera pas.Un peu de \nsperme de plante dans ma chatte ne fais pas de mal</p>
+				<p i="2d">\nIl Me Baise\nTellement fort! Ahhh Il ne se fatige jamais! Oooh!</p>
+				<p i="3">Son Machin est\nplus grand! Ahhh Je le sens exploser mon ouverture! Je vais jouillree!</p>
+				<p i="4">\nAAAAAaaah!\nJe jouille fort! C\'est le paradit!</p>
 			</scenes>
 			<scenes scene="wiggler9">
-				<p i="1">Hmmm he\'s\ngrabbing my hands and he\'s already fucking me!</p>
-				<p i="2">Ahhh! Ohhh!\nSo you want to put your seed recklessly...Ahh!</p>
-				<p i="3">Ahh wait!\nYou cummed already! You are filling me up even more!</p>
-				<p i="4">Ohhhh noo!\nHe cummed inside! And I can\'t stand up!</p>
+				<p i="1">Hmmm Il\nMe saisie les main et Il me baise deja</p>
+				<p i="2">Ahhh! Ohhh!\nDonc vous voulez mettre votre semance inprudament...Ahh!</p>
+				<p i="3">Ahh attander!\nvous allez jouille! je vais me mettre comme ca c\'est mieux!</p>
+				<p i="4">Ohhhh noon!\nIl a éjaculé a l\'intérieur! Et je ne pe pas me lever!</p>
 			</scenes>
 			
 	<!--PIRANHAS NIPPERS VINES-->
 			<scenes scene="piranha1">
-				<p i="1">I better have\na look at this...little plant...</p>
-				<p i="2">With some...\nerhm...rubbing, he might sleep...</p>
+				<p i="1">Je ferais mieux de jeter un cou d\'oeil\na cette...petit plante...</p>
+				<p i="2">Avec quelque...\nerhm...frottement, Il pourra dormir...</p>
 			</scenes>
 			<scenes scene="piranha2">
-				<p i="1">Hey, stop!!\nyou\'re touching...MY ASSHOLE!</p>
+				<p i="1">Hey, Arreter!!\nVous etes en train de toucher...MON ANUS!</p>
 			</scenes>
 			<scenes scene="piranha3">
-				<p i="1">He\'s teasing me!\nThese tentacles are cold and gooey, but Ahhh, I like it!</p>
-				<p i="2">Ooohh, nooo!\nI am completely restrained and he\'s fucking my ass!</p>
+				<p i="1">Il me taquine!\nCes tentacules son froids et gluants, mais Ahhh, J\'aime ca!</p>
+				<p i="2">Ooohh, nooon!\nJe suie complettement retenue et Il baise mon cul!</p>
 			</scenes>
 			<scenes scene="piranha4">
-				<p i="1">What?? It...\nit clenched its mouth in my... aaahh! He\'s moving my labias!</p>
-				<p i="1a">Hey, dont!! You\nare licking my pussy without my permission!</p>
-				<p i="2">Ahhhh!\nI am cumming a looooot!</p>
-				<p i="2a">Ohh, that\'s crazy!\nIt\'s going deeply down, ravaging my insides! Ahhhh!</p>
-				<p i="2b">Ahhhh! Oooooh!\nI can\'t believe it, It\'s engulfing all drips of my cherry!</p>
+				<p i="1">Quoi?? Il...\nIl a serré sa bouche dans mon... aaahh! Il bouge mes lévres!</p>
+				<p i="1a">Hey, ne fais pas ca!! Tu\nme léche ma chatte sans ma permission!</p>
+				<p i="2">Ahhhh!\nJe jouille énormémentttt!</p>
+				<p i="2a">Ohh, C\'est incroyable!\nca va en profondeur, et ca ravage mon interieur! Ahhhh!</p>
+				<p i="2b">Ahhhh! Oooooh!\nJe ne pe pas croire ca, Il engloutie toute les gouttes de mon vagin!</p>
 			</scenes>
 			<scenes scene="nipper1">
-				<p i="1">Ohh...I sat\ndown in a wrong hole! Too late to escape!</p>
-				<p i="2">Hmmmm, ahhh!\nBetter to masturbate, so I can cum faster and knock him!</p>
-				<p i="2a">Ahhhhh! I feel\na urge to masturbate! My pussy is dripping already!</p>
-				<p i="3">Ahhh, cumming!\nSorry, Mario!</p>
-				<p i="3a">Ahhh, cumming!\nMay I try again?</p>
+				<p i="1">Ohh...Je me suie\nAssis dans un mauvais trou! Tros tard pour s\'échaper!</p>
+				<p i="2">Hmmmm, ahhh!\nMieux vaut se masturber, Alor je vais jouire plus vite pour m'en debaraser!</p>
+				<p i="2a">Ahhhhh! Je ressens\nL\'envie de me masturber! Ma chatte dégouline déja!</p>
+				<p i="3">Ahhh, Je jouilleeeee!\nDesolé, Mario!</p>
+				<p i="3a">Ahhh, Je jouilleeeee!\npuis-je essayer a nouveau?</p>
 			</scenes>
 			<scenes scene="vine1">
-				<p i="1">Heeey! Don\'t...\nlet me down!! Ooooh, no!</p>
-				<p i="2">Hey!! Ahh! Stop!\nAhh! Are you... fucking me in my ass!?</p>
-				<p i="3">Ahhhhhh!! It\'s\ngoing totally inside my ass! Oooh! Alright... Make me cum!</p>
-				<p i="4">Ooooh I am cumming\nlike a whore in heat! Oh my little hole...</p>
+				<p i="1">Heeey! ne fais pas ca...\nLaisse moi decendre!! Ooooh, no!</p>
+				<p i="2">Hey!! Ahh! Arrete!\nAhh! Es-tu... en train de baiser mon cul!?</p>
+				<p i="3">Ahhhhhh!! La\nTotalité est partie dans mon cul! Oooh! Bon... fais moi jouillre!</p>
+				<p i="4">Ooooh Je jouilllee\ncomme une pute en chaleur! Oh Mon petit trou...</p>
 			</scenes>
 			<scenes scene="vine2">
-				<p i="1">Ohhhh...\nyou keep fucking my butt...</p>
-				<p i="1a">Ahhh!! Relieve\nme from this itch! Oooh!</p>
-				<p i="2">Aaaaah! It\'s\nALL inside!!\nOooh unplug it, please!</p>
-				<p i="3">Ooooh! I am\ncumming like a blooming flower bitch!</p>
+				<p i="1">Ohhhh...\nTu continue a baiser mes fesse...</p>
+				<p i="1a">Ahhh!! Soulage\nmoi de cette démangeason! Oooh!</p>
+				<p i="2">Aaaaah! Tous\nest a l\'intérieur!!\nOooh enlever votre bite, silvousplai!</p>
+				<p i="3">Ooooh! Je\nJouilleeee comme une chienne!</p>
 			</scenes>
 
 	<!--BLOOPERS (SQUIDS)-->
 			<scenes scene="blooper1">
-				<p i="1">Oh my! Its cock\nis so slick it slips into my mouth so easily!</p>
-				<p i="2">*Gllurk* Oh my God its cumming right into my stomach!</p>
-				<p i="3">With some...\nerhm...rubbing, he might sleep...</p>
+				<p i="1">Oh mon...! Ca queue\nest si lisse qu\'elle glisse tout seul dans ma bouche!</p>
+				<p i="2">*Gllurk* Oh mon Dieu Il éjacule tous son sperme vers mon estomac!</p>
+				<p i="3">Avec un certain...\nerhm...frottement, il pourait dormire...</p>
 			</scenes>
 			<scenes scene="blooper2">
-				<p i="1">Omg! Its cock\n feels so slimey in my asshole!</p>
-				<p i="2">Ah! It cums so\nhard! I can feel it surging up my intestines!</p>
+				<p i="1">Omg! Ca queue\nest tellement gluante dans mon trou!</p>
+				<p i="2">Ah! Il éjacule\ntellement! Je pe le sentire surgir dans mon intestin!</p>
 			</scenes>
 			<scenes scene="blooper3">
-				<p i="1">Ew! It\'s too\nslimy and slippery! Mario! Help me!</p>
-				<p i="2">I think I\'ll\nstroke him, but I wont look...</p>
-				<p i="3">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="3a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="3b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="4">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="4a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="4b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="4c">I hope Mario\ndoesn\'t mind a little cream of goomies when I find him.</p>
-				<p i="4d">Ooh, such a big\ndick! I can feel every inch of it right up to my womb!</p>
-				<p i="5">Whew! Its cock\nis too much! If I fuck it anymore, I might get addicted!</p>
+				<p i="1">Ew! C\'est tros\ngluant et glissant! Mario! aide-moi!</p>
+				<p i="2">Je pense que\nje vais la carréser, Mais je ne regarderai pas...</p>
+				<p i="3">Hey!! Vous\netes en train de pénétré mon....vagin la!</p>
+				<p i="3a">Non! Pas\nIci! C'est a Mario ici!</p>
+				<p i="3b">Non! Ne\ntouche pas ma fente royale!</p>
+				<p i="4">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais..</p>
+				<p i="4a">Ah! M-Mais\nJe suppose que je doit le faire si je veux sauvé Mario.</p>
+				<p i="4b">Ah! Ma petite\nfleur a coule avant son temps!</p>
+				<p i="4c">J\'éspére que Mario\ndne ment voudera pas.Un peu de \nsperme de phantome dans ma chatte ne fais pas de mal.</p>
+				<p i="4d">Ooh, Une grosse\nBite! Je pe sentir chaque centimétre a l'intérieur de mon utérus!</p>
+				<p i="5">Ouf! Ca queue\nest tros grosse! Si je baise plus, Je pourai devenire addicte!</p>
 			</scenes>
 			<scenes scene="blooper4">
-				<p i="1">Whoa! Wow! Two\nat once is just too much! I\'m gonna cum hard!</p>
-				<p i="2">Yee! I\'m so full of cum! I\'m cumming! Oooh, yes. I\'m cummming!</p>
+				<p i="1">Whoa! Wow! Deux\na la fois c\'est un peu tros! Je vais tellement jouillree!</p>
+				<p i="2">OUI! Je suie remplie de sperme! je jouille! Oooh, Oui. Je jouilllee!</p>
 			</scenes>
 			<scenes scene="blooper5">
-				<p i="1">Ew! It\'s too\nslimy and slippery! Mario! Help me!</p>
-				<p i="2">Heh. It kinda feels\nweird, but it\'s so hot compared to the water...and pulsing.</p>
-				<p i="3">Wha-? What the-?\nOh my pussy! That\'s a big dick! Oh god, I\'m so full!</p>
-				<p i="4">Oh, so much cum! It\'s sooo good! I want--I want you to just keep fucking me!</p>
+				<p i="1">Ew! C\'est tros\ngluant et glissant! Mario! Aide moi!</p>
+				<p i="2">Heh. C\'est un peu\nbizarre, mais c\'est tellement chaud par rapport a l'eau...et meilleur.</p>
+				<p i="3">Quo-? Quoi?\nOh ma chatte! C\'est une grosse bite! Oh la vache, je suie tellement remplie!</p>
+				<p i="4">Oh, Tellement de sperme! C\'est tellement bon! Je veux--Je veux que tu continue a me baiser!</p>
 			</scenes>
 			<scenes scene="blooper6">
-				<p i="1">Ooooh no! Glub!\nThere are many of them!! Mnnhmm I am so screwed up!</p>
-				<p i="2">I can\'t do anything\nmore than just wait for them to cum over me!</p>
-				<p i="3">Cumming!!!\nTons of hot jelly\nare showering me, I am drenched!</p>
+				<p i="1">Ooooh non! Glub!\nIl y a beaucoup d\'entre eux!! Mnnhmm je suie tellement foutu!</p>
+				<p i="2">Je ne peux rien\nfaire de plus que d\'attendre qu\'ils éjacules!</p>
+				<p i="3">Ils éjaculeeees!!!\nIls mon aspérgé avec une tonne de gelée chaude, Je suie trempé!</p>
 			</scenes>
 			<scenes scene="blooper7">
-				<p i="1">My queen of mushrooms!\n Now they owned me! Ahhh! Oooh! I can\'t flee!</p>
-				<p i="2">Another one!\nHe took my little bumhole! Ahhh it\'s so slippery!</p>
-				<p i="3">I...am...Cumming!\nThey are stuck in me! Ahhh can\'t stop blowing!</p>
+				<p i="1">Mmmm... reine des champigion! maintenant ils me possédaient! Ahhh! Oooh! Je ne pe pas fuire!</p>
+				<p i="2">Un autre!\nIls ons pris mes petit trou! Ahhh Ca glisse tellement!</p>
+				<p i="3">Je...Je...Jouillee!\nIls sont coincés en moi! Ahhh Je ne peux pas arreter de souffler!</p>
 			</scenes>
 
 	<!--PRINCESS DAISY-->
 			<scenes scene="daisy">
-				<f i="1">Well....I...I am waiting you to do it!</f>
-				<f i="2">I am glad you\'re here!! I need your help! An airship is over my castle! I need your help so bad!</f>
-				<p i="3">(CHOOSE A NUMBER)\n1) Sorry, I cant help right now...\n2) Okay, I can do it!</p>
-				<f i="4">Daisy: Ooooh, thank you!! I\'ll go to inside my room if you need me later, don\'t forget to talk to me, you silly!</f>
-				<p i="5">Oh!! I had vaginal sex with a girl!! Am I a lesbian? No way! I love Mario...right?</p>
-				<f i="6">Oh Princess, so you came back again, you naughty girl?</f>
-				<p i="7">No, Daisy, I....I just want to know where is Mario, and...</p>
-				<f i="8">Daisy: Hi Princess! I am Daisy!</f>
-				<p i="9">Hi Daisy! How are you? Where is Mario?</p>
-				<f i="10">Daisy: I don\'t know where he is, really...but I can help! Wanna see something I have for you?</f>
-				<p i="11">(Select a Number)\n1) Accept the offer\n2) Go away</p>
-				<f i="12">Daisy: Ok! Please wait here, Princess!</f>
-				<f i="13">Daisy: Did you like it? Oh Princess...Let\'s go to my bed...I have a surprise for you!</f>
-				<p i="14">(Select a Number)\n1) Go to the bed\n2) Go away</p>
-				<p i="15">(Select a Number)\n1) Cunnilingus   2) Tribadism    3) 69   4) Sit on me!   5) Ass to Ass\n6) Slap and Pussy Fingering  7) Nipple 69   8) Sex with a dildo   9) Go away</p>
+				<f i="1">Eh bien....Je...Je t\'attent pour le faire!</f>
+				<f i="2">Je suie contente que tu sois la!! J\'ai besoin de ton aide! Un dirigeable est au-dessus de mon château! J\'ai tellement besoin de ton aide!</f>
+				<p i="3">(CHOISISSEZ UN NUMÉRO)\n1) Desolé, je ne pe pas t\'aider maintenanat...\n2) Ok, Je peux le faire!</p>
+				<f i="4">Daisy: Ooooh, Merci!!Je vais aller à l\'intérieur de ma chambre si vous avez besoin de moi plus tard, n\'oublie pas de me parler!</f>
+				<p i="5">Oh!! J\'ai eu une relation vaginal avec une fille!! Je suie lesbienne? Surement pas! J\'aime Mario...pas vrais?</p>
+				<f i="6">Oh Princesse, alor vous etes revenue, vous etes coquine?</f>
+				<p i="7">Non, Daisy, Je....Je veux juste savoir ou est Mario, Et...</p>
+				<f i="8">Daisy: Bonjoure Princess! Je suie Daisy!</f>
+				<p i="9">Bonjoure Daisy! Comment allez-vous? Ou est Mario?</p>
+				<f i="10">Daisy: Je ne sais pas ou il est, vraiment...mais je peu vous aider! Tu peux voire quelque chose que j\'ai pour toi?</f>
+				<p i="11">(Select a Number)\n1) Accepter l\'offre\n2) Partir</p>
+				<f i="12">Daisy: Ok! S\'il vous plait, attendez ici, Princesse!</f>
+				<f i="13">Daisy: Vous aimer bien? Oh Princesse...Allons sur mon lit...J\'ai une surprise pour vous!</f>
+				<p i="14">(Sélectionnez un numéro)\n1) Aller sur le lit\n2) Partir</p>
+				<p i="15">(Sélectionnez un numéro)\n1) Cunnilingus   2) Tribadisme    3) 69   4) S\'asoire sur moi!   5) fesse sur fesse\n6) Taper et Doigter le vagin   7) Tété 69   8) Sex avec un gode   9) Partir</p>
 			</scenes>
 			<scenes scene="daisy1">
-				<f i="1">Princess, I want\nsomething from you...</f>
-				<p i="1">Daisy..I...I\nI just want to talk...</p>
-				<p i="1a">Daisy..what\'s...\nthat? Why are you getting naked?</p>
-				<p i="2">Daisy, where is\nthe offer? You said you were going to...</p>
-				<f i="3">I wanted to kiss\nyou so Bad, my Princess...</f>
-				<p i="3">Her kiss is...\nso lovely, so...AROUSING...</p>
-				<p i="4">Daisy...let\'s\nstop... I\'m feeling funny...Ohhhh...</p>
+				<f i="1">Princesse, Je veux\nQuelque chose de vous...</f>
+				<p i="1">Daisy..Je...Je\nJe veux juste parler...</p>
+				<p i="1a">Daisy..qu\'est-ce que...\nC\'est? Pourquoi etes vous nue?</p>
+				<p i="2">Daisy, Ou est\nL\'offre? Vous avez dit que vous alliez...</p>
+				<f i="3">Je voulais\nvous embrasser sensuellement, ma Princesse...</f>
+				<p i="3">Son baiser est si...\nSi mignion, Si...EXITANT...</p>
+				<p i="4">Daisy...Nous allons\nArreter... Je me sens tous drole...Ohhhh...</p>
 			</scenes>
 			<scenes scene="daisy2">
-				<f i="1">Rubbing our tities\nis exciting you, my dear?</f>
-				<p i="1">Oh, Daisy...Stop...\nWe are getting too far, really... Ahh...</p>
-				<f i="2">Hmmmm, (smack!)\nD-E-L-I-C-I-O-U-S!</f>
-				<p i="2">Her mouth tastes\nlike honey! I can\'t...ohh control myself!</p>
-				<f i="3">Ahhhh, You!\nMy pussy is meeting yours as real lips!</f>
-				<p i="3">Ohhh!! Hmmmm\nMore, Daisy....Ohh please rub it more!</p>
-				<p i="4">Great Kingdom!\nAhhh Her cherry is hot, Ahhh! And its sucking mine like nipples!</p>
-				<f i="5">I am pouring all\nmy hot love in your pocket, Princess! ♥</f>
-				<p i="5">Daisy...I am....\ncumming...a lot because of you! Ooooooh!</p>
-				<f i="6">Ooh Princess, I always\nwanted to do this...</f>
-				<p i="6">I really...like it, Daisy...\nI never thougth that making it with a woman would feel so good!</p>
+				<f i="1">Frotter nos nichons\nest si exitant, ma chérie?</f>
+				<p i="1">Oh, Daisy...Arrete...\nNous allons tros loin, Vraiment... Ahh...</p>
+				<f i="2">Hmmmm, (gifle!)\nD-É-L-I-C-I-E-U-X!</f>
+				<p i="2">Sa bouche a un gout\nde miel! Je ne pe pas...ohh me controlé!</p>
+				<f i="3">Ahhhh, Vous!\nMa chatte rencontre la tienne comme deux lévres qui s\'embrasse!</f>
+				<p i="3">Ohhh!! Hmmmm\nPlus, Daisy....Ohh s\'il vous plait frottez plus!</p>
+				<p i="4">Jolie Royaume!\nAhhh Ca chatte est cahude, Ahhh! Et elle suce mes nichon!</p>
+				<f i="5">Je verse tous\nMon amoure encore chaud dans votre poche, Princesse! ♥</f>
+				<p i="5">Daisy...Je....\nJouillllee...Énormement grace a vous! Ooooooh!</p>
+				<f i="6">Ooh Princesse, J\'ai toujoure voulu\nle faire...</f>
+				<p i="6">J\'aime...vraiment ca, Daisy...\nJe n\'aurais jamais pensé que le faire avec une femme me ferais me sentire si bien!</p>
 			</scenes>
 			<scenes scene="daisy3">
-				<f i="1">What we have\nhere? Your bumhole needs a massage!</f>
-				<p i="1">Daisy..this is\ndirty! Reminds me of a Toad who...</p>
-				<f i="3">Oh Princess, you\ndirty pervert! Losing your decency, aren\'t ya?</f>
-				<f i="4">Princess, I will\nsuck you until your hole is swollen!</f>
-				<p i="4">Ohh I can\'t think\nstraight...soo good, I imagine my kingdom sucking all my holes!</p>
+				<f i="1">Quesceque nous\navons la? Votre Anus a besoin d'un petit massage!</f>
+				<p i="1">Daisy..C\'est \nsale! Ca me fais penser a Toad qui...</p>
+				<f i="3">Oh Princesse, vous\nune sale pervers! Oublier votre pudeur un instant?</f>
+				<f i="4">Princesse, Je vais\nvous sucer jusqu\'a ce que votre trou soit gonflé!</f>
+				<p i="4">Ohh Je ne peux pas\ndiscrétement...Ohh ouiii, J\imagine tous mes Toad qui me suce le trou!</p>
 			</scenes>
 			<scenes scene="daisy4">
-				<p i="1">Daisy, aaah, not\nthat! You are sucking my cherry!</p>
-				<f i="2">So Princess, you\nneed more stimuli right there! A great massage, see?</f>
-				<p i="2">Woow, she is now\nfingering my ass. Oooh she really likes to go that far!</p>
-				<f i="3">You juices are\nso creamy, Princess!</f>
-				<p i="3">Ooooh cumming!\nShe stucked her hand inside my asshole!</p>
+				<p i="1">Daisy, aaah, pas\nca! Vous sucer mon vagin!</p>
+				<f i="2">Bon Princesse, vous\naver besoin de plus de stimulation ici! Un bon massage, regarder?</f>
+				<p i="2">Woow, Elle...\nDoigte mon cul maintenant. Oooh elle aime vraiment aller aussi loin!</p>
+				<f i="3">Votre jus est\nTellement crémeux, Princesse!</f>
+				<p i="3">Ooooh Je jouillee!\nElle a collé sa main dans mon cul!</p>
 			</scenes>
 			<scenes scene="daisy5">
-				<p i="1">Daisy...This is\nmaking me fell funny! Ahhh!</p>
-				<f i="1">{CHARACTER_NAME}, I have\na surprise for you, just rub this thing!</f>
-				<p i="2">Gosh! Ahhhh!\nit\'s slippering deeply inside my ass, like a sucker exploring!</p>
-				<p i="3">Oh, Daisy...\nMy asshole is heating up by this thing!</p>
-				<f i="3">{CHARACTER_NAME}, just\nenjoy it, concentrate on it!</f>
-				<p i="4">Ahhhh Ohhh\nI am cumming like crazy! Ohh, we\'re locked!</p>
-				<f i="4">Oh {CHARACTER_NAME}! ♥\nWe\'re made for each other! ♥</f>
+				<p i="1">Daisy...Ca me\nfait me sentir drole! Ahhh!</p>
+				<f i="1">{CHARACTER_NAME}, J\'ai une\nsurprise pour vous, juste frotter cette chose!</f>
+				<p i="2">Ca alor! Ahhhh!\nil glisse profondément dans mon cul, comme une sucette m\'explorant!</p>
+				<p i="3">Oh, Daisy...\nMon cul chauffe par cette chose!</p>
+				<f i="3">{CHARACTER_NAME}, Profitez-en\nconcentrez-vous dessus!</f>
+				<p i="4">Ahhhh Ohhh\nJe jouilllee comme une folle! Ohh, nous sommes blocké!</p>
+				<f i="4">Oh {CHARACTER_NAME}! ♥\nOn est fait l'un pour l'autre! ♥</f>
 			</scenes>
 			<scenes scene="daisy6">
-				<f i="1">{CHARACTER_NAME}, shut\nup, just enjoy it, kay?</f>
-				<p i="1">Daisy, ooooh\nyou are fingering me so tenderly!</p>
-				<f i="2">You\'re really\na pervert, arent ya? Raising your ass like that!</f>
-				<p i="2">Ahhhh! (SLAP!)\nshe knows my weak point in my bare butt! Ah!</p>
-				<f i="3">Your pussy is\nso smooth, cutie!</f>
-				<p i="3">Ooooh fuck me!\nFuck me, Daisy! I need to cum so bad!</p>
-				<f i="4">Cum for me, my\nnasty Princess! ♥</f>
-				<p i="4">Ooooh cumming!\nShe stucked her hand inside my pussy!</p>
+				<f i="1">{CHARACTER_NAME}, Tais\ntoi, Amuse-toi</f>
+				<p i="1">Daisy, ooooh\ntu me doigtes si tendrement!</p>
+				<f i="2">Tu es vraiment \nun pervers, n'est-ce pas? Éléve ton cul comme ça!</f>
+				<p i="2">Ahhhh! (GIFLE!)\nelle connaît le point faible de mes fesses tous nues! Ah!</p>
+				<f i="3">Ta chatte est\nsi dousse, et migionne!</f>
+				<p i="3">Ooooh baise moi!\nBaise moi, Daisy! J'ai besoin de jouir!</p>
+				<f i="4">Éjaculé pour moi, ma\nVilaine Princesse! ♥</f>
+				<p i="4">Ooooh Je jouilleee!\nElle a collé sa main dans ma chatte!</p>
 			</scenes>
 			<scenes scene="daisy7">
-				<p i="1">Daisy, what are\nyou doing? You...</p>
-				<f i="2">Princess, please\nrelax ♥ Lemme do it, \'kay?</f>
-				<p i="2">Daisy, it tickles!\nOh this is getting me aroused...</p>
-				<p i="3">Daisy, oooh no,\ndont lick there! Its... dirty!</p>
-				<f i="4">Mmhmmph! (Suck!)\nI know you love (Suck!) DAT, {CHARACTER_NAME}!</f>
-				<p i="4">Whaaaat? Ahhhh,\nOoooh be gentle to my cherry! It\'s so embarassing!</p>
-				<f i="5">(Suck!) your asshole\nn\' pussy ARE mine!</f>
-				<p i="5">Aaahhhh!\nI am cumming like crazy! So nasty!</p>
+				<p i="1">Daisy, Quesceque\ntu fais? Tu...</p>
+				<f i="2">Princesse, S\'il vous plait\nrelaxer-vous ♥ Laisser-moi faire?</f>
+				<p i="2">Daisy, ca chatouille!\nOh this ca m'éxite enormement...</p>
+				<p i="3">Daisy, oooh non,\nne lèche pas là! C\'est... sale!</p>
+				<f i="4">Mmhmmph! (suce!)\nJe sais que tu aimes (Suce!) , {CHARACTER_NAME}!</f>
+				<p i="4">Quoiiiii? Ahhhh,\nOoooh sois gentil avec mon vagin! C'est trop embarrassant!</p>
+				<f i="5">(Suce!) ton anus\net ta cahtte son a MOI!</f>
+				<p i="5">Aaahhhh!\nJe jouillee comme une folle! Trop dégoutant!</p>
 			</scenes>
 
 	<!--MORE THAN ONE PRINCESS-->
 			<scenes scene="princessesGangbang">
-				<p i="1">What are you\ngirls doing here!?</p>
-				<f i="1a">Well, ever since\nour sessions, we have been kinda getting attached to you.</f>
-				<f i="1b">That is why we\ndecided we want to have some more fun together!</f>
-				<e i="1c">They have\nbeen very sexy and wet</e>
-				<p i="2">Well... thanks\ngirls, I would not mind having some more fun...</p>
-				<f i="2a">That\'s great!\nWe are also thinking of adding some... spice.  Wendy?</f>
-				<p i="3">Wow... so this\nis what you meant by spice... I like it.</p>
-				<f i="3a">Excellent! Now,\ncome over here and show us what you got, {CHARACTER_NAME} babe...</f>
-				<p i="4">These dicks are\nso big and hot, I am going to be addicted to them!</p>
-				<f i="4a">Yes, {CHARACTER_NAME},\nyes. Your mouth and hand feels sooo good!</f>
-				<f i="4b">I... cannot take it anymore, {CHARACTER_NAME}, I need your ass!</f>
-				<e i="4c">Come on, {CHARACTER_NAME},\ngive me some more, I’m so horny!</e>
-				<p i="5">Oh yes! This\n is just what I need! Keep going, Honey!</p>
-				<f i="5b">Are you ready\n to have the time of you life, {CHARACTER_NAME}?</f>
-				<f i="6">What a delicious\nnasty pussy, dear...</f>
-				<p i="6a">Sooo\nHOT...</p>
-				<f i="6b">Oh, I\nam cumming!</f>
-				<e i="6c">I am\ncumming, bitch!</e>
-				<f i="6d">I am\ncumming!</f>
-				<p i="7">OH, girls, you\nare so sweet! If Mario was not around, I would totally go for it... Everyday...</p>
-				<f i="7a">We love you\nso much, {CHARACTER_NAME}!</f>
-				<f i="7b">We love you\nso much, {CHARACTER_NAME}!</f>
-				<e i="7c">We love you\nso much, {CHARACTER_NAME}!</e>
+				<p i="1">Que faites-vous\nles filles ici!?</p>
+				<f i="1a">Eh bien, depuis nos\n sessions, nous avons été un peu attachés à vous.</f>
+				<f i="1b">C\'est pourquoi nous avons\ndécidé que nous voulons avoir plus de plaisir ensemble!</f>
+				<e i="1c">Ils sont\ntrès sexy et mouillés</e>
+				<p i="2">Eh bien... merci\nles filles, Cela ne me dérangerait pas d\'avoir plus de plaisir...</p>
+				<f i="2a">C\'est génial!\nNous pensons aussi ajouter quelque chose de pluss... piquant.  Wendy?</f>
+				<p i="3">Wow... c\'est ca\nque tu voulait dire par \'plus piquant\'... J\'aime ça.</p>
+				<f i="3a">Excellent! Maintenant,\nvenez ici et montrez-nous ce que vous avez, {CHARACTER_NAME} bébé...</f>
+				<p i="4">Cette bite est\nSi grosse et chaude, Je vais être addicte a ca!</p>
+				<f i="4a">Oui, {CHARACTER_NAME},\nOui. Votre bouche est vos mains sont siiii bonness!</f>
+				<f i="4b">Je... Je ne pe plus tenir, {CHARACTER_NAME}, J\'ai besoin de votre cul!</f>
+				<e i="4c">Vener-ici, {CHARACTER_NAME},\nDonnez-moi s\'en un peu plus de, Je suis tellement excitée!</e>
+				<p i="5">Oh Oui! C\'est\n juste ce dont j\'ai besoin! Continuer, Honey!</p>
+				<f i="5b">Etes-vous prétte \n A vous s\'amuser comme une folle, {CHARACTER_NAME}?</f>
+				<f i="6">Quelle délice\nVilaine chatte, chérie...</f>
+				<p i="6a">Tellementttt\nCHAUDDD...</p>
+				<f i="6b">Oh, Je\nJouilleeee!</f>
+				<e i="6c">Je suie en train de\nJouilllre, comme une pute!</e>
+				<f i="6d">Je suie en train de\nJouilllre!</f>
+				<p i="7">OH, Les filles, vous\netes si douces! Si Mario n\'était pas là, Je voudrais absolument le faire... Tous les jours...</p>
+				<f i="7a">On\nvous aimes tous, {CHARACTER_NAME}!</f>
+				<f i="7b">On\nvous aimes tous, {CHARACTER_NAME}!</f>
+				<e i="7c">On\nvous aimes tous, {CHARACTER_NAME}!</e>
 			</scenes>
 			
 	<!--BOBOMBS-->
 			<scenes scene="bobomb1">
-				<p i="1">Wow! This\nlittle guy\'s got a long fuse!</p>
-				<p i="2">It\'s safe now,\nbut I should \'defuse\' a few more, just in case.</p>
+				<p i="1">Wow! Ce\npetit gars a une longue mèche!</p>
+				<p i="2">C\'est sécurisé maintenant,\nMais je deverais \'désamorcer\' un peu plus, juste au cas où.</p>
 			</scenes>
 			<scenes scene="bobomb2">
-				<p i="1">I need to give\nthis guy some relief before he blows!</p>
-				<p i="2">Wow, it\'s so\nexplosive! And such thick cum.</p>
+				<p i="1">Je doit donner\na ce bonhomme un certain soulagement avant qu\'il ne souffle!</p>
+				<p i="2">Wow, C\'est tellement\njouillsife! Et un tel sperme épais.</p>
 			</scenes>
 			<scenes scene="bobomb3">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="2c">I hope Mario\ndoesn\'t mind a little bobomby cream when I find him.</p>
-				<p i="2d">Oh no! He\'s\nabout to blow! I need to defuse it fast!</p>
-				<p i="3">Agh! Again?\nI must get out! He keeps bombing me!</p>
+				<p i="1">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!!</p>
+				<p i="1a">Non! Pas ici!\nC\'est a Mario ici!</p>
+				<p i="1b">Non! Ne touche\npas ma fente royale!</p>
+				<p i="2">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais..</p>
+				<p i="2a">Ah! M-mais\nJe dois faire ca pour sauver Mario.</p>
+				<p i="2b">Ah! Ma petite\nfleur a coule avant son temps!</p>
+				<p i="2c">J\'éspére que Mario\ndne ment voudera pas.Un peu de \nsperme de Bomby dans ma chatte ne fais pas de mal.</p>
+				<p i="2d">Oh non! Il est\nsur le poin de souffler! J\'ai besoin de le désamorcer rapidement!</p>
+				<p i="3">Agh! Encore?\nJe dois partir! Il ne cesse de me bombarder!</p>
 			</scenes>
 			<scenes scene="bobomb4">
-				<p i="1">Please let my\nass be enough to defuse it in time!</p>
-				<p i="2">Did I warp to\na new world? I\'ll check After I.... stop cumming.</p>
+				<p i="1">S\'il vous plaît laissez utillisé mon cul il suffira pour vous désamorcer à temps!</p>
+				<p i="2">Ai-je etes teleporté dans\nun nouveau monde? Je vais vérifier Après que.... J\'Arreterai de jouilllllre.</p>
 			</scenes>
 			<scenes scene="bobomb5">
-				<p i="1">Bobomby, stop\nthat! I dont want that!</p>
-				<p i="2">Ohhh That slip...\nNow how can I get out of here?</p>
-				<p i="3">This is...\nOOoh Oww Ooohh, goooood!</p>
-				<p i="4">I am nailed\ndown....really gooood.</p>
+				<p i="1">Bomby, Arrete\nCa! Je ne veux pas ça!</p>
+				<p i="2">Ohhh Ca glisse...\nMaintenant, comment je peux sortir d\'ici?</p>
+				<p i="3">C\'est...\nOOoh Oww Ooohh, Bonnnnnnnnnnnn!</p>
+				<p i="4">Ahhhhhhhh\nJe ne peux plus bougé.... c\'est Tellement Bonnnnnnnn.</p>
 			</scenes>
 			<scenes scene="bobomb6">
-				<p i="1">Huh? Two of\nthem? Oh no, I better suck him well, and how\'s about my crotch?</p>
-				<p i="2">Ahhhhh, they\'re\nfucking my two holes! Oh don\'t explode, please!</p>
-				<p i="2a">Ahhhhh, they\'re\nboth fucking my pussy!! Slowly! Oh don\'t explode, please!</p>
-				<p i="3">Oooww, cumming!\n They\'re stuck deep inside! I am dizzy...</p>
+				<p i="1">Hain? Deux d\'entre\neux? Oh non, Je ferais mieux de le bien sucer , et comment va mon entrejambe?</p>
+				<p i="2">Ahhhhh, Ils sons en train\nde baiser mes deux trous! Oh Je vais essaiyer de ne pas exploser, Ohhhhh!</p>
+				<p i="2a">Ahhhhh, Ils\nbaisse tous les deux ma chatte!! Doucement! Oh ne m\'exploser pas, S\'il vous plaît!</p>
+				<p i="3">Oooww, Ils éjaculeeee!\n Ils sont coincés profondément à l'intérieur! Je suis sonné...</p>
 			</scenes>
 			<scenes scene="bobomb7">
-				<p i="1">OOohh, he\nalmost blew! He is fucking my little pussy with his pole...</p>
-				<p i="1a">OOohh, he\nalmost blew! He is fucking my cute ass with his pole...</p>
-				<p i="1b">Aaahh, he doesn\'t\nlose any time! He\'s already inside my butt!</p>
-				<p i="2">Oooooh, it\'s\nALL inside...</p>
-				<p i="3">Ahhhhhh, what!??\n He\'s spurting me, like I am his bullet!</p>
-				<p i="4">Ahhhhhh, he\nEXPLODED! OOooh!</p>
-				<p i="5">Oooww, my\npussy it itching so much!</p>
-				<p i="6">Oooww, my\nrosebud is cumming and itching! I better massage it!!</p>
+				<p i="1">OOohh, Il\na presque failli soufflé!Il baise ma petite chatte avec sa bite...</p>
+				<p i="1a">OOohh, Il\na presque soufflé! Il baise mon joli cul avec sa bite...</p>
+				<p i="1b">Aaahh, Il ne\nperd pas de temps! Il est déjà dans mes fesses!</p>
+				<p i="2">Oooooh,\nTOUT est à l'intérieur....</p>
+				<p i="3">Ahhhhhh, Quoi!??\n Il me gicle dessus, comme si j\'etais sa munition !</p>
+				<p i="4">Ahhhhhh, Il a\nEXPLOSÉ! OOooh!</p>
+				<p i="5">Oooww, Ma\nchatte me démange tellement!</p>
+				<p i="6">Oooww, Ma\nchatte Jouilleee et  me démange tellement! Je ferais mieux de la masser!!</p>
 			</scenes>
 
 	<!--MARIO-->
 			<scenes scene="mario1">
-				<p i="1">Oh my dear\nMario...Ohh, how I love your manhood...Your meaty balls...</p>
-				<p i="2">Hmmmnmp!\nMy mouth Mnnhnmph was made to mmnnhp keep your penis inside...</p>
+				<p i="1">Oh mon cher\nMario...Ohh, comme j'aime ta virilité...Et t\'est beau Tésticules...</p>
+				<p i="2">Hmmmnmp! Ma bouche Mnnhnmph est faite pour mmnnhp garder ton pénis a l\'intérieur...</p>
 				<p i="3">Hmmmnmp!\nMmmnph! mmmmnp! Mmmnph! mmmmnp!</p>
 			</scenes>
 			<scenes scene="mario2">
-				<p i="1">Oh, Mario...\nAre you going to eat your breakfast right away, my love?</p>
-				<p i="1a">Oh, Mario...\nYou are sniffing and licking my asshole!</p>
-				<p i="2">Ohhh! Ahh!!\nSo you are fucking my royal bumhole?! OOooh!</p>
-				<p i="2a">Ahhh! Ahh!!\nMy ass! You are fucking it so happily!</p>
-				<p i="3">Oh Mario, Aaah!\nFuck me, Fuck me hard! Get your prize! Drench my insides!</p>
-				<p i="3a">Oh my Dear! Oohh!\nYou are fucking me so hard! I\'ll give you my cum!</p>
-				<p i="4">AAAAAAAhhhh!\nCumming!! Mario, I came!!</p>
-				<p i="4a">AAAAAAAhhhh!\nCumming!! Mario, I LOVE YOU!! ♥</p>
+				<p i="1">Oh, Mario...\nAllez-vous manger votre petit-déjeuner tout de suite, mon amoure?</p>
+				<p i="1a">Oh, Mario...\nVous reniflez et léchez mon cul!</p>
+				<p i="2">Ohhh! Ahh!!\nAlors tu es en train de baiser mon anus royal?! OOooh!</p>
+				<p i="2a">Ahhh! Ahh!!\nMon cul! Tu le baise si joyeusement!</p>
+				<p i="3">Oh Mario, Aaah!\nBaise moi, Baise moi fort! Obtien ton prix! mouille mon intérieur!</p>
+				<p i="3a">Oh mon amoure! Oohh!\nTu me baise si fort! Donne moi ton sperme!</p>
+				<p i="4">AAAAAAAhhhh!\nÉjaculeeee!! Mario, Ca vienn!!</p>
+				<p i="4a">AAAAAAAhhhh!\nÉjaculeeee!! Mario, JE T\'AIME!! ♥</p>
 			</scenes>
 			<scenes scene="mario3">
-				<p i="1">My hero!!\nFuck my ass! I am yours! Ahhh! I\'m your pizza!</p>
-				<p i="2">Ahhhhh! Oooh\nMario...You are totally inside...my bumhole! ♥</p>
-				<p i="3">AHHHHH!\nWe\'re cumming right in this restaurant!</p>
+				<p i="1">Mon héro!!\nBaise mon cul! Je suie ta! Ahhh! Je suie ta Pizza!</p>
+				<p i="2">Ahhhhh! Oooh\nMario...Vous êtes totalement à l\'intérieur de...ma chatte! ♥</p>
+				<p i="3">AHHHHH!\nNous jouissons dans ce restaurant.Je nétoirais!</p>
 			</scenes>
 			<scenes scene="mario4">
-				<p i="1">Oh my love,\nNooo! No anal, remember? I am sparing my roseb...Ahhhhh!</p>
-				<p i="1a">Oh Mario\nYou really love my...my ass, right? Oooh...</p>
-				<p i="2">His sausage is\npouring milk already... Ahhh... in my bum!</p>
-				<p i="3">He\'s cummed\nalready, now he\'s licking my polished butt!</p>
-				<p i="4">Ahhhhhh! I am\ncumming so much! He doesnt stop licking it!</p>
+				<p i="1">Oh mon amoure,\nNooon! pas anal je... Bon Je te partage mes fesse...Ahhhhh!</p>
+				<p i="1a">Oh Mario\nTu aimes vraiment mon...mon cul, pas vrais? Oooh...</p>
+				<p i="2">Ca Bite verse\ndeja du lait... Ahhh... dans mon cul!</p>
+				<p i="3">Il Éjacule\ndéjà, maintenant il lèche mon cul brillant!</p>
+				<p i="4">Ahhhhhh! Je\nJouilleeee Tellement! Il n\'arrête pas de le lécher!</p>
 			</scenes>
 			<scenes scene="mario5">
-				<p i="1">Oh my knight\nwith a shining armor!! Please break it slowly!</p>
-				<p i="1a">Oh, I am being\nfucked tenderly by you my love!</p>
-				<p i="2">Ohhh, I feel\nyour noodles! I\'m now yours! Aaaah!</p>
-				<p i="2a">Ohhh, Mario!\nFuck me, keep fucking me! This is so tender!</p>
-				<p i="3">AHHHHH!\nWe are cumming together, my love!</p>
+				<p i="1">Oh mon chevalier\na l\'armure brillante!! S\'il vous plaît violé moi lentement!</p>
+				<p i="1a">Oh, Je suie\ntendrement par toi mon amour!</p>
+				<p i="2">Ohhh, Je sens\nton pénis! Je suie maintenant ta...! Aaaah!</p>
+				<p i="2a">Ohhh, Mario!\nBaise moi, continue à me baiser! C\'est tellement tendre!</p>
+				<p i="3">AHHHHH!\nNous jouissons ensemble, mon amour!</p>
 			</scenes>
 			<scenes scene="mario6">
-				<p i="1">Oh, Mario...\nPlease sit back and enjoy, my love!</p>
-				<p i="2">Ohhh! I am\nso aroused, Mario! I\'ll rub my cherry here!</p>
-				<p i="3">Oooh, I am going ot make this pole slippery wet!!</p>
-				<p i="4">Oh Mario, Aaah!\nI am spanking my butt for you! Take this!!</p>
-				<p i="5">Oh my Dear! See\nhow my butt is shining for you to play with it! Oooh!</p>
-				<p i="6">Ahhh, I am\nshaking, my knight! I LOVE YOU!! You can use it!</p>
-				<p i="7">Oh, darling!\nYou jumped right into my spot, Ahhhh!</p>
-				<p i="7a">Oh, darling!\nFuck me!! I am your whore!! Ohhhh!</p>
-				<p i="8">Ahhh, I am cuming,\nmy pizza-sweaty flavoured darling!  Hmmmm!</p>
+				<p i="1">Oh, Mario...\nS\'il te plaît assie toi et profites-en, mon amoure!</p>
+				<p i="2">Ohhh! Je suie\nsi éxité, Mario! Je vais frotter ma Chatte ici, Ok ?!</p>
+				<p i="3">Oooh, Je vais rendre cette Bite mouillée!!</p>
+				<p i="4">Oh Mario, Aaah!\nJe me suie fessé pour vous, Prends ça!!</p>
+				<p i="5">Oh mon chérie! Voie\ncomment mon derrière brille pour que tu joues avec! Oooh!</p>
+				<p i="6">Ahhh, Je\ntremble, mon chevalier! JE T\'AIME!! Tu peux l\'utiliser!</p>
+				<p i="7">Oh, Chérie!\nVous avez sauté dans mon trou, Ahhhh!</p>
+				<p i="7a">Oh, Chérie!\nBaise moi!! Je suis ta pute!! Ohhhh!</p>
+				<p i="8">Ahhh, Je jouilleee,\nma pizza parfumé a la mouille!  Hmmmm!</p>
 			</scenes>
 			<scenes scene="mario7">
-				<e i="1">Hi, {CHARACTER_NAME}! Still looking for Mario? Or have you fallen for his impersonator?</e>
-				<p i="1">Maybe, maybe not. Maybe I\'m just horny and need someone to take the edge off.</p>
-				<e i="1a">\nIt\'sa me! Doo-pliss! *Psst* Do I have to?</e>
-				<p i="1a">Oh? Can it be?\nIs it really you, Mario? *whisper* Play along or I walk.</p>
-				<e i="1b">\nIt\'sa me! Mar-io!</e>
-				<p i="1b">\nOh? Can it be? Is it really you, Mario?</p>
-				<e i="2">Just admit it,\n{CHARACTER_NAME}! You love my dick too much to leave me!</e>
-				<p i="2">Hah! Aren\'t you\nfull of yourself? Just get your dick inside me already!</p>
-				<e i="2a">\nOkey-dokey!</e>
-				<p i="2a">\nHmm, well, I...</p>
-				<e i="3">Last chance, {CHARACTER_NAME}!\nWhose dick do you want right now?</e>
-				<p i="3">Aaahh, fuck it!\nI want it so bad! Fuck me right now with your big...fat...hard...COCK!</p>
-				<e i="3a">\nLet\'s-a go!</e>
-				<p i="3a">Oh my! This is all so sudden! I was hoping for something more, er, private?</p>
-				<e i="4">Oooh yeah! I love fucking your pussy, {CHARACTER_NAME}!</e>
-				<p i="4">\nYes! I love it so much! Fuck me hard, Doopliss!</p>
+				<e i="1">Salut, {CHARACTER_NAME}! Toujours à la recherche de Mario? Ou êtes-vous tombé pour son imitateur?</e>
+				<p i="1">peut être, peut être pas. peut être Je suis juste excitée et j\'ai besoin de quelqu\'un pour prendre le bord.</p>
+				<e i="1a">\nElle meme! Doo-pliss! *Psst* Est-ce que je dois?</e>
+				<p i="1a">Oh? Peut etes?\nC\'est vraiment vous, Mario? *chuchotement* Entrez dans le jeu ou je marche.</p>
+				<e i="1b">\nElle meme!! Mar-io!</e>
+				<p i="1b">\nOh? Peut etes?\nC\'est vraiment vous, Mario?</p>
+				<e i="2">Admettez-le,\n{CHARACTER_NAME}! Tu aimes trop ma bite pour me laisser!</e>
+				<p i="2">Hah! Vous n\'ette\npas vous meme? Juste metter votre bite en moi déjà!</p>
+				<e i="2a">\nOkii-dokii!</e>
+				<p i="2a">\nHmm, bien, Je...</p>
+				<e i="3">Derniér chance, {CHARACTER_NAME}!\nQuelle bite que tu veux maintenant?</e>
+				<p i="3">Aaahh, Putain!\nJe le veux tellement! Baise-moi maintenant avec ta grosse...grasse...dur...BITE!</p>
+				<e i="3a">\nAllons-y!</e>
+				<p i="3a">Oh mon! Tout ca est si soudain! J\'espérais quelque chose de plus, euh, privé?</p>
+				<e i="4">Oooh Ouiii! J\'aime baiser votre chatte, {CHARACTER_NAME}!</e>
+				<p i="4">\nOui! j\'aime tellement ca! Baise-moi fort, Doopliss!</p>
 				<e i="4a">\nMamma mia!</e>
-				<p i="4a">\nAaah! It\'s in! Mario is finally inside me! Oh, it feels so good!</p>
-				<e i="5">Fuck, {CHARACTER_NAME}!\nI can\'t hold this form much longer!</e>
-				<p i="5">Who cares?\nFuck me harder! Your dick is making me go crazy!</p>
-				<e i="5a">\nHere we go!</e>
-				<p i="5a">Oh, yes! Fuck me,\nMario! I don\'t care who sees us anymore! Just keep fucking me!</p>
-				<e i="6">Oh {CHARACTER_NAME}! I\'m gonna cum! I\'m gonna fill your pussy with all of my CUM!!</e>
-				<p i="6">Yes! YES! Fuck me, Doopliss! Your huge dick is gonna make me cum again!</p>
-				<e i="6a">Fuck, {CHARACTER_NAME}!\nYour pussy is so tight! I\'m gonna blow my load inside you!</e>
-				<p i="6a">\nYes! YES! Pound my pussy! Fuck me hard! I\'m gonna CUM!</p>
-				<e i="6b">Fuck! I\'m fucking you {CHARACTER_NAME}! Your pussy is so tight around my dick!</e>
-				<p i="6b">\nYes! YES! Huh? Did your voice change? Oh, who cares? Pound me harder!</p>
-				<e i="6c">\nHot-hot-hooooot!</e>
-				<p i="6c">\nYes! YES! Pound me, Mario! Fuck me hard! I\'m gonna cum! Mario!</p>
-				<e i="7">Oooh! I came so\nhard! I can\'t cum another drop!</e>
-				<p i="7">Oooh! I love you,\nDoo--Oops! I almost forgot I still need to find Mario!</p>
-				<e i="7a">Oooh! I came so\nhard! Is there still room for Mario\'s cum in there?</e>
-				<p i="7a">Oh! Oh yes!\nI came so much! Can we go again? I, er, want to practice for Mario!</p>
-				<e i="7b">Oooh! I came so\nhar...d. Oh! Whoops! Thanks for the fuck, {CHARACTER_NAME}!</e>
-				<p i="7b">Oh! Oh yes!\nI came so hard! I love you, M--WHO THE FUCK ARE YOU!?</p>
-				<e i="7c">\nThank you so much for-to-fucking my dick!</e>
-				<p i="7c">Oh! Oh yes!\nI came so hard! I love you--r Mario impression!</p>
-				<e i="7d">\nThank you so much for-to-playing my game!</e>
-				<p i="7d">\nOh! Oh yes! I came so hard! I love you, Mario!</p>
+				<p i="4a">\nAaah! C\'est dedans! Mario est enfin en moi! Oh, ça fait tellement de bien!</p>
+				<e i="5">Putain, {CHARACTER_NAME}!\nJe ne peux pas tenir cette forme plus longtemps!</e>
+				<p i="5">On s\'en fout?\nBaise-moi plus fort! Ta bite me rend fou!</p>
+				<e i="5a">\nOn y va!!</e>
+				<p i="5a">Oh, Oui! Baise moi,\nMario! Je me fiche de qui nous voit! Juste continue à me baiser!</p>
+				<e i="6">Oh {CHARACTER_NAME}! Je vais Éjaculé! Je vais remplir ta chatte avec tout mon SPERME!!</e>
+				<p i="6">OUI! OUI! Baise moi, Doopliss! Ton énorme bite va me faire jouir à nouveau!</p>
+				<e i="6a">Putain, {CHARACTER_NAME}!Ta chatte est tellement serrée! Je vais devoire me déchargé a l\'interieur de vous!</e>
+				<p i="6a">\nOui! Oui! Foure ma chatte! Baise moi fort! Je vais jouilllre!</p>
+				<e i="6b">Putain! Je te baise {CHARACTER_NAME}! Ta chatte est si serrée autour de ma bite!</e>
+				<p i="6b">\nOui! OUI! Huh? Votre voix a changé? Oh, on s\'en fout? Fouré moi plus avec votre Bite!</p>
+				<e i="6c">\nchaud-chaud-chauuuudddd!</e>
+				<p i="6c">\nOui! OUI! Foure moi, Mario! Baise moi fort! Je vais jouillllre! Mario!</p>
+				<e i="7">Oooh! Je me suie\nTellement dechargé! Je ne peux pas éjaculer une seule goutte!</e>
+				<p i="7">Oooh! Je vous aime,\nDoo--Oops! J\'ai presque oublié j\'ai encore besoin de trouver Mario!</p>
+				<e i="7a">Oooh! Je me suie\nTellement dechargé! Y a-t-il encore de la place pour le sperme de Mario??</e>
+				<p i="7a">Oh! Oh oui!Je jouille tellement! Pouvons-nous le refaire? Je, er, je veux m\'entrainer pour Mario!</p>
+				<e i="7b">Oooh! Je jouille tellem...t. Oh! Whoops! Merci pour votre amoure, {CHARACTER_NAME}!</e>
+				<p i="7b">Oh! Oh oui!\nJe jouille tellement! Je T\'aime, QU...QUI ETES-VOUS!?</p>
+				<e i="7c">\nMerci beaucoup d\'avoir pris soin de ma bite!</e>
+				<p i="7c">Oh! Oh oui!\nJe jouille tellement! Je T\'aime Mari...Imitateur de Mario!</p>
+				<e i="7d">\nMerci beaucoup de jouer à mon jeu!</e>
+				<p i="7d">\nOh! Oh oui! Je jouille tellement! Je T\'aime , Mario!</p>
 			</scenes>
 			
 	<!--CHOMPS-->
 			<scenes scene="chomp1">
-				<p i="1">He\'s...showing\nme that! Does he want me to play with this or something?</p>
-				<p i="2">I really\nshouldn\'t be doing this, but... but...</p>
-				<p i="3">\nHe smells soo WILD!</p>
-				<p i="4">Ahhh!\nHe\'s cumming a lot!</p>
+				<p i="1">Il me...montre\nCa! Est-ce qu\'il veut que je joue avec ça?</p>
+				<p i="2">Je ne devrais\nvraiment pas faire ca, mais... mais...</p>
+				<p i="3">\nCa sent tellement Bon!</p>
+				<p i="4">Ahhh!\nIl Éjacule Beaucoup!</p>
 			</scenes>
 			<scenes scene="chomp2">
-				<p i="1">\nCome here, big boy!</p>
-				<p i="2">Cum for me,\nyou balls of steel!</p>
-				<p i="3">\nOh! It\'s canine CUM!</p>
+				<p i="1">\nViens ici, grand garçon!</p>
+				<p i="2">Éjaculer pour moi,\n avec vos boules d'acier!</p>
+				<p i="3">\nOh! C\'est du sperme de chien.Je reconner cette odeur!</p>
 			</scenes>
 			<scenes scene="chomp3">
-				<p i="1">Ohhh, he\n slipped me down! Get away....</p>
-				<p i="2">Ohhhh stop,\nget out of me! He\'s..Heavy!</p>
-				<p i="3">\nGurgle! You\n Glg cum glglg oooohgllg</p>
-				<p i="4">\nI waont glglgl get glbg out!</p>
+				<p i="1">Ohhh, Il\n Ma fais glisser par terre! Va-t-en....</p>
+				<p i="2">Ohhhh stop,\nVa-t-en de moi! Il est...épais!</p>
+				<p i="3">\nGurgle! Tu\n Glg éjacule glglg oooohgllg</p>
+				<p i="4">\nJe Veu glglgl glbg sortir!</p>
 			</scenes>
 			<scenes scene="chomp4">
-				<p i="1">What are\nyou intending to... Ahhhh!</p>
-				<p i="2">You aren\'t going\n to do this...right here! Ahhhhh Ohhh!</p>
-				<p i="3">Stop! I\'m\n feeling funny! This tongue is pure flesh!</p>
-				<p i="4">\nAhhhhhh! Cumming! You\'re MY DOGGIE!</p>
+				<p i="1">Qu\'avez-vous\nL\'intension de... Ahhhh!</p>
+				<p i="2">Vous n\'allez pas\n faire ca...ici! Ahhhhh Ohhh!</p>
+				<p i="3">Stop! Je\n Me sens Bizzare! Cette langue est si douce!</p>
+				<p i="4">\nAhhhhhh! Je jouilllee! Tu est MON DOGGIE!</p>
 			</scenes>
 			<scenes scene="chomp5">
-				<p i="1">Hey!! Dont do that here... Be quiet! Lemme go.</p>
-				<p i="2">You aren\'t going\n to do this...right here! Ahhhhh Ohhh!</p>
-				<p i="3">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="3a">No! Not\nthere! That\'s for Mario!</p>
-				<p i="3b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="4">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="4a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="4b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="4c">I hope Mario\ndoesn\'t mind if he finds a doggy scent there!</p>
-				<p i="4d">His thing\nis...ohh... penetrating me! A doggy dick ...oh... A massive one!</p>
-				<p i="5">He\'s now\nfucking my little cherry like crazy!</p>
-				<p i="6">Ohhhh!\nI\'m washed out! I am his doggy salad!</p>
+				<p i="1">Hey!! Ne fais pas ça ici... Soi sage! Laisse-moi partir.</p>
+				<p i="2">Vous n\'alez pas\n faire ca...ici! Ahhhhh Ohhh!</p>
+				<p i="3">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!!</p>
+				<p i="3a">Non! Pas ici!\nC\'est a Mario ici!</p>
+				<p i="3b">Non! Ne touche\npas ma fente royale!</p>
+				<p i="4">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais...</p>
+				<p i="4a">Ah! M-mais\nJe dois faire ca pour sauver Mario.</p>
+				<p i="4b">Ah! Ma petite\nfleur a coule avant son temps!</p>
+				<p i="4c">J\'éspére que Mario\ndne ment voudera pas.Un peu de \nsperme de Doggy dans ma chatte ne fais pas de mal!</p>
+				<p i="4d">Sa chose me\npénétre! La bite de doggy ...oh... Est si massife!</p>
+				<p i="5">Il est en train\nde Baiser ma petit chatte c\'est fou!</p>
+				<p i="6">Ohhhh!\nJe suis lavé maintenant! Je suie sa salle chienne!</p>
 			</scenes>
 			<scenes scene="chomp6">
-				<p i="1">Oh, he\'s rubbing his\n dick so strong as usual...Oooh!</p>
-				<p i="2">Ahhhh! Guess I have\nto wait till he cums his dirty load again! Oooh!</p>
-				<p i="3">Ooooh hey... What\nhappened to my pussy? We\'re stuck! Hmmmm!</p>
-				<p i="4">Ahhh! Get it out!\nOoooh its increasing inside! Nooo, get out!</p>
-				<p i="5">Ahhh, Ohhhh!\nStuck it out, pleeease, Ahhh! Its getting worse!</p>
-				<p i="6">His cumming!\nIt\'s a LAARGE load! Woof, Woof! Oooouh!!</p>
+				<p i="1">Oh, Il frotte ca\n Bite plus fort que d'habitude...Oooh!</p>
+				<p i="2">Ahhhh! Je supose que\nque je doit attendre qu\'il éjacule son sperme si sale! Oooh!</p>
+				<p i="3">Ooooh hey... qu\'est-il\narrivé a ma chatte? nous sommes coincés! Hmmmm!</p>
+				<p i="4">Ahhh!Sors-la!\nOoooh elle progresse a l\'interieur! Nooon!</p>
+				<p i="5">Ahhh, Ohhhh!\nSorté la, S\'il vous plaît, Ahhh! Ca empire!</p>
+				<p i="6">Il éjaculeeee!\nIl a décharger tous ca pour moi?,Il est vraiment gentil enfaite! Woof, Woof! Oooouh!!</p>
 			</scenes>
 
 	<!--ANUBOOS (Dark dogs). Its considered an \'enemy\', but he is a bit friendly-->
 			<scenes scene="anuboo1">
-				<p i="1">Poor doggy!\nWhat are these markings here for?</p>
-				<p i="2">Oh! Well...\nthat certainly got you excited!</p>
+				<p i="1">Pauvre chien!\nQuelles sont ces marques ici?</p>
+				<p i="2">Oh! Bien...\ncela vous a certainement excité!</p>
 			</scenes>
 			<scenes scene="anuboo2">
-				<p i="1">Ah! this is\neven more embarassing than going at it with my leg!</p>
-				<p i="2">I get the\nfeeling you may be smarter than an actual dog...</p>
+				<p i="1">Ah! C\'est encore\nplus embarrasent que d\'y aller avec ma jambe!</p>
+				<p i="2">J\'ai l\'impresion que\ntu es peut-être plus intelligent qu'un vrai chien...</p>
 			</scenes>
 			<scenes scene="anuboo3">
-				<e i="1">Please, accept\nmy offering...</e>
-				<e i="2">Ahh... just\nlike it was eons ago...</e>
+				<e i="1">Please, accepter\nmon offre...</e>
+				<e i="2">Ahh...Comme cela\n na pas était il y a des éternités...</e>
 			</scenes>
 			<scenes scene="anuboo4">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">\nno! Don\'t\ntouch my royal slit!</p>
-				<p i="1c">This is so\nstrange! I can\'t feel him inside but I\'m being pleasured!</p>
-				<p i="2">Well, he\ncertainly knows how to treat royalty...</p>
+				<p i="1">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!!</p>
+				<p i="1a">Non! Pas ici!\nC\'est a Mario ici!</p>
+				<p i="1b">Non! Ne touche\npas ma fente royale!</p>
+				<p i="1c">C\'est tellement\nétrange! Je ne peux pas le sentir à l\'intérieur mais je suis en train de me faire plaisir!</p>
+				<p i="2">Eh bien, Il\nsait comment traiter la royauté lui...</p>
 			</scenes>
 
 	<!--BOOS (Ghosts)-->
 			<scenes scene="boo1">
-				<p i="1">Oh! Please\ndo keep that hidden!</p>
-				<p i="2">Let me have a peek, okay? Just a little one!</p>
-				<p i="3">Poor little guy. Your\ndick is so hard, but there\'s no one around to milk it.</p>
-				<p i="4">There you go. Let it aaaalllll out...mmm. Ghost cum smells so good.</p>
+				<p i="1">Oh! S\'il vous plaît \ngardez cela caché!</p>
+				<p i="2">Laissez-moi jeter un coup d\'oeil, Ok? Juste un petit!</p>
+				<p i="3">Pauvre petit gars. Ta\nbite est si dure mais il n\'y a personne autour pour la traire.</p>
+				<p i="4">Voilà. Laisser tousssss ce que vous aver sortir ...mmm. Le sperme de fantome sens si bon.</p>
 			</scenes>
 			<scenes scene="boo2">
-				<p i="1">Oh dear!\n Please do keep that hidden!!</p>
-				<p i="2">Let me have a peek, okay? Just a little one!</p>
-				<e i="3">Oooh, yeah!\nYour hands feel so good on my dick. You\'re a pro!</e>
-				<p i="3">Stop that,\nwhat are you doing? Who am I, Where are you!</p>
-				<e i="4">Oh yeah, Princess {CHARACTER_NAME}!\nRub my balls! Watch me cum all over your face!</e>
-				<p i="4">Wha-ah! What\'s\ngoing on!? Why do I? Why am I cumming with a diiiiiick?</p>
+				<p i="1">Oh Chérie!\n S\'il vous plaît gardez cela caché!!</p>
+				<p i="2">Laissez-moi jeter un coup d\'oeil, Ok? Juste un petit!</p>
+				<e i="3">Oooh, Oui!\nVos mains se sentent si bien sur ma bite. Vous etes une pro!</e>
+				<p i="3">Arrête ça,\nQu'est-ce que vous faite? Qui suis je, Où es-tu!</p>
+				<e i="4">Oh Oui, Princesse {CHARACTER_NAME}!\nFrotte mes Tésticules! Regarde-moi éjaculé partout sur votre visage!</e>
+				<p i="4">Qu-oi! Que\nse passe-t-il!? Pourquoi je? Pourquoi je jouille avec une biiiiite?</p>
 			</scenes>
 			<scenes scene="boo3">
-				<p i="1">Again?\nI\'m getting hot due to that thing banging around...</p>
-				<p i="2">I\'ll take a peek,\njust once more!</p>
-				<p i="3">Oh-what!? Agh! Oh god! Oh no! Oh wow! Its dick is in my stomach and my ass!</p>
-				<p i="4">Hngh! Oh wow! I\'m coming from my ass while it cums through me!</p>
+				<p i="1">Encore?\nJe deviens chaude à cause de ces chose...</p>
+				<p i="2">Je vais jeter un coup d\'oeil,\njuste une fois de plus!</p>
+				<p i="3">Oh-Quoi!? Agh! Oh la vache! Oh non! Oh wow! Sa bite est dans mon ventre et mon cul!</p>
+				<p i="4">Hngh! Oh wow! Je viens de mon cul pendant que ça éjacule partout sur moi!</p>
 			</scenes>
 			<scenes scene="boo4">
-				<p i="1">Huh? Argh! This isn\'t a French bar! Why would you just start fucking my ass!?</p>
-				<e i="1">Fuck the princess!\nFuck the princess!\nFuck the princess!</e>
-				<p i="2">Ooooh, who cares?\nJust keep fucking my ass. I wanna cum more with my ass!</p>
+				<p i="1">Huh? Argh! Je ne suie pas un jouer! Pourquoi voudriez-vous commencer à baiser mon cul!?</p>
+				<e i="1">Baise la princesse!\nBaise la princesse!\nBaise la princesse!</e>
+				<p i="2">Ooooh, on s\'en fout?\nJuste continue à baiser mon cul. Je veux jouillre plus avec!</p>
 			</scenes>
 			<scenes scene="boo5">
-				<p i="1">Hey Boo\ndon\'t sniff there! Stop that, okay?</p>
-				<p i="2">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="2a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="2b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="3">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="3a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="3b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="3c">I hope Mario\ndoesn\'t mind a little boo cream when I find him.</p>
-				<p i="3d">Oh, he is\nfucking my pussy right now and I can\'t move!</p>
-				<p i="4">Whaaaaa?\nThere is...a DICK inside me! Ohh, Am I stroking myself?</p>
-				<p i="5">Ahhh cumming!\nMy cum is all over my legs!!</p>
+				<p i="1">Hey Boo\nne renifle pas là! Arrete Ca, Ok?</p>
+				<p i="2">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!!</p>
+				<p i="2a">Non! Pas ici!\nC\'est a Mario ici!</p>
+				<p i="2b">Non! Ne touche\npas ma fente royale!</p>
+				<p i="3">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais...</p>
+				<p i="3a">Ah! M-mais\nJe dois faire ca pour sauver Mario.</p>
+				<p i="3b">Ah! Ma petite\nfleur a coule avant son temps!</p>
+				<p i="3c">J\'éspére que Mario\ndne ment voudera pas.Un peu de \nsperme de boo dans ma chatte ne fais pas de mal!</p>
+				<p i="3d">Oh, Il baise\nma chatte pour le moment je ne pe pas bouger!</p>
+				<p i="4">Whaaaaa?\nIl y a...une BITE en moi! Ohh, Est-ce que je me caresse l\'entre jambe?</p>
+				<p i="5">Ahhh Je jouilllee!\nLe sperme est partout sur mes jambes!!</p>
 			</scenes>
 			<scenes scene="boo6">
-				<p i="1">Two Boos are\n licking my nipples so hard! It\'s cold!</p>
-				<p i="2">Ooohh!\nmy two little holes! Oooooh I am so horny!! I can\'t escape!</p>
-				<p i="3">I LOVE it!\nAhhh what am I saying? I\'m abducted by the scents!</p>
-				<p i="4">I am cumming\n endlessly!! I can\'t remove those dicks! Ooooohh Aaaaa...</p>
+				<p i="1">Deux Boos Léche\nmes tétons si fort! C\'est froid!</p>
+				<p i="2">Ooohh! mes deux petits trous! Oooooh Je suis tellement excitée!! Je ne peux pas m\'échapper!</p>
+				<p i="3">J\'AIME CA!\nAhhh Qu\'est ce que je dis? Je suis kidnappé par ce parfums!</p>
+				<p i="4">Je jouillle\n sans fin!! Je ne peux pas enlever ces bites! Ooooohh Aaaaa...</p>
 			</scenes>
 
 	<!--DRYBONES (Bone Koopas)-->
 			<scenes scene="drybone1">
-				<p i="1">I think I\'ll\nneed to tame this skeleton koopa in a more effective way...</p>
-				<p i="2">Hmmm? He\nslipped down...Better\nto take most of this situation... Ahhh...</p>
-				<p i="3">Oh! I came! I forgot\nwhat I was doing!</p>
+				<p i="1">Je pense que j\'aurai besoin d\'apprivoiser ce koopa  squelettique d\'une manière plus efficace...</p>
+				<p i="2">Hmmm? Il a glissé par terre...Mieux vaut saisir cette oportunité... Ahhh...</p>
+				<p i="3">Oh! Je viens! J\'ai oublié \nce que je fais!</p>
 			</scenes>
 			<scenes scene="drybone2">
-				<p i="1">Ok, pile of bones,\nI\'ll tame you! (I hope he will sleep quickly)...</p>
-				<p i="2">Not yet? Let\'s see\nif you bone needs some petting...</p>
+				<p i="1">Ok, tas d\'os,\nJe vais t\'apprivoiser! (J\'espère qu\'il va dormir rapidement)...</p>
+				<p i="2">Pas encore? Voyons voir\nsi votre os a besoin de quelques caresses...</p>
 				<p i="3">You came! But I\ncan\'t see any liquid!</p>
 			</scenes>
 			<scenes scene="drybone3">
@@ -1107,9 +1107,9 @@ Enjoy!
 			</scenes>
 			<scenes scene="xnaut2">
 				<p i="1">He is...\nmassaging my butt!</p>
-				<p i="2">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="2a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="2b">No! Don\'t\ntouch my royal slit!</p>
+				<p i="2">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!!</p>
+				<p i="2a">Non! Pas ici!\nC\'est a Mario ici!</p>
+				<p i="2b">Non! Ne touche\npas ma fente royale!</p>
 				<p i="2c">He appears\nto be...hungry for my pussy already!</p>
 				<p i="3">Ahhh! Now\n its faster!! Ohhhh! Stop! Dont stop!</p>
 				<p i="4">Ohhh! I feel\ntons of hot chocolate puddle into me!</p>
@@ -1360,12 +1360,12 @@ Enjoy!
 				<p i="3">Hmmmm Ooooh!\nHe screwed that goey thing in my bumhole!</p>
 			</scenes>			
 			<scenes scene="flurry4">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1b">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1c">No! Don\'t\ntouch my royal slit!</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
+				<p i="1">Oh non! Doucement!\nVous\navez pénétré mon....vagin la!!</p>
+				<p i="1b">Non! Pas ici!\nC\'est a Mario ici!</p>
+				<p i="1c">Non! Ne touche\npas ma fente royale!</p>
+				<p i="2">Ah! Ca...\nCa ne fait pas aussi mal que ce que je pensais...</p>
+				<p i="2a">Ah! M-mais\nJe dois faire ca pour sauver Mario.</p>
+				<p i="2b">Ah! Ma petite\nfleur a coule avant son temps!</p>
 				<p i="2c">I hope Mario\ndoesn\'t mind a little ice cream when I find him.</p>
 				<p i="2d">Oooh! I always\nend up screwed up!! My pussy is taken!</p>
 				<p i="3">Ooooh Ahhh, Right!\nLets finish this up before I.....aaah!</p>
@@ -1742,7 +1742,7 @@ Enjoy!
 			</scenes>			
 			<scenes scene="donPianta3">
 				<f i="1">You\'re a\nnasty slut! I\'ll make those cheeks red!</f>
-				<p i="1">Oh, nooo!\nStop it! Oooouch! Not there! Ahhh! Ooooh!</p>
+				<p i="1">Oh, nooo!\nStop it! Aiiiee! Not there! Ahhh! Ooooh!</p>
 				<f i="2">I am preparing\nmy food. I see it soaking wet!</f>
 				<p i="2">Whaaaa?! Don\'t!\nI am still virgin!! Ohhh! Don\'t touch there!</p>
 				<p i="2a">Whaaaa?! Don\'t!\nYou\'re teasing me! Ahhh! Don\'t touch there!</p>
@@ -1946,7 +1946,7 @@ Enjoy!
 
 	<!--LUMAs (star-like creatures from SUPER MARIO GALAXY)-->
 			<scenes scene="luma">
-				<f i="1">What do you want to do with your \'mommy\'? \n1) Suck her boobies  2) Suck her pussy \n3) Gangbang!  {NEXTKEY}) Go away</f>
+				<f i="1">What do you want to do with your \'mommy\'? \n1) Suck her boobies  2) Suck her pussy \n3) Go away</f>
 			</scenes>			
 			<scenes scene="luma1">
 				<p i="1">Oh so are you\nHungry? But....let\'s do this elsewhere...</p>
@@ -2034,7 +2034,7 @@ Enjoy!
 				<p i="5">\nOooh, sucking on this dick is so arousing! I\'m gonna cum soon!</p>
 				<f i="5">OOOH! My dick!\nI\'m in heaven! She is sucking my dick! I\'ve never felt so good!</f>
 				<p i="6">Oh wow! I came\nso hard! I just want to enjoy this, but I better leave quickly!</p>
-				<f i="6">Whew! That was AWESOME!! I wonder if she\'ll come back here again?</f>
+				<f i="6">Ouf! That was AWESOME!! I wonder if she\'ll come back here again?</f>
 			</scenes>			
 			
 			<!--LUIGI BOOKS-->
@@ -2080,7 +2080,7 @@ Enjoy!
 				<p i="3">Just...just\nlet me make this better for you, right?</p>
 				<p i="3a">Please stand\nstill, this will make you happy!</p>
 				<p i="4">Whopsie! You...\nyou cummed on me! How indecent!</p>
-				<p i="4a">Just a bit...\nOuch! You really needed this, right?</p>
+				<p i="4a">Just a bit...\nAie! You really needed this, right?</p>
 			</scenes>			
 
 	<!--JELLYFISH SISTERS-->
@@ -2328,8 +2328,8 @@ Enjoy!
 				<e i="8b">I don't care if\nyou're my mama! I can't stop cumming\ninside you!</e>
 				<p i="8b">Ooooh! Fuck me!\nYour cock is too good, Junior! I love your hot cum inside me!</p>
 			</scenes>			
-
-		<!--BOSS - Koopaling Larry-->
+			
+	<!--BOSS - Koopaling Larry-->
 			<!--Generally, those a,b,c for boss scenes are for normal and nymph Peach, but it can also refer to ass being swollen or other variable. Well, its only a matter to translate trying to guess the context-->
 			<scenes scene="koopalingLarry1">
 				<p i="1">Larry! It\'s\ntime you stopped-Oh god! Please, at least cover yourself!</p>
@@ -2350,7 +2350,7 @@ Enjoy!
 				<e i="3a">Really? Can I\ntouch your pussy, too?</e>
 				<p i="3b">Let\'s start\nwith some foreplay. I\'ll stroke yours and you stroke mine. Sound good?</p>
 				<e i="3b">Oh yes! I\'m finally gonna get to fuck a woman!! Uh, how should I start?</e>
-				<p i="4">Oh my!\nThat\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
+				<p i="4">Oh my! That\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
 				<e i="4">I wonder what the inside of a woman feels like?</e>
 				<p i="4a">Whoa! Ease up there, big boy! It feels like you\'re putting a dick in me already!</p>
 				<e i="4a">Oh! So this is what a pussy feels like!</e>
@@ -2388,17 +2388,17 @@ Enjoy!
 				<p i="10">Ooooh! My pussy\nis dripping, I am so aroused!</p>
 				<e i="10">I am cumming\nin your back, you little thing!</e>
 				<p i="10a">Oooh god!\nMy ass is cumming so hard! Unh! But I need to escape, now!</p>
-				<e i="10a">Ooooh! Yyeeeessssss! Cum is--I want to--whew! Can\'t think! Sex is amazing!</e>
+				<e i="10a">Ooooh! Yyeeeessssss! Cum is--I want to--Ouf! Can\'t think! Sex is amazing!</e>
 				<p i="10b">Ooooh! Cumming\nso hard! But I need to take control now, while Larry\'s lost his mind!</p>
-				<e i="10b">Ooooh! Yyeeeessssss! Cum is--I want to--whew! Can\'t think! Sex is amazing!</e>
-				<p i="10c">Oh yes! My\nass is cumming hard! Whew, this virgin\'s done well, but I think it\'s time I took over.</p>
-				<e i="10c">Ooooh! Yyeeeessssss! Cum is--I want to--whew! Can\'t think! Sex is amazing!</e>
+				<e i="10b">Ooooh! Yyeeeessssss! Cum is--I want to--Ouf! Can\'t think! Sex is amazing!</e>
+				<p i="10c">Oh yes! My\nass is cumming hard! Ouf, this virgin\'s done well, but I think it\'s time I took over.</p>
+				<e i="10c">Ooooh! Yyeeeessssss! Cum is--I want to--Ouf! Can\'t think! Sex is amazing!</e>
 				<p i="11">Now\'s my chance!\nJust gotta hook--there we-whoa! Falling!</p>
-				<e i="11">Whew! So tired! I\'ve never cum so--ow! Whoa! What the-?</e>
+				<e i="11">Ouf! So tired! I\'ve never cum so--ow! Whoa! What the-?</e>
 				<p i="11a">Alright!\nNow\'s my chance to...disguise him!</p>
-				<e i="11a">Whew! So tired! I\'ve never cum so--ow! Whoa! What the-?</e>
+				<e i="11a">Ouf! So tired! I\'ve never cum so--ow! Whoa! What the-?</e>
 				<p i="11b">Ooh! His dick\ncame out! Let\'s get it back in then!</p>
-				<e i="11b">Whew! So tired! I\'ve never cum so--ow! Whoa! What the-?</e>
+				<e i="11b">Ouf! So tired! I\'ve never cum so--ow! Whoa! What the-?</e>
 				<p i="12">Oh no! I can\'t\nget away! Ow, that hurts! It\'s so deep inside me! I can\'t take it all!</p>
 				<e i="12">Ow-Oh god! It feels even better now! SEX IS AWESOME!!</e>
 				<p i="12a">Oh yes, Larry!\nYour dick is awesome! I can feel it so deep inside my pussy!</p>
@@ -2406,7 +2406,7 @@ Enjoy!
 				<p i="12b">Ooooh! Dick in\nme! So deep! Yes! Fuck me hard, Larry!</p>
 				<e i="12b">Ow-Oh god! It feels even better now! SEX IS AWESOME!!</e>
 				<p i="13">Wow! What\nhave I been missing? I could fuck this dick all day long!</p>
-				<e i="13">Whew! I\'m tired.\nKeep fucking me, though. It\'s great!</e>
+				<e i="13">Ouf! I\'m tired.\nKeep fucking me, though. It\'s great!</e>
 				<p i="13a">This ride\'s\nstill going strong, Larry! Just keep your dick up so I can cum a bunch more!</p>
 				<e i="13a">Oooh. My dick\nis kind of sore, but please don\'t stop!</e>
 				<p i="13b">It\'s been\ngreat, darling, but we\'re not done yet. You\'ve still got a few loads to give me!</p>
@@ -2433,7 +2433,7 @@ Enjoy!
 				<e i="17">Yeah. I\'ll do\nwhatever you say. Whatever you-zzzzz.</e>
 				<p i="17a">Mmm. That was\ngood, but get some practice in for the next time I see you.</p>
 				<e i="17a">I wouldn\'t have\nbeen a virgin so long if I could have practiced with someone!</e>
-				<p i="17b">Oooh, whew.\nThat was good for now. How about we go at it again in an hour?</p>
+				<p i="17b">Oooh, Ouf.\nThat was good for now. How about we go at it again in an hour?</p>
 				<e i="17b">What!? I can\'t\nrecover that fast! I need a week at least! *cry*</e>
 			</scenes>			
 			
@@ -2455,7 +2455,7 @@ Enjoy!
 				<e i="3b">Not so fast, Princess. Unlike my siblings, I\'m not desperate for a fuck. I already get plenty of pussy.</e>
 				<p i="3b">\nI bet you trick your own students into it, but that\'s okay. You won\'t need to trick this student.</p>
 				<e i="4">Let\'s start by getting\nyou naked. Take off your clothes, and the class can begin.</e>
-				<p i="4">Oh my!\nThat\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
+				<p i="4">Oh my! That\'s a big finger! It\'s as big as a dick, and-oh! Feels good, too.</p>
 				<e i="4a">Underestimate naked yoga\nat your peril. Getting through my class will require hard...work!</e>
 				<p i="4a">\n\nDon\'t you worry. I\'ll show you what a princess is capable of.</p>
 				<e i="4b">Well, I suppose I\'d fulfill\na childhood dream to go down on THE Princess!</e>
@@ -2525,8 +2525,8 @@ Enjoy!
 				<p i="19c">\n\nUnf, ah! Yes, cum again, Iggy! Make me cum more!</p>
 				<p i="19d">\n\nOh, yes! I\'m just about there already! Fuck me harder, Iggy!</p>
 				<p i="19e">\n\nCum for me, Iggy! Fill my stomach with your all your cum!</p>
-				<e i="20">\nWhew! I came buckets in your asshole. Thanks for the workout, Princess!</e>
-				<e i="20a">\nWhew! I came buckets. Thanks for the workout, Princess!</e>
+				<e i="20">\nOuf! I came buckets in your asshole. Thanks for the workout, Princess!</e>
+				<e i="20a">\nOuf! I came buckets. Thanks for the workout, Princess!</e>
 				<p i="20">\n\nAhh, I came. My butt came. I didn\'t know I could cum with my butt.</p>
 				<p i="20a">\nAh! I came so hard with my ass...Great workout so far! I\'ll definitely recommend you to my friends.</p>
 				<p i="20b">\nMmm, I can feel your cum filling me up and sliding down my asshole. It\'s getting me excited again!</p>
@@ -2546,7 +2546,7 @@ Enjoy!
 				<p i="23a">\nSo tasty! Oh, you\'ve lost it already? Well, at least your dick is still working!</p>
 				<p i="23b">\nOops! I guess you\'re broken already? Well, at least your dick is still working!</p>
 				<e i="24">\nOooh! I love, unh, the way your dick, ooh, slams into me every time we bounce! Agh!</e>
-				<e i="25">\nYou\'re tough! I am losing my breath!</e>
+				<e i="25">\n\nYou\'re tough! I am losing my breath!</e>
 				<p i="25">\n\nUnf, unf! I\'m gonna cum again! Fuck me harder, Iggy!</p>
 				<p i="26">\n\nCame so hard! I just want to keep fucking and fucking and fucking!</p>
 				<e i="26">Unhh. What? Where\nam I? Why am I on the floor? Did I pass ou-oh no! You\'re still here, Princess!?</e>
@@ -2615,7 +2615,7 @@ Enjoy!
 				<p i="8b">Yes! Ooohh.\nI can\'t stop cumming! Every time I swallow a load, I cum!</p>
 				<e i="9">Heh heh! Hope it wasn\'t too much for you. I\'ve got a lot more to come!</e>
 				<e i="9a">Now that the foreplay is over, I\'ll show you how much I saved for up this!</e>
-				<e i="9b">Wow, that drained my balls dry. I\'ve just got to...rest for now. Whew!</e>
+				<e i="9b">Wow, that drained my balls dry. I\'ve just got to...rest for now. Ouf!</e>
 				<p i="9">\n*cough* More? No way!  There was so much already! I can\'t!!</p>
 				<p i="9a">\nI\'ve never been readier! My pussy is so wet right now.</p>
 				<p i="9b">\nOh god! That was so good! I can\'t believe I came so much!</p>
@@ -2645,7 +2645,7 @@ Enjoy!
 				<p i="13">\nOh! Oh no! I\'m cumming! It\'s too hot!</p>
 				<p i="13a">Oh god! I can\'t stop cumming! I love having your cum all over me! Your cum on my back is making me cum!</p>
 				<p i="13b">I\'m cumming, Morton! My gaping ass and pussy are coming! And I\'m still cumming!</p>
-				<e i="14">Whew. That drained my balls. I\'m done now. You can find your own way out.</e>
+				<e i="14">Ouf. That drained my balls. I\'m done now. You can find your own way out.</e>
 				<e i="14a">No can do, babe. My balls are dry. I\'ll give it to you again after a nap.</e>
 				<e i="14b">Too bad, Princess. I can\'t cum anymore. I\'m going to sleep now...</e>
 				<p i="14">\nMorton! I\'ve sucked your dick. My stomach is full of your cum.</p>
@@ -2730,7 +2730,7 @@ Enjoy!
 				<e i="9a">\nOh yes! Suck my dick down to the balls, my woman!</e>
 				<e i="9b">\nOh yes! Suck my dick down to the balls, my slut!</e>
 				<p i="9">\n\nI\'m dying! Hard to breathe! It\'s too big!</p>
-				<p i="9a">\nWhew! This dick is hard to manage! Tastes good, at least!</p>
+				<p i="9a">\nOuf! This dick is hard to manage! Tastes good, at least!</p>
 				<p i="9b">\nTastes so good! Such a big nutsack should give me a thick drink, too!</p>
 				<e i="10">So so so so so\nGOOD!! I can\'t stop cumming, Princess! Drink it all!</e>
 				<e i="10a">So so so so so\nGOOD!! I can\'t stop cumming, Woman! Drink it all!</e>
@@ -2762,9 +2762,9 @@ Enjoy!
 				<p i="14">\n\nAgain? But I haven\'t recovered from the last time!</p>
 				<p i="14a">\nYes! Fuck me full of that hard dick! Fill my pussy with your cum!</p>
 				<p i="14b">\nYes! Keep cumming for me, Lemmy! I want your hot cum inside me!</p>
-				<e i="15">Whew! That was great! I\'m ready to start now!</e>
-				<e i="15a">Whew! That was great! I\'m ready to start now!</e>
-				<e i="15b">Whew! That was great! I\'m ready to start now!</e>
+				<e i="15">Ouf! That was great! I\'m ready to start now!</e>
+				<e i="15a">Ouf! That was great! I\'m ready to start now!</e>
+				<e i="15b">Ouf! That was great! I\'m ready to start now!</e>
 				<p i="15">\nStart what? Wait, you mean--Oh my! I don\'t know if I can take anymore!</p>
 				<p i="15a">\n\nStart? Oh ho ho! Give me your best, Lemmy!</p>
 				<p i="15b">\nGreat! My ass is ready. Don\'t disappoint me now, Lemmy!</p>
@@ -2793,7 +2793,7 @@ Enjoy!
 				<p i="18b">\nAgh! Yes! Cum is so deep! I\'m cumming! Fuck and cum in my ass forever!</p>
 				<p i="18c">\nOooh! So hot! I can feel your cum shooting inside me! I\'m cumming so much!</p>
 				<e i="19">\nGhe! There! You won\'t forget the stink of my cum anytime soon.</e>
-				<e i="19a">Ghe! There! I win, Princess! Whew! But I won\'t be able to cum for a month!</e>
+				<e i="19a">Ghe! There! I win, Princess! Ouf! But I won\'t be able to cum for a month!</e>
 				<e i="19b">\nGhe! There! You won\'t forget the stink of my cum anytime soon.</e>
 				<p i="19">\nHah. Hah. You\'re right, Lemmy. I won\'t forget. I\'ll make sure to come back for more!</p>
 				<p i="19a">\nHah. Hah. Well, it\'s a good thing I\'m not done then! You\'ve already lost, Lemmy!</p>
@@ -2857,7 +2857,7 @@ Enjoy!
 				<e i="4a">How\'s that for\na start? And there\'s more to come!</e>
 				<e i="4b">How\'d you like\nthat? I\'ll have you begging me to stop!</e>
 				<p i="4">\nUnh. Unh. Oh,\nyour fingers felt so good. But I won\'t quit!</p>
-				<p i="4a">\nWhew! Your\nfingers are magical! I can\'t wait to see if your tongue is too!</p>
+				<p i="4a">\nOuf! Your\nfingers are magical! I can\'t wait to see if your tongue is too!</p>
 				<p i="4b">\nWow! Your\nfinger\'s as fat as a dick! I wonder if your clit can get that big?</p>
 				<e i="5">Lick my pussy!\n Its dripping like a dirty rotten honey!</e>
 				<p i="5">\nWell, I...Mhmnph!\nHmmmmnh mmhmnph! Mhhmnhmp! (lick)</p>
@@ -2930,7 +2930,7 @@ Enjoy!
 				<p i="26">Ohh, my pussy\nis itching so much! Gotta masturbate!</p>
 				<p i="27">By sitting on\nher I win, right?</p>
 				<p i="28">Ooooh! What\'s that?\nA DICK! I have a DICK! How embarassing!</p>
-				<p i="28a">Ouch! Is this...\na dick? I must do something!</p>
+				<p i="28a">Aie! Is this...\na dick? I must do something!</p>
 				<p i="28b">Hey, is this\na dick? Better to use it, right?</p>
 				<e i="29">Fuck me now, you whore! Drill it into my pussy!</e>
 				<p i="29">Er...calm down\n I... I am still being used to this...</p>
@@ -3005,9 +3005,9 @@ Enjoy!
 				<p i="4">\nNo, please! I\'ll-I\'ll do it. I must know where I can find Mario.</p>
 				<p i="4a">I don\'t know if I can promise you that much, but I\'ll definitely try to give you a ride if you can tell me where Mario is!</p>
 				<p i="4b">\nI guess that\'s for the best. Something that big needs extra care. And lube.</p>
-				<e i="5">Whew! Let me just take a seat so I can drink in this beautiful view.</e>
-				<e i="5a">Whew! Let me just take a seat so I can drink in this beautiful view.</e>
-				<e i="5b">Whew! Let me just take a seat so I can drink in this beautiful view.</e>
+				<e i="5">Ouf! Let me just take a seat so I can drink in this beautiful view.</e>
+				<e i="5a">Ouf! Let me just take a seat so I can drink in this beautiful view.</e>
+				<e i="5b">Ouf! Let me just take a seat so I can drink in this beautiful view.</e>
 				<p i="5">\n\nI don\'t see anywhere to sit down here...</p>
 				<p i="5a">\n\nSo, does that mean I\'m going cowgirl while you take a nap?</p>
 				<p i="5b">\nAw, thanks. Your dick\'s pretty beautiful, too! I bet it\'ll taste just as sweet as you.</p>
@@ -3079,7 +3079,7 @@ Enjoy!
 				<p i="24b">\nI came so hard! It\'s just too bad all this cum is inside me. Oh, I know!</p>
 				<e i="25">I\'m cumming, Princess! Cumming harder than I\'ve ever cum, inside you!</e>
 				<p i="25">\n\nUngh, cumming so hard! Cumming again!</p>
-				<e i="26">Whew! I\'m done! I\'m really done. You won! I can\'t fuck anymore. Thank you.</e>
+				<e i="26">Ouf! I\'m done! I\'m really done. You won! I can\'t fuck anymore. Thank you.</e>
 				<p i="26">Oh, wow!\nI dont feel my womb and legs! I feel so sticky! I hope nobody knows I did this!</p>
 				<p i="26a">Oh, wow!\nThat was just--wow! If I ever need my brains fucked out again, I know who to come to.</p>
 			</scenes>			
@@ -3167,7 +3167,7 @@ Enjoy!
 				<e i="24">Argh! You\'re\nsucking all my cum out! My life is being sucked out!</e>
 				<p i="24">Mmmm! Such\ntasty cum! I want it\nall! Keep pouring it\nout of your giant balls, Roy!</p>
 				<e i="25">Unnnhh. Please.\nStop! Mario is with Wendy! Just please stop!</e>
-				<p i="25">Whew! I didn\'t\nget to cum as much as I wanted to, but now I can finally get to Mario!</p>
+				<p i="25">Ouf! I didn\'t\nget to cum as much as I wanted to, but now I can finally get to Mario!</p>
 				<e i="26">I\'m sorry, Mario! I can\'t give you my first time anymore!</e>
 				<p i="26">\nAhhh! I love these\nhuge cocks! I could cum for days\nlike this!</p>
 			</scenes>			
