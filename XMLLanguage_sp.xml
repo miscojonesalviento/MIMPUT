@@ -32,7 +32,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">Quiero\ntocarlo...</p> <!--Avance de 5 minutos XD-->
 				<p i="2a">Aquí voy,\nmi cosita...</p>
 				<p i="2b">Hey, aquí hay\nalgo que necesito ver...♥</p>
- 				<p i="3">Esto no es algo\nsucio, tiene una seta, es\comestible. ♥</p>
+ 				<p i="3">Esto no es algo\nsucio, tiene una seta, es comestible. ♥</p>
  				<p i="3a">A Toadette no le\ngusta que haga esto...</p>
  				<p i="3b">Puedo hacer eso\ncuando YO quiera...</p>
  				<p i="4">Me siento tan llena,\nes una banana tierna.</p>
@@ -100,7 +100,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">*gulp* Wow!\nParece una fuente! Y sabe bien!</p>
 			</scenes>
 			<scenes scene="toad9">
-				<p i="1">Debería ahcerlo rápido!\nOoh! Mi trasero se siento raro! Está muy lleno!</p>
+				<p i="1">Debería ahcerlo rápido!\nOoh! Mi trasero se siente raro! Está muy lleno!</p>
 				<p i="2">Esta posición\nme está ENLOQUECIENDO! Se siente muy bien! Creo que me voy a...</p>
 				<p i="3">CORREEEER!! Oh\nsi! Me estoy corriendo mucho! Le dejó bien metida!</p>
 				<p i="4">Mi trasero está\nagotado... oooh... Estoy muy cansada. Necesito descansar un poco...</p>
@@ -241,36 +241,36 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 	<!--GOOMBAS-->
 			<scenes scene="goomba1">
-				<p i="1">Oh!!! Is that a...\nmanhood? Its...embarassing! I must do something!</p>
-				<p i="2">Well, er... Is this\nwhat a Goomba cock is like? It\'s so... big... and... thick...</p>
-				<p i="3">Oh! There\'s so much cum! But I can\'t do this anymore! The smell is making me so horny...</p>
+				<p i="1">Oh!!! Es eso...\nvirilidad? Es...vergonzoso! Debo hacer algo</p>
+				<p i="2">Bueno, er... así es\ncomo se ve la verga de un Goomba? Es tan... grande... y... gruesa...</p>
+				<p i="3">Oh! Es mucho semen! Pero no puedo con esto! El holor me está prendiendo...</p>
 			</scenes>
 			<scenes scene="goomba2">
-				<p i="1">Ooh! I never\ndreamed goomba dick would taste this good! I guess I can do this!</p>
-				<p i="2">They cum so\nmuch! The poor things must not be getting their morning sessions.</p>
+				<p i="1">Ooh! Nunca\ncreí que el pene de un Goomba sabría así de bien! Supongo que puedo hacer esto!</p>
+				<p i="2">Se corrieron\nmucho! Pobres cositas, no deben estar teniendo sus sesiones mañaneras.</p>
 			</scenes>
 			<scenes scene="goomba3">
-				<p i="1">\nOh my! It\'s harder than the others!</p>
-				<p i="2">Oh god! This\nsmell just makes me want to go ...wild!</p>
+				<p i="1">\nOh por..! Es más grande que los demás!</p>
+				<p i="2">Oh dios! Este\nholor hace que me vuelva... loca</p>
 			</scenes>
 			<scenes scene="goomba4">
-				<p i="1">Mm! Maybe\n I\'ll just lick its cock a little more...</p>
-				<p i="2">Oh wow! That\nsmell is making me dizzy...</p>
+				<p i="1">Mm! Quizá\n deba lamer esta verga un poco más...</p>
+				<p i="2">Oh wow! Ese\nolor me está mareando...</p>
 			</scenes>
 			<scenes scene="goomba5">
-				<p i="1">*gulp* Nooooo!\nIt\'s hard to breathe like this!</p>
-				<p i="2">Ahhhh.. It\nmust have really been saving up!</p>
+				<p i="1">*gulp* Nooooo!\nEs dificil respirar así!</p>
+				<p i="2">Ahhhh.. Debe\nhaberse estado reservando!</p>
 			</scenes>
 			<scenes scene="goomba6">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="2c">I hope Mario\ndoesn\'t mind a little cream of mushroom when I find him.</p>
-				<p i="2d">\nHey!! What are you doing to.....oooh!</p>
-				<p i="3">\nOh I feel numb there...</p>
+				<p i="1">Hey!! Estás\npenetrando mi... conchita virgen!</p>
+				<p i="1a">No! No\nahí! Ese es el lugar de Mario!</p>
+				<p i="1b">No! No\ntoques mi coñito sagrado!</p>
+				<p i="2">Ah! No...\nno duele tanto como pensaba.</p>
+				<p i="2a">Ah! P-pero\nSupongo debo hacer esto para salvar a Mario.</p>
+				<p i="2b">Ah! Mi pequeña\nflor se está abriendo antes de hora!</p>
+				<p i="2c">Espero que a Mario\nno le moleste un poco de crema de champiñón cuando lo encuentre.</p>
+				<p i="2d">\nHey!! Qué le haces a mi.....oooh!</p>
+				<p i="3">\nOh Siento mi coño entumecido...</p>
 				<p i="4">\nOhhhhhh...Ah!</p>
 			</scenes>
 			<scenes scene="goomba7">
