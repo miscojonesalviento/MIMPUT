@@ -20,7 +20,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<game>
 			<lang>Español</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
 			
-	<!--TOADS-->
+	<!--TOADS--><!--Sección traducida al 99%-->
 			<scenes scene="toad1"> 
 				<p i="1">Nadie esta viendo\nesto. Son TAN deliciosos, hmmm...</p>
 				<p i="2">Mwa! Mm! Oh,\nesto sabe incluso mejor ahora!</p>
@@ -29,7 +29,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<scenes scene="toad2">
 				<p i="1">Él esta viéndome\n...tan tierno...</p>
 				<p i="1a">Vas a...\nhacer esto conmigo?</p>
-				<p i="2">Quiero\ntocarlo...</p> <!--Avance de 5 minutos XD-->
+				<p i="2">Quiero\ntocarlo...</p>
 				<p i="2a">Aquí voy,\nmi cosita...</p>
 				<p i="2b">Hey, aquí hay\nalgo que necesito ver...♥</p>
  				<p i="3">Esto no es algo\nsucio, tiene una seta, es comestible. ♥</p>
@@ -227,10 +227,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="1">Hey...tú no\neres un doctor! Ahhh! Por favor detente, es embarazoso!</p>
 				<p i="1a">Erhm...Doc...\nNo tienes..Ahhhh... otra manera... de curarme? Ooooh!</p>
 				<f i="2">Lo siento, Princesa,\nes la única forma!</f>
-				<p i="2">I...(Ooooh!)\nnecesito relajarme! Él es doctor, por qué avergonzarme de esto? Oooh!</p>
+				<p i="2">Yo...(Ooooh!)\nnecesito relajarme! Él es doctor, por qué avergonzarme de esto? Oooh!</p>
 				<f i="2a">Fue una órden\nde Toadsworth!</f>
 				<f i="2b">Sé lo que hago\n, mi princesa! Es común hacer esto aquí!</f>
-				<p i="2a">I...(Ooooh!)\ncreo que...tienes razón! Te dejaré usarlo!</p>
+				<p i="2a">Yo...(Ooooh!)\ncreo que...tienes razón! Te dejaré usarlo!</p>
 				<f i="3">Princesa! Quieta!\nEs un aceite especial, ya casi está!</f>
 				<p i="3">Ahhhhhhh!\nSI! Lame mi asqueroso ano! Fóllalo, es todo tuyo!</p>
 				<p i="3a">Ahhhhhhh!\nestás tu....lamiendo mi... Oooooh estoy muy avergonzada!</p>
@@ -274,8 +274,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="4">\nOhhhhhh...Ah!</p>
 			</scenes>
 			<scenes scene="goomba7">
-				<p i="1">Hmmmmm\nI need to grab him in order he wont flee! But ahh, he is fucking me!</p>
-				<p i="2">Hey, stop!\nAhhh! I\'ll suffocate you! I will restrain you more! Ohhh!</p>
+				<p i="1">Hmmmmm\nNecesito agarrarlo para que no huya! Pero ahh, está follándome!</p>
+				<p i="2">Hey, alto!\nAhhh! Te sofocaré! Y te mantendré aquí retenido! Ohhh!</p>
 				<p i="3">Ahhhhhh!\nNow I cant remove my legs! My thighs are a mess and slippery!</p>
 			</scenes>
 			<scenes scene="goomba8">
