@@ -5974,10 +5974,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="HardGame">Juego Dificil</text>
 			<text name="Gallery">Galeria</text>
 			<text name="Credits">Creditos</text>
-			<text name="NoAchievementsYet">No achievements yet!</text>
-			<text name="Achievements">Achievements</text>
+			<text name="NoAchievementsYet">No hay logros aún!</text>
+			<text name="Achievements">Logros</text>
 			<text name="Achievements2LinesIfNecessary">Achieve\nments</text> <!--\n creates a new line-->
-			<text name="AchievementsDesc">Here you might find unlocked Peach art and medals\nPlease remember it\'s for \'Peach\' characters only! (Like Peach PS, Burn Peach...)\nAlso remember you must save the current game in a save slot to retrieve them later.</text> <!--\n creates a new line-->
+			<text name="AchievementsDesc">Aquí puedes encontrar arte de Peach y medallas desbloqueadas\nRecuerda que esto es sólo para personajes \'Peach\'! (como Peach PS, Burn Peach...)\nAlso remember you must save the current game in a save slot to retrieve them later.</text> <!--\n creates a new line-->
 			<text name="MenuCtrl">Menu (Ctrl)</text>
 			<text name="PerLevel">Per Level</text>
 			<text name="Time">Tiempo</text>
