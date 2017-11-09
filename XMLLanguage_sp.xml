@@ -20,378 +20,377 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<game>
 			<lang>Español</lang> <!--CHANGE this to your language name, in case you translate it. It will be shown in the main screen-->
 			
-	<!--TOADS-->
+	<!--TOADS--><!--Sección traducida al 99%-->
 			<scenes scene="toad1"> 
 				<p i="1">Nadie esta viendo\nesto. Son TAN deliciosos, hmmm...</p>
-				<p i="2">Mwa! Mm! Oh,\nesto\sabe incluso mejor ahora!</p>
-				<p i="3">Oh no! Lo consiguio\nsu leche esta por todo mi cabello! Pero estas bolas saben muy bien...</p>
+				<p i="2">Mwa! Mm! Oh,\nesto sabe incluso mejor ahora!</p>
+				<p i="3">Oh no! Lo consiguió\nsu leche esta por todo mi cabello! Pero estas bolas saben muy bien...</p>
 			</scenes>
 			<scenes scene="toad2">
-				<p i="1">El\Esta viendome\n...tan tierno...</p>
+				<p i="1">Él esta viéndome\n...tan tierno...</p>
 				<p i="1a">Vas a...\nhacer esto conmigo?</p>
-				<p i="2">Quiero\ntocarlo...</p> <!--Avance de 5 minutos XD-->
-				<p i="2a">Aqui voy,\nmi cosita...</p>
-				<p i="2b">Hey, there is\nsomething I need to check...♥</p>
-				<p i="2b">Hey, aqui hay\nalgo que necesito ver...♥</p>
- 				<p i="3">Esto\no es algo\nsucio, tiene una seta, es\comestible. ♥</p>
+				<p i="2">Quiero\ntocarlo...</p>
+				<p i="2a">Aquí voy,\nmi cosita...</p>
+				<p i="2b">Hey, aquí hay\nalgo que necesito ver...♥</p>
+ 				<p i="3">Esto no es algo\nsucio, tiene una seta, es comestible. ♥</p>
  				<p i="3a">A Toadette no le\ngusta que haga esto...</p>
  				<p i="3b">Puedo hacer eso\ncuando YO quiera...</p>
  				<p i="4">Me siento tan llena,\nes una banana tierna.</p>
- 				<p i="4a">Me imagino una fila\nllena de mis queridos Toads desnudos, todos sirviendome! ♥</p>
+ 				<p i="4a">Me imagino una fila\nllena de mis queridos Toads desnudos, todos sirviéndome! ♥</p>
  				<p i="4b">Me siento segura\ncon esta cosa en mi boca.</p>
- 				<p i="4c">Mi boca\nentra y sale de una manera que No puedo parar! ♥</p>
- 				<p i="4d">Si el microfono de\nmadera was fuera asi Me gustaria hablar con mi reino todo el tiempo!</p>
+ 				<p i="4c">Mi boca\nentra y sale de una manera que no puedo parar! ♥</p>
+ 				<p i="4d">Si el micrófono de\nmadera fuera así, me gustaría hablar con mi reino todo el tiempo!</p>
  				<p i="5">\nHmmmm! ♥</p>
  				<p i="5a">\nDelicioso! Este era bueno!</p>
- 				<p i="5b">\nNo esta tan delicioso pero quiero mas despues!</p>
- 				<p i="5c">\nNoooo este\no es momento de parar!</p>
+ 				<p i="5b">\nNo está tan delicioso pero quiero más después!</p>
+ 				<p i="5c">\nNoooo este no es momento de parar!</p>
  				<p i="5d">\nNecesito regresar a mis deberes, mi pequeña cosa.</p>
 			</scenes>
 			<scenes scene="toad3">
-				<p i="1">No puedo\creerlo\nEstoy\haciendo esto! Pero, wow! Es\Tan suave, pero duro.</p>
+				<p i="1">No puedo creerlo\nEstoy haciendo esto! Pero, wow! Es tan suave, pero duro.</p>
  				<p i="2">Wow! Tu\npene esta muy duro!</p>
- 				<p i="3">Dios! Cuanto tiempo\puedes durar?</p>
- 				<p i="4">Oh mi! tal\nvolumen!</p>
+ 				<p i="3">Dios! Cuánto tiempo puedes durar?</p>
+ 				<p i="4">Oh mi..! que\ncantidad!</p>
 
 			</scenes>
 			<scenes scene="toad4">
-				<p i="1">I guess it\'s okay\nas long as it doesn\'t go inside.</p>
-				<p i="2">Wow! I guess you\nreally like it rough!</p>
-				<p i="3">Ooh! You must be\ngetting close now! Come to think of it, so am I!</p>
-				<p i="4">\nOh! A hot gush all over my pussy!</p>
-				<p i="5">Heeey!! You...\nyou put your thing inside my cheery!</p>
-				<p i="6">Aaah I\'m cumming!\nMy pussy is so full! Oooh! I hope I wont be pregnant!</p>
+				<p i="1">Supongo está bien\nmientras no entre.</p>
+				<p i="2">Wow! Parece que\nte gusta hacerlo rudo!</p>
+				<p i="3">Ooh! Debes estar por\nterminar ya! Y ahora que lo pienso, yo tambnién!</p>
+				<p i="4">\nOh! Un chorro caliente por todo mi coño!</p>
+				<p i="5">Heeey!! Tú...\npusiste tu cosa dentro de mi cuquita!</p>
+				<p i="6">Aaah Me corro!\nMi coño están muy lleno! Oooh! Espero no quedar embarazada!</p>
 			</scenes>
 			<scenes scene="toad5">
-				<p i="1">I guess it\'s not\nsex if it doesn\'t go inside.</p>
-				<p i="2">We should\nstop here. I Wouldn\'t want to slip!</p>
-				<p i="3">Oh wow! It\'s in my\n...ass! I can\'t believe he slipped like that!</p>
-				<p i="4">Oh, such an\naccident! I hope he doesn\'t start expecting more!</p>
+				<p i="1">Supongo que no\n es sexo si no entra.</p>
+				<p i="2">Deberíamos\ndetenernos ahora. No quiero que se te resbale!</p>
+				<p i="3">Oh wow! Está en mi\n...trasero! No puedo creer que\nse le haya resbalado así!</p>
+				<p i="4">Oh, vaya\naccidente! Ojalá que no esté esperando más!</p>
 			</scenes>
 			<scenes scene="toad6">
-				<p i="1">Where are\nhe going to?</p>
-				<p i="1a">Toad...what\ndo you want to d...?</p>
-				<p i="1b">Are you going\nto bring something to me?</p>
-				<p i="2">Hey, what\nare you...</p>
-				<p i="2a">Are you\ntrying to...</p>
-				<p i="2b">Is this\nsomething you need to do with me?</p>
-				<p i="3">Ohh, he\'s\nfucking my ass in a....tender way.</p>
-				<p i="3a">Ahhh I would\nbe in this pose forever...♥</p>
-				<p i="3b">I hope no\none is watching...its so dirty...</p>
-				<p i="3c">This is like...\nmaking a cake! In my butt! ♥</p>
-				<p i="3d">He\'s fucking\nme...He is fucking my ass!</p>
-				<p i="4">Ahhh...the\ncake is getting ready! Hmm!</p>
-				<p i="4a">If someone is\nin front of me, I will try to, oooh, disguise you.</p>
-				<p i="4b">Ahhh, keep\nramming me, please! You\'re sooo cute! Ahh!</p>
-				<p i="4c">I love you, Ohhh,\n toad! ♥ Yay, you make me happy and horny!</p>
-				<p i="4d">It\'s a delicious\nbanana, Ahhhh, going up and down, up, down!</p>
-				<p i="5">\nAhhhh so\nmuch cum! ♥</p>
-				<p i="5a">\nHe\'s feeding\nme with his mashmallow!</p>
-				<p i="5b">\nI\'m getting\nfull of warm cum! ♥ Can\'t concentrate!</p>
-				<p i="5c">\nI am...dizzy, oooohh, it\'s too much!</p>
-				<p i="5d">\nPlease, oooh, take it out, take it out, nooo!</p>
+				<p i="1">Dónde va\na ir?</p>
+				<p i="1a">Toad...qué\nes lo que quieres ha...?</p>
+				<p i="1b">Vas a\ntraerme algo?</p>
+				<p i="2">Hey, qué\nestás...</p>
+				<p i="2a">Estás\ntratando de...</p>
+				<p i="2b">Esto es algo\nque necesitas hacer conmigo?</p>
+				<p i="3">Ohh, está\nfollando mi culo... tiérnamente.</p>
+				<p i="3a">Ahhh Estaría\nen esta posición por siempre...♥</p>
+				<p i="3b">Espero nadie\nesté viendo...esto es muy sucio...</p>
+				<p i="3c">Esto es como...\nhacer un pastel! En mi trasero! ♥</p>
+				<p i="3d">Está cogiéndome\n...Está cogiéndome por el culo!</p>
+				<p i="4">Ahhh...el\npastel está listo! Hmm!</p>
+				<p i="4a">Si alguien está\nfrente a mí, trataré de, oooh, disguise you.</p>
+				<p i="4b">Ahhh, sigue\ndándome, por favor! Eres taaan lindo! Ahh!</p>
+				<p i="4c">Te amo, Ohhh,\n toad! ♥ Yay, me pones feliz y caliente!</p>
+				<p i="4d">Es una deliciosa\nbanana, Ahhhh, yendo arriba y abajo, arriba, abajo!</p>
+				<p i="5">\nAhhhh\ndemasiado semen! ♥</p>
+				<p i="5a">\nMe está alimentando\ncon su malvavisco!</p>
+				<p i="5b">\nMe estoy llenando\nde puro semen caliente! ♥ No puedo concentrarme!</p>
+				<p i="5c">\nEstoy...mareada, oooohh, es demasiado!</p>
+				<p i="5d">\nPor favor, oooh, sácalo, sácalo, nooo!</p>
 			</scenes>
 			<scenes scene="toad7">
-				<p i="1">This foot rub\ntickles, and the face massager smells funny too!</p>
-				<p i="2">Now I\'m feeling\nit! This massager is pretty dry, though. I wonder if they\'ve got any lotion?</p>
-				<p i="3">Ooh! That\'s a\nlot of lotion! Hey, wait! Aren\'t you going to rub it in?</p>
+				<p i="1">Este masaje de\npies hace cosquillas, y el masajeador facial huele extraño!</p>
+				<p i="2">Ahora lo siento!\nEste masajeador es muy seco, aunque, me pregunto si tienen alguna loción?</p>
+				<p i="3">Ooh! Eso es mucha\nloción! Hey, espera! No vas a frotarlo?</p>
 			</scenes>
 			<scenes scene="toad8">
-				<p i="1">I guess I\njust wait now?</p>
-				<p i="2">*gulp* Wow!\nWhat a fountain! Tastes good, too!</p>
+				<p i="1">Supongo que\nsólo esperaré</p>
+				<p i="2">*gulp* Wow!\nParece una fuente! Y sabe bien!</p>
 			</scenes>
 			<scenes scene="toad9">
-				<p i="1">I should be quick!\nOoh! My butt feels weird! So full!</p>
-				<p i="2">This position\nis making me WILD! I feel really good! I think I\'m gonna...</p>
-				<p i="3">CUUUM!! Oh\nyes! I\'m cumming so hard! He left it stucked there!</p>
-				<p i="4">My butt is\nworn out... oooh... I\'m so tired. I need to rest a bit...</p>
+				<p i="1">Debería ahcerlo rápido!\nOoh! Mi trasero se siente raro! Está muy lleno!</p>
+				<p i="2">Esta posición\nme está ENLOQUECIENDO! Se siente muy bien! Creo que me voy a...</p>
+				<p i="3">CORREEEER!! Oh\nsi! Me estoy corriendo mucho! Le dejó bien metida!</p>
+				<p i="4">Mi trasero está\nagotado... oooh... Estoy muy cansada. Necesito descansar un poco...</p>
 			</scenes>
 			<scenes scene="toad10">
-				<p i="1">Strange massage position, but he\'s the expert!</p>
-				<p i="2">Hey! Are you gonna\nmassage anywhere else?</p>
-				<p i="3">Why is my back\nwet? Hey! What did you do?</p>
-				<p i="4">Whaaa?? Hey!!\nYou...Ohhh...You plucked it in my pussy!</p>
-				<p i="4a">NoooO! Aahh!\nYou are... fucking my cherry!</p>
-				<p i="5">Hey! Are you gonna\nmassage anywhere else?</p>
+				<p i="1">Extraña posición para un masaje, pero él es el experto!</p>
+				<p i="2">Hey! Vas a\nmasajear en algún otro lugar?</p>
+				<p i="3">Por qué está húmeda\nmi espalda? Hey! Qué hiciste?</p>
+				<p i="4">Quééééé?? Hey!!\nTú...Ohhh...You plucked it in my pussy!</p>
+				<p i="4a">NoooO! Aahh!\nEstás... follándo mi coñito!</p>
+				<p i="5">Hey! Vas a\nmasajear en algún otro lugar?</p>
 			</scenes>
 			<scenes scene="toad11">
-				<p i="1">Whew! His dick\nalmost went in--oh! His penis massage is making me feel tingly down there!</p>
-				<p i="2">Are you gonna\nmassage anywhere else...later?</p>
-				<p i="3">Whew. That was...\nan incredible massage. But he put the lotion on too late!</p>
-				<p i="4">Hey!! You\ninserted your dick in my cherry!</p>
+				<p i="1">Whew! Su verga\ncasi entró--oh! Su pene-masaje me da un cosquilleo ahí abajo!</p>
+				<p i="2">Vas a\nmasajear en algún otro lugar...después?</p>
+				<p i="3">Whew. Ese fue...\nun masaje increíble. Pero puso muy tarde la loción!</p>
+				<p i="4">Hey!!\nMetiste tu verga en mi coñito!</p>
 				<p i="4a">Aaahhh!! You\nplucked it in!! Oohh, take it off!</p>
-				<p i="5">Oh, noo!!\nI am cumming soooo hard! Aaah!</p>
+				<p i="5">Oh, noo!!\nMe estoy corriendo muchísimo! Aaah!</p>
 			</scenes>
 			<scenes scene="toad12">
-				<p i="1">Where are\nhe going to?</p>
-				<p i="1a">Toad...what\ndo you want to d...?</p>
-				<p i="1b">Are you going\nto bring something to me?</p>
-				<p i="2">Hey, stop!\nRemove that finger there...</p>
-				<p i="2a">Are you\ntrying to...Ooooh!</p>
-				<p i="2b">Ooooh, too late!\nhe\'s fingering my pussy in a way I am loving it!</p>
-				<p i="3">Ohh, he\'s finger\nfucking my slit, I am horny!</p>
-				<p i="3a">Ahhh I would\nbe in this pose forever...♥</p>
-				<p i="3b">I hope no\none is watching...its like kissing me...</p>
-				<p i="4">\nAhhhh I am cumming\nin his hands!!</p>
+				<p i="1">Dónde va\na ir?</p>
+				<p i="1a">Toad...qué\nes lo que quieres ha...?</p>
+				<p i="1b">Vas a\ntraerme algo?</p>
+				<p i="2">Hey, detente!\nSaca ese dedo de ahí...</p>
+				<p i="2a">Estás\ntratando de...Ooooh!</p>
+				<p i="2b">Ooooh, muy tarde!\nEstá usando sus dedos en mi coño y lo adoro!</p>
+				<p i="3">Ohh, está follándome\nla cuca con sus dedos, Estoy que ardo!</p>
+				<p i="3a">Ahhh Estaría\nen esta posición por siempre...♥</p>
+				<p i="3b">Espero nadie\nesté viendo...es como besar...</p>
+				<p i="4">\nAhhhh me estoy corriendo\nen sus manos!!</p>
 			</scenes>
 			<scenes scene="toad13">
-				<p i="1">\nAnother weird massage! I wonder if this will really help?</p>
-				<p i="2">\nHa ha! It looks like I\'m wrapping a pillow around it.</p>
-				<p i="3">\nOoh! I can\'t even see it, but I can feel it. I hope he can too.</p>
-				<p i="4">\nMph! It\'s throbbing and getting hotter! I need to hurry!</p>
-				<p i="5">\nAh! He really seems to be enjoying my breasts! I\'ll rub a litter harder then!</p>
-				<p i="6">Oh, noo!!\nI am cumming soooo hard! Aaah!</p>
-				<p i="7">\nOh! Looks like he likes it! I better put in some more effort!</p>
+				<p i="1">\nOtro extraño masaje! Me pregunto si esto en realidad ayudará?</p>
+				<p i="2">\nJa ja! Pareciera que estoy envolviendo una almohada alrededor.</p>
+				<p i="3">\nOoh! Ni si quiera puedo verlo, pero puedo sentirlo. Espero el también.</p>
+				<p i="4">\nMph! Está palpitando y calentándose! Necesito darme prisa!</p>
+				<p i="5">\nAh! En verdad parece disfrutar mis tets! Mejor las frotaré más fuerte!</p>
+				<p i="6">Oh, noo!!\nMe estoy corriendo demasiado! Aaah!</p>
+				<p i="7">\nOh! Parece que le gusta! Me esforzaré más!</p>
 			</scenes>
 			<scenes scene="toad14">
-				<p i="1">Ack! What do\nyou think you\'re licking? Ooh, it feels good!</p>
-				<p i="2">Ah! Ah! Yes!\nI\'m gonna cum soon! Keep licking my pussy!</p>
-				<p i="3">Cumming!\nCUM! Aaaagh! YES! Ha. Ha. So good!</p>
+				<p i="1">Ack! Qué crees\nque estás lamiendo? Ooh, se siente bien!</p>
+				<p i="2">Ah! Ah! Si!\nEstoy por correrme! Sigue lamiendo mi coño!</p>
+				<p i="3">Me corro!\nAaaagh! SII! Ja. Ja. Muy bueno!</p>
 			</scenes>
 			<scenes scene="toad15">
-				<p i="1">\nAh! My nipple! He\'s sucking like a baby!</p>
-				<p i="2">\nWhew! I\'m gonna cum just from having my nipple sucked!</p>
-				<p i="3">\nAhhh! I\'m cumming! My nipples are lactating, too!</p>
+				<p i="1">\nAh! Mi pezón! Está chupando como un bebé!</p>
+				<p i="2">\nWhew! Me voy a correr sólo porque están chupando mi pezón!</p>
+				<p i="3">\nAhhh! Me corro! Mis pezones están lactando!</p>
 			</scenes>
 			<scenes scene="toad16">
-				<p i="1">Mmph! It\'s almost\nin my throat! And now my pussy is all tingly from his tongue!</p>
-				<p i="2">Ah! Ah! His tongue\nis licking me like a cake! Mnnnmph!</p>
-				<p i="3">Oh yes! I\'m\ncumming! Cum in my throat! Ah! It tastes so good!</p>
+				<p i="1">Mmph! Está casi\nen mi garganta! Y ahora mi coño está temblando por su lengua!</p>
+				<p i="2">Ah! Ah! Su lengua\nestá lamiéndome como un pastel! Mnnnmph!</p>
+				<p i="3">Oh si! Me estoy\ncorriendo! Y mi garganta está llena de semen! Ah! Sabe muuy bien!</p>
 			</scenes>
 			<scenes scene="toad17">
-				<p i="1">Toad! You are...\nplaying with my fatty butt! I am...aroused!</p>
-				<p i="2">Ok lemme stroke...\nyour thing. Ooooh! An urge to finger my butthole...</p>
-				<p i="3">Whew! He\'s cumming\ngallons of semen! Better to lick it soon or he will be a mess!</p>
+				<p i="1">Toad! Estás...\njugando con mi gordo trasero! Estoy...excitada!</p>
+				<p i="2">Ok déjame sacudir...\ntu cosa. Ooooh! Un impulso de meter dedos en mi año...</p>
+				<p i="3">Whew! Se está corriendo\nlitros de semen! Mejor lamerlo rápido o será un desastre!</p>
 			</scenes>
 			<scenes scene="toad18">
-				<p i="1">Whoops!\nGotta be more careful! That almost went in!</p>
-				<p i="2">Now I\'ll just rub\nthe tip--oops! Almost slipped! Aahh.. Imagine the embarrassment of that little guy!</p>
-				<p i="3">Saint Mushroom! If I\nhad slipped, he might have put all that inside me!</p>
-				<p i="4">Heeey! You...\nyou penetrated my slit! (Oh, I can\'t stop!)</p>
-				<p i="5">Ohhhhh! You filled\nmy horny hole with your hot cream!</p>
+				<p i="1">Whoops!\nHay que tener más cuidado! Eso casi entra!</p>
+				<p i="2">Ahora sólo frotaré\nla punta--oops! Casi se resbala dentro! Aahh.. Imagina la verguenza de este pequeño chico!</p>
+				<p i="3">Santo Champiñón! Si se\nhubiera resbalado, habría echado todo eso dentro mío!</p>
+				<p i="4">Heeey! Tú...\ntú penetraste mi agujero! (Oh, no puedo parar!)</p>
+				<p i="5">Ohhhhh! Llenaste\nmi caliente hueco con tu crema caliente!</p>
 			</scenes>
 			<scenes scene="toad19">
-				<p i="1">Mm! It\'s like\nlicking a popsicle! So tasty!</p>
-				<p i="2">Mmf! I really\nlove the cream-filled ones the best!</p>
-				<p i="3">Mmmm! I\'m so\nfull of his filling provologne!</p>
+				<p i="1">Mm! Es como\nlamer una paleta! Delicioso!</p>
+				<p i="2">Mmf! En serio\namo las rellenas de crema, son las mejores!</p>
+				<p i="3">Mmmm! Estoy tan\nllena de se leche!</p>
 			</scenes>
 			<scenes scene="toad20">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">I traded my\nflower for a fungus! I\'m sorry Mario...</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="2c">I hope Mario\ndoesn\'t mind a little cream of mushroom when I find him.</p>
-				<p i="2d">Oh no! Everyone\'s\ncoming to watch! But I have to keep going. They\'re counting on me!</p>
-				<p i="2e">Ah! They decided\nto...eat my butt! Ooooh Ahhh!</p>
-				<p i="3">Glglhb! They\'re\ncumming so hard! Wait, what\'s going on? Why are they joining too?</p>
-				<p i="4">What? Aren\'t they\ndone? When are the next two going to fuck me? Is it over?</p>
+				<p i="1">Hey!! Estás\npenetrando mi.... coñito virgen!</p>
+				<p i="1a">No! No\nahí! Ese es el lugar de Mario!</p>
+				<p i="1b">No! No\ntoques mi hoyito sagrado!</p>
+				<p i="2">Ah! No...\nno duele tanto como pensaba.</p>
+				<p i="2a">Cambié mi\nflor por un hongo! Lo siento Mario...</p>
+				<p i="2b">Ah! Mi pequeña\nflor se está abriendo antes de hora!</p>
+				<p i="2c">Espero que a Mario\nno le moleste un poco de crema de champiñón cuando lo encuentre.</p>
+				<p i="2d">Oh no! Todos\nvienen a ver! Pero tengo que continuar. Ellos cuentan conmigo!</p>
+				<p i="2e">Ah! Decidieron\n...comer mi culo! Ooooh Ahhh!</p>
+				<p i="3">Glglhb! Se están\nviniendo mucho! Espera, qué sucede? Por qué ellos se están uniendo también?</p>
+				<p i="4">Qué? No están\nsatisfechos? Cuándo me follarán los dos que siguen? Se terminó?</p>
 			</scenes>
 			<scenes scene="toad21">
-				<p i="1">Huh? A coin!\nI should take it...</p>
-				<p i="2">Hey....that\ntickles! Stop that, please!</p>
-				<f i="2">Hmmmm,\nmy princess!</f>
-				<p i="3">You guys\n are such a pervert! Ahhh this is so good!</p>
-				<f i="3">Our people can\'t\nhave the princess without this bubble bum!</f>
-				<p i="4">Oh! Fuck me!\nI don\'t care if others see this anymore! Ahhhh!</p>
-				<p i="5">I am cumming!\nYou have a delicious mushroom dick, please stay there!</p>
+				<p i="1">Huh? Una moneda!\nDebería tomarla...</p>
+				<p i="2">Hey....eso\nhace cosquillas! Detente, por favor!</p>
+				<f i="2">Hmmmm,\nmi princesa!</f>
+				<p i="3">Ustedes chicos\nson muy pervertidos! Ahhh esto es muy bueno!</p>
+				<f i="3">Nuestra gente no\npuede estar sin el grande y redondo trasero de la princesa!</f>
+				<p i="4">Oh! Cógeme!\nYa no me importa si otros me ven haciendo esto! Ahhhh!</p>
+				<p i="5">Me corro!\nTienes un delicioso pene champiñón, por favor quédate ahí!</p>
 			</scenes>
 			<scenes scene="toad22">
-				<p i="1">Huh? Ooohh\nthey\'re crowding and fucking my royal cherry right now!</p>
-				<p i="2">I am...\ncumming a lot!! I want to hug everyone for this special meal!</p>
-				<p i="2a">I am...\ncumming a lot!! Ahhhhh!! Someone could... please... clean me?</p>
+				<p i="1">Huh? Ooohh\nEstán follando mi sagrado coñito así nada más!</p>
+				<p i="2">Me estoy...\ncorriendo un montón!! Quisiera abrazar a todos por esta cena especial!</p>
+				<p i="2a">Me estoy...\ncorriendo un montón!! Alguien podría... por favor... limpiarme?</p>
 			</scenes>
 			<scenes scene="toad23">
-				<p i="1">Ohhhh! I\'m sitting\nright on his face! How embarrassing! I must leave...</p>
-				<p i="2">Hmmmm, Ahhh\nI must... finish this, or I\'ll be aroused out there!</p>
-				<p i="3">Aaaaahhh!\nI am cumming sooo hard! It was his breakfast!</p>
+				<p i="1">Ohhhh! Estoy sentada\njusto en su cara! Que verguenza! Debería irme...</p>
+				<p i="2">Hmmmm, Ahhh\nDebo... terminar esto, o me excitaré sin control!</p>
+				<p i="3">Aaaaahhh!\nMe estoy viniendo muuuuucho! Este fue su almuerzo!</p>
 			</scenes>
 			<scenes scene="toad24">
-				<p i="1">Just wait me...\nremove it from my butt, okay? OOooh!</p>
-				<p i="1a">Oooh! I need to...\nremove it! Ohh it\'s embarassing...Ahh! Wait a minute.</p>
-				<p i="1b">Just a....Ahhh!\nPlease dont look! It\'s...it\'s stuck! Wait!</p>
-				<p i="2">Ohhh, so you\'ll\nhelp me? Please pull it out from my little hole! Ah! Like that!</p>
-				<p i="2a">Hey, no, wait!\nI\'ll do it myself... Aaaahhh! That\'s not necessary, Ooooooh!</p>
-				<p i="2b">Nooo, AHH! People\nwill notice! That\'s my butthole! Ahhhh!</p>
-				<p i="3">Ahhh! I am feeling\nyour dick, your perverted! Fuck my pussy! Ooooh!</p>
-				<p i="3a">Hey!! What are you\ndoing with that penis? I am so horny!! You\'re fucking my butt!</p>
-				<p i="3b">Ahhh! OOooh! Ahhhh!\nThats not fair! He is making me cum right here! ♥</p>
-				<p i="4">Ahhh! It\'s tucking\nlike mushrooms inside my rosebud! ♥</p>
-				<p i="4a">Ooooh, that\'s going\ntoo far! You are...fucking my butt that way! Ahhh!</p>
-				<p i="4b">Could you...Ahh!\nCould you remove it now? Please be quick! OOooooh!</p>
-				<p i="5">Ooooh, I came!\nMy butt is itching so much! I...like it! ♥</p>
-				<p i="5a">Ahhh, I am\ncumming!Now I feel my butt is unprotected...♥</p>
+				<p i="1">Espérame...\nsácalo de mi culo, si? OOooh!</p>
+				<p i="1a">Oooh! Necesito...\nsacarlo! Ohh que vergonzoso...Ahh! Espera un minuto.</p>
+				<p i="1b">Sólo un....Ahhh!\nPor favor no miren! Está...está atorado! Espera!</p>
+				<p i="2">Ohhh, así que tú\nme ayudarás? Por favor sácalo de mi agujerito! Ah! Justo así!</p>
+				<p i="2a">Hey, no, espera!\nLo haré yo misma... Aaaahhh! Eso no es necesario, Ooooooh!</p>
+				<p i="2b">Nooo, AHH! La gente\nlo notará! Ese es mi ano! Ahhhh!</p>
+				<p i="3">Ahhh! Siento tu\npene, pervertido! Folla mi coño! Ooooh!</p>
+				<p i="3a">Hey!! Qué estás\nhaciendo con esa verga? Estoy muy caliente!! Estás cogiéndome por el culo!</p>
+				<p i="3b">Ahhh! OOooh! Ahhhh!\nNo es justo! Me está haciendo correr aquí! ♥</p>
+				<p i="4">Ahhh! Está entrando\ncomo champiñones en mi rosa! ♥</p>
+				<p i="4a">Ooooh, eso es ir\nmuy lejos! Estás...follándote mi culo de esa manera! Ahhh!</p>
+				<p i="4b">Podrías...Ahh!\nPodrías sacarlo? Por favor se rápido! OOooooh!</p>
+				<p i="5">Ooooh, Me vine!\nMi trasero me está picando mucho! Me...gusta! ♥</p>
+				<p i="5a">Ahhh, Me estoy\ncorriendo! Ahora siento que mi culo está desprotegido...♥</p>
 			</scenes>
 			<scenes scene="toad25"> <!--DOC scene-->
-				<f i="1">Princess! I must\n...erhm...touch your asshole. Just be calm!</f>
-				<p i="1">Hey...you\'re\nnot a doctor! Ahhh! Please stop it, its embarrassing!</p>
-				<p i="1a">Erhm...Doc...\nDont you..Ahhhh... have another way...to cure it? Ooooh!</p>
-				<f i="2">Sorry, Princess,\nit\'s the only way!</f>
-				<p i="2">I...(Ooooh!)\nneed to relax! He\'s a doctor, why be ashamed of this? Oooh!</p>
-				<f i="2a">It was ordered\nby Toadsworth!</f>
-				<f i="2b">I know what\nI am doing, my princess! It\'s common to do it here!</f>
-				<p i="2a">I...(Ooooh!)\nthink you\'re...right! I\'ll let you use it!</p>
-				<f i="3">Princess! Quiet!\nIt\'s a special oil! It\'s almost there!</f>
-				<p i="3">Ahhhhhhh!\nYES! Lick my nasty asshole! Fuck it, its all yours!</p>
-				<p i="3a">Ahhhhhhh!\nare you....licking my... Oooooh I\'m so embarassed!</p>
-				<f i="4">Ok, its now\nclean and ready to be fuc... erhm, used!</f>
-				<f i="4a">I got it!!\nYour back fanny is not swollen anymore!</f>
-				<p i="4">Ahhhh! I am\ncumming soooooo bad! Oooouh!</p>
+				<f i="1">Princesa! Yo debo\n...erhm...tocar tu culo. Sólo cálmate!</f>
+				<p i="1">Hey...tú no\neres un doctor! Ahhh! Por favor detente, es embarazoso!</p>
+				<p i="1a">Erhm...Doc...\nNo tienes..Ahhhh... otra manera... de curarme? Ooooh!</p>
+				<f i="2">Lo siento, Princesa,\nes la única forma!</f>
+				<p i="2">Yo...(Ooooh!)\nnecesito relajarme! Él es doctor, por qué avergonzarme de esto? Oooh!</p>
+				<f i="2a">Fue una órden\nde Toadsworth!</f>
+				<f i="2b">Sé lo que hago\n, mi princesa! Es común hacer esto aquí!</f>
+				<p i="2a">Yo...(Ooooh!)\ncreo que...tienes razón! Te dejaré usarlo!</p>
+				<f i="3">Princesa! Quieta!\nEs un aceite especial, ya casi está!</f>
+				<p i="3">Ahhhhhhh!\nSI! Lame mi asqueroso ano! Fóllalo, es todo tuyo!</p>
+				<p i="3a">Ahhhhhhh!\nestás tu....lamiendo mi... Oooooh estoy muy avergonzada!</p>
+				<f i="4">Ok, ahora está\nlimpio y listo para foll... erhm, usar!</f>
+				<f i="4a">Lo tengo!!\nTu lindo trasero ya no está hinchado!</f>
+				<p i="4">Ahhhh! Me estoy\ncorriendo por montones! Oooouh!</p>
 			</scenes>
 
-	<!--GOOMBAS-->
+	<!--GOOMBAS--><!--Sección traducida al 100%. Escenas "goombaLaid 1 y 2" salen los textos invertidos (no depende de la traducción)-->
 			<scenes scene="goomba1">
-				<p i="1">Oh!!! Is that a...\nmanhood? Its...embarassing! I must do something!</p>
-				<p i="2">Well, er... Is this\nwhat a Goomba cock is like? It\'s so... big... and... thick...</p>
-				<p i="3">Oh! There\'s so much cum! But I can\'t do this anymore! The smell is making me so horny...</p>
+				<p i="1">Oh!!! Es eso...\nsu pene? Es...vergonzoso! Debo hacer algo</p>
+				<p i="2">Bueno, er... así es\ncomo se ve la verga de un Goomba? Es tan... grande... y... gruesa...</p>
+				<p i="3">Oh! Es mucho semen! Pero no puedo con esto! El holor me está prendiendo...</p>
 			</scenes>
 			<scenes scene="goomba2">
-				<p i="1">Ooh! I never\ndreamed goomba dick would taste this good! I guess I can do this!</p>
-				<p i="2">They cum so\nmuch! The poor things must not be getting their morning sessions.</p>
+				<p i="1">Ooh! Nunca\ncreí que el pene de un Goomba sabría así de bien! Supongo que puedo hacer esto!</p>
+				<p i="2">Se corrieró\nmucho! Pobre cosita, no debe estar teniendo sus sesiones mañaneras.</p>
 			</scenes>
 			<scenes scene="goomba3">
-				<p i="1">\nOh my! It\'s harder than the others!</p>
-				<p i="2">Oh god! This\nsmell just makes me want to go ...wild!</p>
+				<p i="1">\nOh por..! Es más grande que los demás!</p>
+				<p i="2">Oh dios! Este\nholor hace que me vuelva... loca</p>
 			</scenes>
 			<scenes scene="goomba4">
-				<p i="1">Mm! Maybe\n I\'ll just lick its cock a little more...</p>
-				<p i="2">Oh wow! That\nsmell is making me dizzy...</p>
+				<p i="1">Mm! Quizá\n deba lamer esta verga un poco más...</p>
+				<p i="2">Oh wow! Ese\nolor me está mareando...</p>
 			</scenes>
 			<scenes scene="goomba5">
-				<p i="1">*gulp* Nooooo!\nIt\'s hard to breathe like this!</p>
-				<p i="2">Ahhhh.. It\nmust have really been saving up!</p>
+				<p i="1">*gulp* Nooooo!\nEs dificil respirar así!</p>
+				<p i="2">Ahhhh.. Debe\nhaberse estado reservando!</p>
 			</scenes>
 			<scenes scene="goomba6">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="2c">I hope Mario\ndoesn\'t mind a little cream of mushroom when I find him.</p>
-				<p i="2d">\nHey!! What are you doing to.....oooh!</p>
-				<p i="3">\nOh I feel numb there...</p>
+				<p i="1">Hey!! Estás\npenetrando mi... conchita virgen!</p>
+				<p i="1a">No! No\nahí! Ese es el lugar de Mario!</p>
+				<p i="1b">No! No\ntoques mi coñito sagrado!</p>
+				<p i="2">Ah! No...\nno duele tanto como pensaba.</p>
+				<p i="2a">Ah! P-pero\nsupongo debo hacer esto para salvar a Mario.</p>
+				<p i="2b">Ah! Mi pequeña\nflor se está abriendo antes de hora!</p>
+				<p i="2c">Espero que a Mario\nno le moleste un poco de crema de champiñón cuando lo encuentre.</p>
+				<p i="2d">\nHey!! Qué le haces a mi.....oooh!</p>
+				<p i="3">\nOh Siento mi coño entumecido...</p>
 				<p i="4">\nOhhhhhh...Ah!</p>
 			</scenes>
 			<scenes scene="goomba7">
-				<p i="1">Hmmmmm\nI need to grab him in order he wont flee! But ahh, he is fucking me!</p>
-				<p i="2">Hey, stop!\nAhhh! I\'ll suffocate you! I will restrain you more! Ohhh!</p>
-				<p i="3">Ahhhhhh!\nNow I cant remove my legs! My thighs are a mess and slippery!</p>
+				<p i="1">Hmmmmm\nNecesito agarrarlo para que no huya! Pero ahh, está follándome!</p>
+				<p i="2">Hey, alto!\nAhhh! Te sofocaré! Y te mantendré aquí retenido! Ohhh!</p>
+				<p i="3">Ahhhhhh!\nAhora no puedo sacar mis piernas! Y están todas pegajosas!</p>
 			</scenes>
 			<scenes scene="goomba8">
-				<p i="1">\nWow! I\'m so wet right now it just slid in. Ooh!</p>
-				<p i="2">\nI can feel it oozing inside my pussy, ahh!</p>
+				<p i="1">\nWow! Estoy tan mojada que entró muy fácil. Ooh!</p>
+				<p i="2">\nPuedo sentir su leche dentro de mi coño, ahh!</p>
 			</scenes>
 			<scenes scene="goomba9">
-				<p i="1">\nHis Cock! Cock! Inside my...my....little womb!</p>
-				<p i="2">\nThis isn\'t correct. I\'m being addicted to! Ohhh cumming!</p>
+				<p i="1">\nSu verga...verga! Dentro de mi...mi....pequeña concha!</p>
+				<p i="2">\nEsto no es correcto. Me estoy haciendo adicta! Ohhh se está corriendo!</p>
 			</scenes>
 			<scenes scene="goomba10">
-				<p i="1">\nNOT in my ASS!!!</p>
-				<p i="2">\nMy ass is dripping! Something gushing in! Oh no..</p>
+				<p i="1">\nNO en mi TRASERO!!!</p>
+				<p i="2">\nMi trasero está goteando! Algo está chorreando! Oh no..</p>
 			</scenes>
 			<scenes scene="goomba11">
-				<p i="1">Oh, no! He\n is.... fucking me right away! Stop, I am not prepared!</p>
-				<p i="2">Now he is...\nTeasing my pussy! I\'m getting a tingly down there</p>
-				<p i="3">Ahhh Ohhh!\n He\'s fucking me vigorously, ooh, while I am in this position!!</p>
-				<p i="4">Haaaaaaaah!\nThat one was as quick as a rabbit.</p>
+				<p i="1">Oh, no! Estál\n.... follándome sin más! Detente, no estoy lista!</p>
+				<p i="2">Ahora está...\nprobando mi coño! y está palpitando ahí abajo</p>
+				<p i="3">Ahhh Ohhh!\n Me está cogiendo muy duro, ooh, estando en esta posición!!</p>
+				<p i="4">Haaaaaaaah!\nEso fue tan rápido como un conejo.</p>
 			</scenes>
 			<scenes scene="goomba12">
-				<p i="1">He kicked me\ndown and now its deep down my boobies!</p>
-				<p i="2">Ohhh.. hey!\nYou messed up my head with that...hot cum!</p>
-				<p i="3">Whaaaaaa?\nI haven\'t waited mahhmmmhhp  for thismmmhhp!</p>
+				<p i="1">Me tiró al\nsuelo y ahora está entre mis tetas!</p>
+				<p i="2">Ohhh.. hey!\nArruinaste mi cabello con tu... caliente semen!</p>
+				<p i="3">Quééééééé?\nNo esperaba mahhmmmhhp estommmhhp!</p>
 				<p i="4">Mmmhpm mmhp\n Hmmmp Hmmmm mmmmmhhpmhp!</p>
 			</scenes>
 			<scenes scene="goomba13">
-				<p i="1">\nHe\'s putting it all inside my...My...! Oh god!</p>
-				<p i="2">He\'s fucking me\nfaster!! Oooh I am screwed up like a cow!</p>
-				<p i="3">Oh god! Goomba cum is making me... cum from my bum!</p>
+				<p i="1">\nLo está metiendo todo dentro de mi... mi...! Oh dios!</p>
+				<p i="2">Me está follando\nmás rápido!! Oooh estoy cabalgando un caballo!</p>
+				<p i="3">Oh dios! el semen del Goomba me está haciendo... correr por mi culo!</p>
 			</scenes>
 			<scenes scene="goomba14">
-				<p i="1">Oh, no, stop!\nYou\'re making me dizzy!</p>
-				<p i="2">Oh no!\nHe made me slip and..Hmmmmm...Mhnmmp!</p>
-				<p i="3">\nHe\'s going to...\nFUCK me again! Ahhhh! In that position...</p>
-				<p i="4">Ahhhhh!\nCumming like a doggie! Mnnn oooh!</p>
+				<p i="1">Oh, no, detente!\nMe estás mareando!</p>
+				<p i="2">Oh no!\nMe hizo resbalar y..Hmmmmm...Mhnmmp!</p>
+				<p i="3">\nEstá...\nCOGIÉNDOME de nuevo! Ahhhh! En esa posición...</p>
+				<p i="4">Ahhhhh!\nCorriéndonos como dos perritos! Mnnn oooh!</p>
 			</scenes>
 			<scenes scene="goomba15">
-				<p i="1">Oh, can\'t think\nstraight, I just need more goombas!!</p>
-				<p i="1a">Ohh, he is\nalready fucking me! I hope no more goombas!</p>
-				<p i="2">Ohh! Someone has pucked something in my mouth!</p>
-				<p i="3">Hey! Ohhh I feel\nsomething in my ass!! Another Goomba??</p>
-				<p i="4">So much cum! It\'s\nso hot, I can\'t stop cumming! Ahhh Ahhhhhh</p>
+				<p i="1">Oh, no puedo pensar\nbien, necesito más goombas!!</p>
+				<p i="1a">Ohh, ya está\nfollándome! Espero que no más goombas!</p>
+				<p i="2">Ohh! Alguien\nmetió algo\nen mi boca!</p>
+				<p i="3">Hey! Ohhh siento\nalgo en mi trasero!! será otro Goomba??</p>
+				<p i="4">demasiado semen! Está\nmuy caliente, No puedo dejar de correrme! Ahhh Ahhhhhh</p>
 			</scenes>
-			<scenes scene="goombaLaid1">
-				<p i="1">Oohhh...\nI need this just a bit...</p>
-				<p i="2">Ooooh!\nHmmm I am cumming!</p>
+			<scenes scene="goombaLaid1">	<!--En esta escena los textos in-game salen invertidos-->
+				<p i="1">Oohhh...\nNecesito un poco de esto...</p>
+				<p i="2">Ooooh!\nHmmm me vengo!</p>
 			</scenes>
-			<scenes scene="goombaLaid2">
-				<p i="1">\nI hope nobody is watching..</p>
-				<p i="1a">\nMy pussy is on fire! I\'ll ignore everyone!</p>
-				<p i="2">\nI wont be losing any minute! I want this dick now!</p>
-				<p i="3">Cum for me, my little thing! I can\'t stand anymore! That smell!</p>
+			<scenes scene="goombaLaid2">	<!--En esta escena los textos in-game salen invertidos-->
+				<p i="1">\nEspero que nadie esté viendo..</p>
+				<p i="1a">\nMi concha está que arde! Ignoraré a todos!</p>
+				<p i="2">\nNo perderé ni un minuto! Necesito este pene pero ya!</p>
+				<p i="3">Córrete para mí, mi pequeña cosita! No puedo más! Ese olor!</p>
 			</scenes>
 
-	<!--KOOPAS-->
+	<!--KOOPAS--><!--Sección traducida al 100%.-->
 			<scenes scene="koopa1">
-				<p i="1">Wow! Who knew\na Koopa could be hiding something like THIS in his shell?</p>
-				<p i="2">It must\'ve been\nhard being so pent up! I\'ll make sure its balls are empty before I go.</p>
+				<p i="1">Wow! Quién diría\nque un Koopa escondería algo ASÍ en su caparazón?</p>
+				<p i="2">Debe haber sido\ndificil contenerse tanto! Me aseguraré de dejar vacías sus bolas antes de irme.</p>
 			</scenes>
 			<scenes scene="koopa2">
-				<p i="1">Oh....That\'s Disgust...maybe not!</p>
-				<p i="2">Gross! I\'ve\nfilled him with my cum...he did the same!!</p>
+				<p i="1">Oh....\nEso es cochi...\nquizá no</p>
+				<p i="2">Cielos! Me\nvine dentro de su boca... y el también llenó la mía de semen!!</p>
 			</scenes>
 			<scenes scene="koopa3">
-				<p i="1">Hmmmm\nI am sure somebody is here! Hellooo!</p>
-				<p i="2">Ahhh!\nMmmnnp Something went from outside...</p>
-				<p i="3">Mnnnph!\nI will take care of this...</p>
+				<p i="1">Hmmmm\nEstoy segura que hay alguien aquí! Holaaaa!</p>
+				<p i="2">Ahhh!\nMmmnnp Algo salió...</p>
+				<p i="3">Mnnnph!\nMe encargaré de esto...</p>
 				<p i="4">Mnnnmhp\nMmmmnhp mmmmp mmnhhmp!</p>
 			</scenes>
 			<scenes scene="koopa4">
-				<p i="1">Oh wow! It\'s\nso good! Please FILL my ass with your cum!</p>
-				<p i="2">Give it all to\nme! I\'m gonna squeeze out all your cum in my ass!</p>
+				<p i="1">Oh wow! Que bien\nse siente! Por favor LLENA mi culo con tu semen!</p>
+				<p i="2">Dámelo todo a mí!\nVoy a escurrir toda tu leche en mi trasero!</p>
 			</scenes>
 			<scenes scene="koopa5">
-				<p i="1">Hmm Ohh wait!!\n It\'s going too fast! In Out In Out... Ahh!</p>
-				<p i="2">Wow! It\'s got a lot\nof cum stored up in its balls! My pussy\'s already full of cum!</p>
-				<p i="3">Hey!! You\'re still\nfucking me! Oooooh! I need to get away!</p>
+				<p i="1">Hmm Ohh espera!!\nLo haces demasiado rápido! Fuera dentro fuera dentro... Ahh!</p>
+				<p i="2">Wow! Tenía mucho\nsemen guardado en sus bolas! Dejó mi coño lleno de su leche!</p>
+				<p i="3">Hey!! Aún sigues\ncogiéndome! Oooooh! Necesito irme!</p>
 			</scenes>
 			<scenes scene="koopa6">
-				<p i="1">Ohhh\nHe is fucking me right away! Ahhh!</p>
-				<p i="2">Ohhh!\nAhhh! Not so fast! Ahhh! I am crazy! Ohh!</p>
-				<p i="3">Ahhh!\nI want to grab you! Ohhh, go, go inside me!</p>
-				<p i="4">I am cumming\ntons of juices down there! I am dizzy!</p>
+				<p i="1">Ohhh\nEstá follándome\nasí nada más!\nAhhh!</p>
+				<p i="2">Ohhh!\nAhhh! No tan rápido! Ahhh! Enloqueceré! Ohh!</p>
+				<p i="3">Ahhh!\nQuiero agarrarte! Ohhh, entra, entra en mí!</p>
+				<p i="4">Estoy chorreando\nmuchos jugos ahí abajo! Estoy mareada!</p>
 			</scenes>
 			<scenes scene="koopa7">
-				<p i="1">Hey!! You\nare penetrating my....virgin cherry!</p>
-				<p i="1a">No! Not\nthere! That\'s Mario\'s place!</p>
-				<p i="1b">No! Don\'t\ntouch my royal slit!</p>
-				<p i="2">Ah! It...\nIt doesn\'t hurt as much as I thought.</p>
-				<p i="2a">Ah! B-but\nI guess I must do this to save Mario.</p>
-				<p i="2b">Ah! My little\nflower\'s plucked before it\'s time!</p>
-				<p i="2c">I hope Mario\ndoesn\'t mind a little cream of mushroom when I find him.</p>
-				<p i="2d">Ahhh\nHe\'s really quick! Its already there!</p>
-				<p i="3">Ohhh!\nAhhh! He\'s increasing the...Oooh, speed!</p>
-				<p i="4">Ahhh!\nOooooh! Ahhhhh! Thats insane!!</p>
-				<p i="5">I think I\nknocked him down...but its...too late!</p>
+				<p i="1">Hey!! Estás\npenetrando mi... conchita virgen!</p>
+				<p i="1a">No! No ahí!\nEse es el lugar de Mario!</p>
+				<p i="1b">No! No\ntoques mi coñito sagrado!</p>
+				<p i="2">Ah! No...\nno duele tanto como pensaba.</p>
+				<p i="2a">Ah! P-pero\nsupongo debo hacer esto para salvar a Mario.</p>
+				<p i="2b">Ah! Mi pequeña\nflor se está abriendo antes de hora!</p>
+				<p i="2c">Espero que a Mario\nno le moleste un poco de crema de champiñón cuando lo encuentre.</p>
+				<p i="2d">Ahhh\nEs muy rápdio! Ya está ahí!</p>
+				<p i="3">Ohhh!\nAhhh! Está aumentando la... Oooh, velocidad!</p>
+				<p i="4">Ahhh!\nOooooh! Ahhhhh! Esto es una demencia!!</p>
+				<p i="5">Creo que lo\nnoqueé... pero es... muy tarde!</p>
 			</scenes>
 			<scenes scene="koopa8">
-				<p i="1">Ohhh yes! I\nlove this dick in my ass! Soooo goood!</p>
-				<p i="2">Cumming right\non that turtle... Why am I desiring even more of this? Oooh!</p>
+				<p i="1">Ohhh si!\nAmo este pene en mi trasero! Que riiiiico!</p>
+				<p i="2">Corriéndome sobre\nesta tortuga... Por qué estoy deseando más de esto? Oooh!</p>
 			</scenes>
 			<scenes scene="koopa9">
-				<p i="1">Oh...That\'s Disgust...maybe...maybe not that much! Ahhhh!</p>
-				<p i="2">Nooo, it\'s\nsteaming! They\'re sliding down my thighs!</p>
+				<p i="1">Oh... Eso es cochi... quizá... quizá no tanto! Ahhhh!</p>
+				<p i="2">Nooo! Está\ncaliente! Se está deslizando por mis piernas!</p>
 			</scenes>
 			<scenes scene="koopa10">
-				<p i="1">Yes! Drive\nit up my ass! I\'m gonna cum!</p>
-				<p i="2">Oh gawd! My\nass and pussy are so full right now!</p>
-				<p i="3">They\'re cumming\ninside me so much! I love that hot spunk inside me!</p>
+				<p i="1">Si! fóllate\nduro mi culo! Me voy a correr!</p>
+				<p i="2">Oh gawd! Mi\ntrasero y mi coño están muy llenos!</p>
+				<p i="3">Se están corriendo\nmuchísimo dentro de mí! Amo esta leche caliente dentro mío!</p>
 			</scenes>
 			<scenes scene="koopa11">
-				<p i="1">Eek! My ass\nis still sensitive from the last time!</p>
-				<p i="2">Cumming! So\nmuch cum! I\'m cumming!</p>
-				<p i="3">They\'re cumming\ninside me so much! I love that hot spunk inside me!</p>
+				<p i="1">Eek! Mi trasero\nsigue sensible por\nlo de la\núltima vez!</p>
+				<p i="2">Estoy\ncorriéndome!\ndemasiado!\nMe corro!</p>
+				<p i="3">Se están corriendo\nun montón dentro de mí! Amo esta leche caliente dentro mío!</p>
 			</scenes>
 
 	<!--SHYGUYS-->
@@ -400,7 +399,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">Shyguy\ndicks are full of hidden cum...</p>
 			</scenes>
 			<scenes scene="shyguy2">
-				<p i="1">I need to...\nsuck you, my darling!</p>
+				<p i="1">Necesito...\nchupártela, cariño!</p>
 				<p i="2">They also cum so\nmuch! I hope my belly will stand everything!</p>
 			</scenes>
 			<scenes scene="shyguy3">
@@ -2069,7 +2068,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	<!--MUSHROOM FROGS (they hop around and give mushroom powerups)-->
 			<scenes scene="mushroomFrog">
 				<p i="1">Princesa: Ohhh...você  é tão adorável! Quer...uma mãozinha?</p>
-				<p i="2">(ESCOLHA UM NÚMERO)\n1) Acariciar! \n2) Deixe-o em paz</p>
+				<p i="2">(ESCOGE UN NÚMERO)\n1) Acariciar! \n2) Deixe-o em paz</p>
 			</scenes>			
 			<scenes scene="mushroomFrog1">
 				<p i="1">Oh my little\nthing! I see you need some caressing, right?</p>
@@ -3212,7 +3211,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 			<scenes scene="dialogueDoopLiss">
 				<e i="1">Ei, Princesa {CHARACTER_NAME} Puta! Estou ainda procurando aquele Mário bundão! Ele DEVE permanecer como uma sombra o resto da vida dele! HAAAAHAHAHA!</e>
-				<p i="2">(ESCOLHA UM NÚMERO)\n1) Chute-o (perigoso!)\n2) Ignore-o (SAIR)</p>
+				<p i="2">(ESCOGE UN NÚMERO)\n1) Chute-o (perigoso!)\n2) Ignore-o (Salir)</p>
 				<p i="3">*CENA AINDA A SER FEITA*</p>
 			</scenes>			
 			
@@ -3263,7 +3262,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="11">Charlieton: Please choose the stockings color:\n1) White   2) Pink   3) Black</f>
 				<f i="12">Charlieton: Please choose the garter color:\n1) White   2) Pink   3) Black</f>
 				<f i="13">Charlieton: Desculpe, Não tenho calcinhas... quer vestir, errrr, agora? Ou quer que um entregador leve ao castelo?</f>
-				<p i="14">(ESCOLHA UM NÚMERO):\n1) Vestir-se com eles agora!\n2) Deixar para o entregador (levará ao seu quarto em 1 dia)</p>
+				<p i="14">(ESCOGE UN NÚMERO):\n1) Vestir-se com eles agora!\n2) Deixar para o entregador (levará ao seu quarto em 1 dia)</p>
 				<f i="15">Charlieton: Sorry miss, you don\'t have enough coins.\n1) Look at more wares\n2) Try to Bargain  3) Leave</f>
 				<p i="16">Princess: Can\'t I pay in... \'another\'... way?</p>
 				<f i="17">Charlieton: What do you wish to pay with? Gold? Gems?</f>
@@ -3357,10 +3356,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="treasure">Princess, you\ncan take one item of these treasure chests if you want.</f>
 				<f i="helpLocked">Princess! Right\nhere! Help! Heeeeelp this lonely soul!</f>
 				<f i="lockedPrisonBowser1">Olá, minha princesa amável! Estou tão feliz em vê-la por aqui! Eles removeram minhas roupas e estou com frio! Por favor me tire daqui!</f>
-				<p i="lockedPrisonBowser2">(ESCOLHA UM NÚMERO):\n1) Ok mas...cadê a chave?\n2) Me desculpa, tenho que salvar o Mário!</p>
+				<p i="lockedPrisonBowser2">(ESCOGE UN NÚMERO):\n1) Ok mas...cadê a chave?\n2) Me desculpa, tenho que salvar o Mário!</p>
 				<f i="lockedPrisonBowser3">Não há chaves! Existe uma maçanela ali! Ela é mágica! Lembro que eles usaram minha...bunda para excitar a porta até abrí-la. Você precisa ficar...erhm..pelada, e ...você sabe.</f>
-				<p i="lockedPrisonBowser4">(ESCOLHA UM NÚMERO):\n1) Ééé...ok, vou esfregar minha...bundinha nele, mas NÃO OLHE PARA CÁ!\n2) Mas nem MORTA! Chega disso!</p>
-				<p i="lockedPrisonBowser4Nymph">(ESCOLHA UM NÚMERO):\n1) Tudo bem sim! Que excitante! Eu vou amar, hihi! Só um instante!\n2) Não, não quero!</p>
+				<p i="lockedPrisonBowser4">(ESCOGE UN NÚMERO):\n1) Ééé...ok, vou esfregar minha...bundinha nele, mas NÃO OLHE PARA CÁ!\n2) Mas nem MORTA! Chega disso!</p>
+				<p i="lockedPrisonBowser4Nymph">(ESCOGE UN NÚMERO):\n1) Tudo bem sim! Que excitante! Eu vou amar, hihi! Só um instante!\n2) Não, não quero!</p>
 				<f i="lockedPrisonBowser5">Muito obrigado, princesa! Aqui estão algumas moedas para você! Você merece muito mais! Beijão!!!</f>
 			</scenes>
 			
@@ -3449,16 +3448,16 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>			
 			
 			<scenes scene="dialogueToadette">
-				<f i="1">Princess!! Please cover yourself, or I\'ll be calling the guards!</f>
-				<f i="2">Oh, Princess!! Do you two want something for the dinner?</f>
+				<f i="1">Princesa!! Por favor vístase, o llamaré a los guardias!</f>
+				<f i="2">Oh, Princesa!! Ustedes dos quieren algo para cenar?</f>
 				<f i="3">Oh! You better not walk around like that! The fighters might degust you, dear!</f>
 				<f i="4">Princess? Why are you here? And where is the Great Gonzalez?</f>
-				<f i="5">Good morning, Princess!</f>
-				<f i="6">Good afternoon, my Royalty!</f>
+				<f i="5">Buenos días, Princesa!</f>
+				<f i="6">Buenas tardes, su Alteza!</f>
 				<f i="7">Princess!! Why are you wandering like that? Don\'t you dare do....do Nasty Things!</f>
 				<f i="8">Good morning! Please keep dressed and help Toadsworth do their chores in the castle!</f>
-				<f i="9">I just can\'t stop masturbating my insides, Princess!</f>
-				<f i="10">Princess! The toads...erhm... gangbanged me... and I am still horny!</f>
+				<f i="9">No puedo dejar de masturbarme, Princesa!</f>
+				<f i="10">Princesa! Los toads...erhm... me follaron... y yo sigo caliente!</f>
 				<f i="11">Princess!! Why are you wandering like that? Don\'t you dare do....do Nasty Things!</f>
 			</scenes>			
 			
@@ -3648,7 +3647,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 					<p i="8e">I don\'t know why, but... I feel myself so exposed in this pose...</p>
 				<p i="9">It\'s a...toilet! But it\'s out of order!</p>
 				<p i="10">(Press a Number)\n1) Just Seat  2,3,4,5) Masturbation Mode\n6) Peeing (YES/NO)   7) Fart (may diminish Belly size)   {NEXTKEY}) Exit</p>
-				<p i="10a">(ESCOLHA UM NÚMERO)\n1) Apena sentar  2,3,4,5) Masturbar-se\n6) Fazer xixi (SIM/NÃO)   7) Avistar o Buraco da Glória    {NEXTKEY}) Sair</p>
+				<p i="10a">(ESCOGE UN NÚMERO)\n1) Apena sentar  2,3,4,5) Masturbar-se\n6) Fazer xixi (SIM/NÃO)   7) Avistar o Buraco da Glória    {NEXTKEY}) Salir</p>
 			</scenes>			
 			
 			<scenes scene="dialogueBottle">
@@ -3708,7 +3707,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>
 			
 			<scenes scene="dialogueChair">
-				<p i="1">It\'s a chair I was seated on! (PRESS A NUMBER)\n1) Sit on it\n2) Leave</p>
+				<p i="1">Es una silla en la que estaba sentada! (PRESIONA UN NÚMERO)\n1) Sentarse\n2) Irse</p>
 			</scenes>
 			
 			<scenes scene="dialogueScepter">
@@ -3756,22 +3755,22 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>	
 			
 			<scenes scene="dialogueBed"> <!--All related to beds-->
-				<p i="1">É minha cama...\n1) Sente-se   2) Use as cortinas</p>
-				<p i="2">Que nojo! Eu terei mesmo que dormir AQUI?</p>
-				<p i="3">(ESCOLHA UM NÚMERO)\n1) Sente-se ou Deite-se\n{NEXTKEY}) Sair</p>
-				<p i="4">É a cama do Mário!</p>
-				<p i="5">(ESCOLHA UM NÚMERO)\n1) Sente-se\n{NEXTKEY}) Sair</p>
-				<p i="6">É a cama da Toadette...</p>
-				<p i="7">(ESCOLHA UM NÚMERO)\n1) Sente-se\n{NEXTKEY}) Sair</p>
-				<p i="8">(ESCOLHA UM NÚMERO)\n1) Sair</p>
-				<p i="9">(ESCOLHA UM NÚMERO)\n1) Beijar Mário</p>
-				<p i="10">(ESCOLHA UM NÚMERO)\n1) Masturbatar para conseguir dormir</p>
-				<p i="11">(ESCOLHA UM NÚMERO)\n1) Deitar-se</p>
-				<p i="11a">(ESCOLHA UM NÚMERO)\n1) Deitar-se   2) Chamar um Toad</p>
-				<p i="11b">(ESCOLHA UM NÚMERO)\n1) Deitar-se   2) Chamar um Toad    3) Chamar outras Princesas</p>
-				<p i="12">para sentar, ou ESCOLHA UM NÚMERO para escolher</p>
-				<p i="13">(cuidado com toads pestinhas!)</p>
-				<p i="14">(ESCOLHA UM NÚMERO):\n1) Masturbar-se devagar       2) Masturbar-se vigorosamente\n3) Dobrar (ficar de costas) e masturbar-se</p>
+				<p i="1">Es mi cama...\n1) Sentarse   2) Tocar cortinas</p>
+				<p i="2">Que desagradable! se supone que debo dormir en ESTO?</p>
+				<p i="3">(ESCOGE UN NÚMERO)\n1) Sentarse o Acostarse\n{NEXTKEY}) Irse</p>
+				<p i="4">Es la cama de Mario!</p>
+				<p i="5">(ESCOGE UN NÚMERO)\n1) Sentarse\n{NEXTKEY}) Irse</p>
+				<p i="6">Es la cama de Toadette...</p>
+				<p i="7">(ESCOGE UN NÚMERO)\n1) Sentarse\n{NEXTKEY}) Irse</p>
+				<p i="8">(ESCOGE UN NÚMERO)\n1) Irse</p>
+				<p i="9">(ESCOGE UN NÚMERO)\n1) Besar a Mario</p>
+				<p i="10">(ESCOGE UN NÚMERO)\n1) Masturbarse para lograr dormir</p>
+				<p i="11">(ESCOGE UN NÚMERO)\n1) Acostarse</p>
+				<p i="11a">(ESCOGE UN NÚMERO)\n1) Acostarse   2) Llamar un Toad</p>
+				<p i="11b">(ESCOGE UN NÚMERO)\n1) Acostarse   2) Llamar un Toad    3) Llamar otras Princesas</p>
+				<p i="12">para sentarse, o ESCOGE UN NÚMERO</p>
+				<p i="13">(cuidado con los toads traviesos!)</p>
+				<p i="14">(ESCOGE UN NÚMERO):\n1) Masturbarse delicadamente       2) Masturbarse fuértemente\n3) Darse la vuelta y masturbarse</p>
 			</scenes>	
 			
 			<scenes scene="dialogueClosetCastle">
@@ -3958,13 +3957,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="7">I cant just remove my clothes here! The floor is dirty and hot, and Zess T is nearby! I can either drop it all at once (HUD icon) or return to here already nekkid...</p>
 				<p i="8">But how? Its too small... the maximum I can do is...sit on it with my lovely butt (*Giggles*)</p>
 				<p i="9">(CHOOSE A NUMBER)\n1) Masturbate/Cancel    2) Go inside!</p>
-				<p i="10">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar         2) Sair!\n3) Mostrar sua bunda!  4) Um toad está vindo!   5) Dois toads levarão o bolo!</p>
+				<p i="10">(ESCOGE UN NÚMERO)\n1) Masturbar-se/Cancelar         2) Salir!\n3) Mostrar sua bunda!  4) Um toad está vindo!   5) Dois toads levarão o bolo!</p>
 				<p i="11">(CHOOSE A NUMBER)\n1) Masturbate/Cancel\n2) Go inside!</p>
 				<p i="12">I... I cant leave! I... I am stuck! The only way is by breaking the cake! May I? (CHOOSE):</p>
 				<f i="13">Ohhh! A princesa\nestá zoando com o bolo PELADA! É uma vadia!</f>
 				<f i="13a">Ei, amigo, vamos\nlevar o bolo! A festa vai começar! Ajuda aqui!</f>
 				<p i="14">Não...não pode ser!\nTiene un hombre lá fora! Ohhhh!</p>
-				<p i="15">(ESCOLHA UM NÚMERO)\n1) Masturbar-se/Cancelar         2) Sair!\n3) Mostrar sua bunda!</p>
+				<p i="15">(ESCOGE UN NÚMERO)\n1) Masturbar-se/Cancelar         2) Salir!\n3) Mostrar sua bunda!</p>
 			</scenes>
 
 			<scenes scene="dialogueSackToad"><!--sack where toads are freed-->
@@ -4198,42 +4197,42 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 	<!-- Interactions that only happen in a Level-->
 			<scenes scene="levelPeachCastle">
-				<p i="1">Oh, I\'m a mess! Where is my beloved Mario? I have to find him!</p>
-				<p i="2">What have I just agreed to??? And how about ...fucking them? It must be a prank! Me, using my...my precious pussy with those creatures? NO WAY!</p>
-				<p i="3">What\'s that? (SIGH). That\'s shameful!! Pictures of me...doing ...those things? WHO DID THIS?</p>
-				<p i="4">Oh, that\'s an area I dont visit often! I can\'t imagine WHAT those apparatus do... And WHO might use them!</p>
-				<p i="5">Oh no! Where have my other clothes gone?! Toadette might be washing it....or....the toads might be tricking me!</p>
-				<p i="6">Princess: Oh the nursery room. I remember when I needed...hmm....care.</p>
-				<p i="7">Oh no! Where have my clothes gone?! Ohh I dont want to walk around naked...</p>
-				<p i="8">Oh no! Where have my clothes gone?! How could I exchange clothes later?</p>
-				<p i="9">Ooooh....I am getting aroused only at seeing you two... Oh that penetration...You a really perverted girl! Hmmm!</p>
-				<p i="10">Hey! Toadette!! What are you doing, that\'s so nasty!</p>
-				<p i="11">Huh? you HYPOCRITE!</p>
-				<p i="12">Oooh, that is so embarassing, that\'s not good manners, I\'ll tell Toadsworth!</p>
-				<f i="13">Toadette: Ooooh, Ahhh, you don\'t dare to tell anything, or I\'ll show your dirty photos to him! You hear that! Ahh!</f>
-				<p i="14">I see many objects like...erhmm...smelly dildos, knuckles, alcohol and ether.</p>
-				<p i="15">Those things make me shiver! Toadette really has odd preferences!</p>
-				<p i="16">I am trying to understand if its a mutation... I just imagine myself with a boob like that!</p>
-				<p i="17">Princess: Its a stove, and the furnace is on.</p>
-				<p i="18">Princess: I will be able to check the goodies later.</p>
-				<p i="19">Who did write that? That\'s indecent!</p>
-				<p i="20">I am really a...Bitch! Ooooh!</p>
-				<p i="21">Its my food... Erhm... with Mayonnaise</p>
-				<p i="22">This is where I announce duties, news and all my dirty things to everyone!</p>
-				<p i="23">I want to suck that microphone dick so bad!</p>
-				<p i="24">This is where I announce news and duties to all castle inhabitants and people outside.</p>
-				<p i="25">I am always embarrassed when I use that....that stinky microphone...</p>
-				<p i="26">(CHOOSE A NUMBER):\n1) Use it\n2) Exit</p>
-				<p i="27">(CHOOSE A NUMBER):\n1)Prepare it   2)Talk  3)Masturbate   4)Masturbate more\n5)Suck   6)Suck more  7)Jump on it and fuck it   8)Exit</p>
-				<p i="28">Prepare it   2)Talk  3)Masturbate   4)Masturbate more\n5)Suck   6)Suck more  7)Jump on it and fuck it   8)Exit</p>
-				<p i="29">trying to leave it tenderly...</p>
-				<p i="30">Is that the proper soap used to wash my clothes?</p>
-				<p i="31">I like this little waterfall. Makes me wish to take a bath. The sound is so mesmerizing!</p>
-				<p i="32">Hmmmm....I....er... Its my morning reliever... I use it to lubricate my... you know what...</p>
-				<p i="33">(CHOOSE A NUMBER):\n1) Use it in your pussy!      2) Use it in your butthole!</p>
-				<p i="34">Oooh, no! I am not allowed to use my out pipe there!</p>
-				<p i="35">Ohh, nooo! I already used my... moonie gap today... this is embarrassing enough!</p>
-				<p i="36">Its a sofa, a gift from Prince Peasley.</p>
+				<p i="1">Oh, Soy un desastre! Dónde está mi amado Mario? Debo encontrarlo!</p>
+				<p i="2">A qué acabo de acceder??? Y que hay con eso de... follarlos? Debe ser una broma! Yo, usando mi... mi preciosa conchita con esas criaturas? NI HABLAR!</p>
+				<p i="3">Qué es eso? (SUSPIRO). Que verguenza!! Fotos de mí... haciendo... esas cosas? QUIÉN HIZO ESTO?</p>
+				<p i="4">Oh, este es un lugar que no suelo visitar! No puedo imaginar para QUÉ son esos aparatos... Y QUIÉN podría usarlos!</p>
+				<p i="5">Oh no! Dónde se ha ido el resto de mi ropa?! Toadette debe estar lavándola... o... los toads me la están jugando!</p>
+				<p i="6">Princesa: Oh la enfermería. Recuerdo cuando necesité... hmm... atención.</p>
+				<p i="7">Oh no! Dónde se ha ido mi ropa?! Ohh, no quiero tener que caminar por ahí desnuda...</p>
+				<p i="8">Oh no! Dónde se ha ido mi ropa?! Cómo podría cambiarme de ropa luego?</p>
+				<p i="9">Ooooh... Me estoy excitando sólo con verlos... Oh esa penetración... En serio eres una chica pervertida! Hmmm!</p>
+				<p i="10">Hey! Toadette!! Qué estás haciendo? Eso es asqueroso!</p>
+				<p i="11">Huh? Eres HIPÓCRITA!</p>
+				<p i="12">Oooh, que vergonzoso, esos no son buenos modales, le diré a Toadsworth!</p>
+				<f i="13">Toadette: Ooooh, Ahhh, no te atrevas a decir nada, o le mostraré tus sucias fotos! Escuchaste?! Ahh!</f>
+				<p i="14">Veo varios objetos como...erhmm...consoladores malolientes, nudillos, alcohol y éter.</p>
+				<p i="15">Esas cosas me dan escalofríos! Toadette tiene unos gustos muy raros!</p>
+				<p i="16">Trato de entender si es una mutación... Me imagino a mí con unas tetas como esas!</p>
+				<p i="17">Princesa: Es una estufa, y el horno está encendido.</p>
+				<p i="18">Princesa: Más tarde podré chequear las golosinas.</p>
+				<p i="19">Quién escribió eso? Que indecente!</p>
+				<p i="20">Realmente soy una... perra! Ooooh!</p>
+				<p i="21">Es mi comida... Erhm... con mayonesa</p>
+				<p i="22">Aquí es donde anunció los deberes, noticias y todas mis cosas sucias a todos!</p>
+				<p i="23">Vaya que quiero chupar ese micrófono de pene pero mal!</p>
+				<p i="24">Aquí es donde anuncio noticias y deberes a todos los habitantes del castillo y gente de afuera.</p>
+				<p i="25">Siempre me averguenzo al usar ese... ese micrófono apestoso...</p>
+				<p i="26">(ELIGE UN NÚMERO):\n1) Usar\n2) Salir</p>
+				<p i="27">(ELIGE UN NÚMERO):\n1)Prepararlo   2)Hablar  3)Masturbarse   4)Masturbarse más\n5)Chupar   6)Chupar más  7)Saltar en él y follarlo   8)Salir</p>
+				<p i="28">Prepararlo   2)Hablar  3)Masturbarse   4)Masturbarse más\n5)Chupar   6)Chupar más  7)Saltar en él y follarlo   8)Salir</p>
+				<p i="29">trying to leave it tenderly...</p>				<!--Falta traducir (ver in-game para comprender)-->
+				<p i="30">Ese es el jabón apropiado para lavar mi ropa?</p>
+				<p i="31">Me gusta esta pequeña cascada. Me hace dar ganas de bañarme en ella. El sonido es fascinante!</p>
+				<p i="32">Hmmmm....Yo....er... Es mi calmante mañanero... Lo uso para lubricar mi... tú sabes qué...</p>
+				<p i="33">(ELIGE UN NÚMERO):\n1) Usarlo en tu coño!      2) Usarlo en tu ano!</p>
+				<p i="34">Oooh, no! No tengo permitido usar mi pipa ahí!</p>
+				<p i="35">Ohh, nooo! Hoy ya usé mi... agujerito de miel... esto ya es lo suficiéntemente embarazoso!</p>
+				<p i="36">Es un sofá, un regalo del Príncipe Peasley.</p>	<!--Continuar-->
 				<p i="37">Oh.....I can see my...my reliever there! My bottoms itch of pleasure. Nobody knows about that!</p>
 				<p i="38">This is so great and yummy! I feel horny seeing it!</p>
 				<p i="39">Who did that to my statue? Oh, its so embarrassing to see this!</p>
@@ -4349,12 +4348,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="toadStolenKey6">Toad: Okay, I\'ll wait here! Thank you, my Princess!</f>
 				<f i="toadStolenKey7">But Princess, I ... I need to do something, I will be quick, I swear!</f>
 				<f i="toadStolenKey8">Toad: Thank you Princess! But....errr....the key is stuck in your...</f>
-					<p i="toadStolenKey8a">(ESCOLHA UM NÚMERO)\n1) Ajude-me a retirar!\n2) Sair</p>
+					<p i="toadStolenKey8a">(ESCOGE UN NÚMERO)\n1) Ajude-me a retirar!\n2) Salir</p>
 				<f i="toadStolenKey9">Boa sorte em sua busca!</f>
 				<f i="toadStolenKey10">Toad: Obrigado de verdade! As portas estão agora destrancadas!</f>
 				<f i="toadStolenKey10a">Toad: EU VI! Você teve relações com ele! Você é uma puta, Princesa! Droga, estou de pau duro! Ninguém pode ver isso! Fique aí! Depois destranco as portas!</f>
 				<f i="toadStolenKey11a">Toad: EU VI! Você nocauteou-o! Agora fiquei muito triste!</f>
-					<p i="toadStolenKey11b">(ESCOLHA UM NÚMERO)\n1) Oh, me desculpe...me dê uma nova chance! \n2) Eu não fiz nada com ele!</p>
+					<p i="toadStolenKey11b">(ESCOGE UN NÚMERO)\n1) Oh, me desculpe...me dê uma nova chance! \n2) Eu não fiz nada com ele!</p>
 					<f i="toadStolenKey11c">Toad: Você está mentindo! Eu quero uma coisa de você...Quero você no meu pau! Ou direi tudo ao Toadsworth! Daí posso destrancar as portas!</f>
 				<f i="toadStolenKey12">Toad: Nada ainda, princesa? Você não os achou? Tente procurar mais!</f>
 			</scenes>			
@@ -4661,7 +4660,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="14">Welcome to Nimbus Land, Princess! We already know you are arriving here. Please go inside, the king wants to talk to you!</f>
 				<f i="15">Welcome to the Market, Princess! Too bad I dont have pans and other items I used to sell before. Perhaps in the future...</f>
 				<p i="16">This is a small pond. Oh it might be warm! I like hot showers. But... wait! Its in a public place!</p>
-				<p i="16a">(ESCOLHA UM NÚMERO):\n1) Fica nuazinha e se banhe\n2) Desistir</p>
+				<p i="16a">(ESCOGE UN NÚMERO):\n1) Fica nuazinha e se banhe\n2) Desistir</p>
 				<p i="16b">Não! Eu não estou... preparada para tanto...</p>
 				<p i="16c">Eu-Eu só farei isso porque... estou realmente excitadinha!</p>
 				
@@ -5775,23 +5774,23 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Remaining">Remaining</text>
 			<text name="BackToTITLE">Back to TITLE</text>
 			<text name="MENU">MENU</text>
-			<text name="ZOOMIN">ZOOM IN</text>
-			<text name="ZOOMOUT">ZOOM OUT</text>
-			<text name="BACK">BACK</text>
-			<text name="LOADGAME">CARREGAR JOGO</text>
+			<text name="ZOOMIN">ZOOM +</text>
+			<text name="ZOOMOUT">ZOOM -</text>
+			<text name="BACK">ATRÁS</text>
+			<text name="LOADGAME">CARGAR JUEGO</text>
 			<text name="LoadGame">Load Game</text>
 			<text name="FromFile">FROM FILE</text>
 			<text name="Load">Load</text>
 			<text name="LOAD">LOAD</text>
 			<text name="LoadSlots">Load Slots</text>
-			<text name="START">START</text>
+			<text name="START">INICIAR</text>
 			<text name="Save">Save</text>
-			<text name="SAVE">SAVE</text>
+			<text name="SAVE">GRABAR</text>
 			<text name="POWERUP">POWERUP</text>
-			<text name="Cancel">Cancel</text>
-			<text name="Confirm">Confirm</text>
+			<text name="Cancel">Cancelar</text>
+			<text name="Confirm">Confirmar</text>
 			<text name="OutfitRoom">Outfit Room</text>
-			<text name="CurrentGame">Current Game</text>
+			<text name="CurrentGame">Juego Actual</text>
 			<text name="QuickWarpToActiveLevel">Quick Warp to an Active Level</text>
 			<text name="LostHerVirginity">lost her Virginity!</text>
 			<text name="GotGangBangedInPrison">got gangbanged in the prison!</text>
@@ -5813,7 +5812,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="bellyEmpty">The belly is now empty!</text>
 			<text name="bellyDecreased">Belly decreased. To decrease more, please wait some seconds first!</text>
 			<text name="thisActionHelpFreeChainball">This action helped you to free yourself from the chain ball!</text>
-			<text name="ICantClimbCarrying">Eu não posso subir enquanto estiver com isto em minhas mãos. Preciso enfiar em...algum lugar!\n1) Bem... vou por no meu cu!\n2) Sair</text>
+			<text name="ICantClimbCarrying">Eu não posso subir enquanto estiver com isto em minhas mãos. Preciso enfiar em...algum lugar!\n1) Bem... vou por no meu cu!\n2) Salir</text>
 			<text name="ExtraLife">Vida Extra</text>
 			<text name="WorldDoesntExist">WORLD DOESNT EXIST YET! Lumas of the Star Road are making them.</text>
 			<text name="pressUPProgramCannon">Press \'UP\' key to program the cannon</text>
@@ -6019,10 +6018,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="HardGame">Juego Dificil</text>
 			<text name="Gallery">Galeria</text>
 			<text name="Credits">Creditos</text>
-			<text name="NoAchievementsYet">No achievements yet!</text>
-			<text name="Achievements">Achievements</text>
+			<text name="NoAchievementsYet">No hay logros aún!</text>
+			<text name="Achievements">Logros</text>
 			<text name="Achievements2LinesIfNecessary">Achieve\nments</text> <!--\n creates a new line-->
-			<text name="AchievementsDesc">Here you might find unlocked Peach art and medals\nPlease remember it\'s for \'Peach\' characters only! (Like Peach PS, Burn Peach...)\nAlso remember you must save the current game in a save slot to retrieve them later.</text> <!--\n creates a new line-->
+			<text name="AchievementsDesc">Aquí puedes encontrar arte de Peach y medallas desbloqueadas\nRecuerda que esto es sólo para personajes \'Peach\'! (como Peach PS, Burn Peach...)\nAlso remember you must save the current game in a save slot to retrieve them later.</text> <!--\n creates a new line-->
 			<text name="MenuCtrl">Menu (Ctrl)</text>
 			<text name="PerLevel">Per Level</text>
 			<text name="Time">Tiempo</text>
@@ -6169,21 +6168,21 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="9-3">Na Lua abismal</text>
 	
 	<!--SCREENS: PROLOGUE -->
-		<text name="PrologueOnceUpon">Era uma vez um reinado de cogumelos, um local de muita paz.\nUma princesa reinava a todos os habitantes em uma vasta terra distante.</text>
-		<text name="PrologueAmongToads">A princesa sempre vivia ao lado dos toads, pequenas criaturas que a protegiam, bem como o castelo.\nEles eram inúmeros, ajudando-a toda vez que necessitava.</text>
-		<text name="PrologueLewdToads">Às vezes...devido a suas necessidades da puberdade, ela acabava fazendo bem mais do que acariciá-los...</text>
-		<text name="PrologueCallingToads">A princesa começou a chamá-los antes do café-da-manhã, no almoço, durante a tarde e antes de dormir...\nAté que um final de semana especial chegou...</text>
-		<text name="ScreenTrain_MarioAfter">Mario, despues de su ultima busqueda, llama la princesa Peach para una cena en el tren.</text>
-		<text name="PeachInvites">THE PRINCESS invites Mario to her castle...\nShe will finally have her\nfirst experience...</text>
-		<text name="ButSomethingBad">But something bad is going\nto happen....</text>
+		<text name="PrologueOnceUpon">Érase una vez, el Reino Champiñón un lugar muy tranquilo .\nLa princesa reinaba sobre todos los habitantes de esta tierra distante.</text>
+		<text name="PrologueAmongToads">Ella siempre estaba rodeada de toads, pequeños seres que la protegían a ella y al castillo.\nEllos estaban en todas partes, ayudando a la princesa siempre que necesitaba una mano.</text>
+		<text name="PrologueLewdToads">A veces, debido a los impulsos de su pubertad, terminaba haciendo algo más que acariciar a los toads...</text>
+		<text name="PrologueCallingToads">La princesa pasaba llamando a los toads antes del desayuno, antes del almuerzo, durante la tarde y antes de acostarse...\nHasta que llegó un fin de semana especial...</text>
+		<text name="ScreenTrain_MarioAfter">Mario, después de su última aventura, le pide a la Princesa Peach cenar con él en el tren.</text>
+		<text name="PeachInvites">La princesa invita a Mario a su castillo...\nElla por fín iba a tener su\nprimera experiencia...</text>
+		<text name="ButSomethingBad">Pero algo malo\nestá a punto de suceder....</text>
 		<text name="PeachInvitesAgain">THE PRINCESS invites Mario to her\ncastle again...</text>
-		<text name="KamekCurses">...AND KAMEK CURSES THE INHABITANTS AND OBJECTS WITH DIRTY PHERORMONES...</text>
-		<text name="AirshipsInvade">AIRSHIPS INVADE\nMUSHROOM KINGDOM!</text>
+		<text name="KamekCurses">...Y KAMEK MALDICE LOS HABITANTES Y OBJETOS CON FEROMONAS SUCIAS...</text>
+		<text name="AirshipsInvade">AERONAVES INVADEN\nEL REINO CHAMPIÑÓN!</text>
 		
-		<text name="DuringTheNight">DURING THE NIGHT...</text>
-		<text name="PrincessIsAsleep">THE PRINCESS IS ASLEEP...MARIO LEFT THE ROOM...</text>
-		<text name="TheNextDay">THE NEXT DAY...</text>
-		<text name="PrincessJustWakingUp">THE PRINCESS IS JUST WAKING UP...</text>
+		<text name="DuringTheNight">DURANTE LA NOCHE...</text>
+		<text name="PrincessIsAsleep">LA PRINCESA ESTÁ BIEN DORMIDA...MARIO SE FUE DE LA HABITACIÓN...</text>
+		<text name="TheNextDay">AL DÍA SIGUIENTE...</text>
+		<text name="PrincessJustWakingUp">LA PRINCESA SE LEVANTA...</text>
 
 	<!--SCREEN:PREGNANT-->
 		<text name="YourePregnant">You\'re PREGNANT!</text>
@@ -6446,33 +6445,33 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 	
 	
 	<!-- HUD-->
-		<text name="HUD1">HUD: não pode aproximar/afastar se não ficar em nada primeiro!</text>
+		<text name="HUD1">HUD: No puedes hacer zoom cuando no te centras en nada!</text>
 		
 	<!--TIPS (você pode adicionar mais itens abaixo!)-->
-		<text name="tip">DICA: Ao começar uma fase, você pode voltar ao mapa-mundi ao entrar no castelo marrom, porta branca ou ao caminhar para a esquerda!</text>
-		<text name="tip">DICA: Pressionando BACKSPACE esconderá o HUD (que é a tela de informações em tempo real)</text>
-		<text name="tip">DICA: Bobombs que caminham por aí (não os que correm) podem ficar de pau duro do nada. Os outros correm e já podem explodir em você!</text>
-		<text name="tip">DICA: Se estiver com uma chave enfiadinha no seu cu, criaturas podem deixar de fodê-lo. Então, fique tranquila!</text>
-		<text name="tip">DICA: Se o jogo estiver lento, é porque sua CPU não é potente o bastante. Tecle \'=\' para mudar qualidade, \'-\' para zoom, ou vá nas opções para mais configurações!</text>
-		<text name="tip">DICA: Usar o Google Chrome ou o \'Flash Projector\' (aplicação standalone do site da Adobe) podem aumentar a performance do jogo!</text>
-		<text name="tip">DICA: Certas fases escondidas só aparecem em certos dias, como a Vila Shyguy do mundo 3.</text>
-		<text name="tip">DICA: O jogo está lento? Culpe o Flash e sua forma de renderizar vetores, e não apenas sua máquina. Teste \'Câmera Estacionária\' nas Opções Avançadas!</text>
-		<text name="tip">DICA: Defeitos de jogo podem aparecer. Se a princesa TRAVAR, tecle {NEXTKEY} várias vezes, ou DEL para perder uma vida. Ou ENTER para modo PÂNICO. Ou carregue um jogo salvo.</text>
-		<text name="tip">DICA: Se estiver com execução de cenas a cada loop, ou 2x, ou 3x ativa, existem criaturas que só abrirão novas áreas se houver mais repetições, assim, desabilite essa automação caso ache que não tem saída!</text>
-		<text name="tip">DICA: Você pode segurar os cascos de criaturas como Koopa e Buzzy! Passe por um casco e tecle CORRER.</text>
-		<text name="tip">DICA: Você pode sobreviver a ataques (como quando toca em alfinetes e fogo) se mantiver-se excitada (barra de excitação não vazia)</text>
-		<text name="tip">DICA: Pressione 0 a 9 enquanto tocar um inimigo caído para repetir uma cena já vista antes. Pressione a tecla \'REPETIR\'. Não são todas as criaturas que tem essa habilidade.</text>
-		<text name="tip">DICA: Pressione ENTER para entrar na tela PÂNICO. Após isso, tecle CTRL para tornar ao jogo. Pressione / para reativar sons e música.</text>
-		<text name="tip">DICA: Você pode usar o inventário apenas no mapa-mundi. Tecle \'ATACAR\' para abrí-lo e clique em um item com o mouse. Pode ter até cinco itens ali!</text>
-		<text name="tip">DICA: Os BobOmbs possuem diferentes cenas. Depende de QUANDO ele te captura, enquanto está correndo ou caminhando. Se demorar muito, o que corre explodirá.</text>
-		<text name="tip">DICA: Se achar um erro grave do jogo (ou mesmo os que já incomodam), pressione PAGE DOWN e tire uma foto, daí envie para o site Legend of Krystal (tópico MIM PUT), caso ainda exista.</text>
-		<text name="tip">DICA: Para finalizar uma fase, você pode simplesmente entrar na porta do castelo marrom, ou pegar um dado item (como pérola rosa do Birdo), ou simplesmente caminhar para a direita, até desaparecer.</text>
-		<text name="tip">DICA: Se você estiver toda sujinha e pervertida, pode-se limpar no banheiro ou nos pontos de controle (mastro com bandeira rosa). Se a opção de se limpar debaixo dágua estiver ativa, basta afundar!</text>
-		<text name="tip">DICA: Sockhops são criaturas que parecem sacos verdes. Não são exatamente inimigos, mas podem te ferir ou te engolir numa bela cena de sexo!</text>
-		<text name="tip">DICA: Você pode teclar \'DEL\' para fazer a princesa perder uma vida, caso esteja preso numa área da fase!</text>
-		<text name="tip">DICA: Lembre-se de que a princesa SÓ VESTIRÁ UMA ROUPA (ou transformará em RAPOSA, etc), se você achar o item pela fase. A tela de Roupas só configura os cogumelos e itens FUTUROS!</text>
-		<text name="tip">DICA: Sua barriga pode aumentar dependendo das fodidas em seu cu ou vagina, ou se pegar certas frutas e venenos.</text>
-		<text name="tip">DICA: Não se esqueça de checar suas configurações do teclado escolhido no MENU PAUSAR (tecla CTRL). Por exemplo, a tecla PÂNICO é ENTER, e para mudar qualidade, é \'-\'.</text>
+		<text name="tip">TIP: Ao começar uma fase, você pode voltar ao mapa-mundi ao entrar no castelo marrom, porta branca ou ao caminhar para a esquerda!</text>
+		<text name="tip">TIP: Pressionando BACKSPACE esconderá o HUD (que é a tela de informações em tempo real)</text>
+		<text name="tip">TIP: Bobombs que caminham por aí (não os que correm) podem ficar de pau duro do nada. Os outros correm e já podem explodir em você!</text>
+		<text name="tip">TIP: Se estiver com uma chave enfiadinha no seu cu, criaturas podem deixar de fodê-lo. Então, fique tranquila!</text>
+		<text name="tip">TIP: Se o jogo estiver lento, é porque sua CPU não é potente o bastante. Tecle \'=\' para mudar qualidade, \'-\' para zoom, ou vá nas opções para mais configurações!</text>
+		<text name="tip">TIP: Usar o Google Chrome ou o \'Flash Projector\' (aplicação standalone do site da Adobe) podem aumentar a performance do jogo!</text>
+		<text name="tip">TIP: Certas fases escondidas só aparecem em certos dias, como a Vila Shyguy do mundo 3.</text>
+		<text name="tip">TIP: O jogo está lento? Culpe o Flash e sua forma de renderizar vetores, e não apenas sua máquina. Teste \'Câmera Estacionária\' nas Opções Avançadas!</text>
+		<text name="tip">TIP: Defeitos de jogo podem aparecer. Se a princesa TRAVAR, tecle {NEXTKEY} várias vezes, ou DEL para perder uma vida. Ou ENTER para modo PÂNICO. Ou carregue um jogo salvo.</text>
+		<text name="tip">TIP: Se estiver com execução de cenas a cada loop, ou 2x, ou 3x ativa, existem criaturas que só abrirão novas áreas se houver mais repetições, assim, desabilite essa automação caso ache que não tem saída!</text>
+		<text name="tip">TIP: Você pode segurar os cascos de criaturas como Koopa e Buzzy! Passe por um casco e tecle CORRER.</text>
+		<text name="tip">TIP: Você pode sobreviver a ataques (como quando toca em alfinetes e fogo) se mantiver-se excitada (barra de excitação não vazia)</text>
+		<text name="tip">TIP: Pressione 0 a 9 enquanto tocar um inimigo caído para repetir uma cena já vista antes. Pressione a tecla \'REPETIR\'. Não são todas as criaturas que tem essa habilidade.</text>
+		<text name="tip">TIP: Pressione ENTER para entrar na tela PÂNICO. Após isso, tecle CTRL para tornar ao jogo. Pressione / para reativar sons e música.</text>
+		<text name="tip">TIP: Você pode usar o inventário apenas no mapa-mundi. Tecle \'ATACAR\' para abrí-lo e clique em um item com o mouse. Pode ter até cinco itens ali!</text>
+		<text name="tip">TIP: Os BobOmbs possuem diferentes cenas. Depende de QUANDO ele te captura, enquanto está correndo ou caminhando. Se demorar muito, o que corre explodirá.</text>
+		<text name="tip">TIP: Se achar um erro grave do jogo (ou mesmo os que já incomodam), pressione PAGE DOWN e tire uma foto, daí envie para o site Legend of Krystal (tópico MIM PUT), caso ainda exista.</text>
+		<text name="tip">TIP: Para finalizar uma fase, você pode simplesmente entrar na porta do castelo marrom, ou pegar um dado item (como pérola rosa do Birdo), ou simplesmente caminhar para a direita, até desaparecer.</text>
+		<text name="tip">TIP: Se você estiver toda sujinha e pervertida, pode-se limpar no banheiro ou nos pontos de controle (mastro com bandeira rosa). Se a opção de se limpar debaixo dágua estiver ativa, basta afundar!</text>
+		<text name="tip">TIP: Sockhops são criaturas que parecem sacos verdes. Não são exatamente inimigos, mas podem te ferir ou te engolir numa bela cena de sexo!</text>
+		<text name="tip">TIP: Você pode teclar \'DEL\' para fazer a princesa perder uma vida, caso esteja preso numa área da fase!</text>
+		<text name="tip">TIP: Lembre-se de que a princesa SÓ VESTIRÁ UMA ROUPA (ou transformará em RAPOSA, etc), se você achar o item pela fase. A tela de Roupas só configura os cogumelos e itens FUTUROS!</text>
+		<text name="tip">TIP: Sua barriga pode aumentar dependendo das fodidas em seu cu ou vagina, ou se pegar certas frutas e venenos.</text>
+		<text name="tip">TIP: Não se esqueça de checar suas configurações do teclado escolhido no MENU PAUSAR (tecla CTRL). Por exemplo, a tecla PÂNICO é ENTER, e para mudar qualidade, é \'-\'.</text>
 		
 		<!--FOR THE FUTURE or TO BE DEPRECATED:Cherbil is a cute small testicle or butt like creature who can fart aphrodisiacs. You will love playing with them (soon).
 		TIP:If you get any bugs, please contact the developer in Legend of Krystal forums, or...erhm...Luigi?
