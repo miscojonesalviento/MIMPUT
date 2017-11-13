@@ -24,14 +24,76 @@ Thank you for enjoying the game!
 - PLEASE PAY ATTENTION to certain browsers (like CHROME) and latest Flash versions (like 20). It MAY make the game crash or give many strange bugs! At first, try to clean all your flash/browser cache, then try another browser or a former Flash Version, like 12. The game was started using Flash Player 10, and I tried my most to retain that compatibility, although I am now targetting Flash 16 and 17.
 
 ===============================================
-Update 3.39 (9th July 2017)
+Update 3.44 (1st November 2017)
+- NEW: Level 8-3!
+- Glitch Fix: some code in Bowser Jr in order to make him look at the princess and get stomped by her (if on time).
+
+Update 3.43 (30th October 2017) - IMPORTANT UPDATE
 - Please reload an external XML (english or other) to refresh the language of the game! Use the ones in my GITHUB (https://github.com/ivanaedler/MIMPUT/). Or you can just click RESET SAVES in the first screen if you dont have saved games and you dont want to mess around the XML files (English only!)
-- NEW: Luma scene 3 by Blargh!
-- NEW: A REAL ponytail to Peachy! (like when Peach is playing in a tennis court)
-- NEW: You can change her ponytail style (normal or ponytail) in her drawer next to her bathroom (you will see a 'MAKEUP' text in the drawer). If ponytail was selected, this hair state will only change back to normal if you get a Shadow Queen outfit.
+- NEW: Bowser Jr scene! To see it, you have to lose all of your lives, then go to the prison for at least 2 times. He might appear in future 'gameovers' there. This scene is also in the Bowser gallery
+- NEW: Now you can zoom in the gallery! Just select a given scene, then click in any area of the scene. There are 4 zoom modes. If you click more than 3 times, it will go back to default zoom.
+- ADDED Bobomb Buddy and Luigi scenes to the Friends gallery
+- ADDED Luma scene 3 to the game (it had only two in the game, but all three in the gallery). Just talk to Lumas and select option 3.
+- Rule change: Bowser scene in the prison will now happen if you visit there three times. He might appear in future visits there.
+- Glitch Fix: Bowser gallery scene was not working anymore
+- Glitch Fix: Music in 1-5 sometimes is duplicated with another song when the princess loses a life or went underwater
+- Glitch Fix: sometimes in the worldmap, the princess with a chainball was locking herself up (not being possible to move anymore)
+- Glitch Fix: the checkpoint in levels like 1-1 was not working as a checkpoint (the princess was returning to the start of the level upon losing a lie)
+- Glitch Fix: when going to bonus toad house level, a blueprint was being shown in the level loading screen, but there isnt any in that level!
+- Glitch Fix: certain koopalings (bosses) not advancing during scenes, like Ludwig and Wendy, as well as certain enemy scenes like the 5th chuck scene.
+- Glitch Fix: certain Anuboos and 'laid goombas' are with reversed text balloons.
+
+Update 3.42 (21th October 2017) - IMPORTANT UPDATE
+- NEW: Bobomb Buddy scene. To see it, you have to stomp him, then return to the Bunker (he will be angry)
+- NEW: In 1-3 level, the toad says you need to fuck the goomba to get the key. If you agree, but you kill a goomba instead (by stomping him, for example), the toad will argue about it. If you lie and he discovers it, he will be sad and he might order you to suck his dick in order not to tell Toadsworth. The other way around will also get a scene, in the case you tell the toad you rather kill him, but end up with a sex scene with the goomba. Idea by Peterpeterpeter and HappyGoomba.
+- BUG FIX: Poochy scene in the gallery wasnt working.
+- BUG FIX: Gallery 'Other Enemies' not working (can't click in any scene button)
+- Glitch Fix: When clicking in Change Character buttons in the gallery, the scene will restart with the new character. This is in order to update the character correctly, after IMPROVED Peach poses (Update 3.32 of 29th April 2017).
+- Glitch Fix: In Daisy palace, Daisy was still being exchanged to the playable character (like a 'selfish scene').
+- Glitch Fix: Playing as Krystal, a given Daisy scene in her palace (when she sats on Daisy's lap) was without her blue tail
+- Glitch Fix (technical): Some improvements with 'checkCh(obj,null,false)' was not working well since July 2017. Rollback to checkCh(obj,"Daisy") and other players manually.
+
+Update 3.41 (17th October 2017)
+- NEW: A punishment if you refuse the princess to remove her clothes if she is eager to do (happens in situations like when she is a nymph or slut in heat). There are 4 types of punishment if you press 'no': The timer advances 50 seconds, you got dizzy for some time, creatures will walk/run faster until the end of the level, and you will slip down (like walking over a puddle of cum).
+- Rule Change: the pink dress (located in Peach's closet) will reappear again only if you finish a given world.
+- Improvement to gallery code (tech info: instances of scene main casted dynamically)
+- Glitch Fix: lack of neck in some backside poses, like when descending the finish pole as Peachy character
+- Glitch Fix: the shygirl behind the lemonade stand looks like the princess in a shygirl outfit. She had no green hair as before. The same with Daisy in 2-6 level (dry dry land).
+- Glitch Fix: not really a glitch, but some people didnt like her 'always opened' mouth as Peachy character, like in frontside pose. After some seconds she will close her mouth.
+- Other small fixes, like adjustments to her boobies in backside pose. her washing hand that was trespassing her large breasts during bath, inverted eyes in some poses (tech info: the usage of "liddedright","liddedright", as the new eye setup due to new Peachy dont support those combinations like that anymore), etc.
+
+Update 3.40 (14th October 2017)
+Three months without an update. This has several reasons: my late vacation + some hard-to-fix-bugs + improvements + personal problems (hope all is now okay to keep going).
+- NEW SCENE: Luigi gloryhole scene made by Blargh! In order to see it, you have to search for a... 'stinky/not in order toilet' in 6-4 (Delfino Island world)
+- NEW: Princesses Gangbang scene, made by me, idea from ShadowFox! It is the most complex scene to date! You can get it if you fuck Daisy, then Wendy, then you return to your castle and sit in Peach's bed. If you're Daisy, the option wont be available (I plan making the scene work with other princesses, so when Rosalina is available as a NPC, you will be able to fuck her as Daisy, then go to this gangbang scene). You must NOT beat Wendy in her airship, or you wont see it!
+- NEW: 'Princess in the Prison' achievement by TripFlip. In order to see it, you need to be fucked by a guard in a gangbang way, that is, if a goomba opens the door, and the scene is the gangbang one (3 goombas). The same with other creatures there.
+- NEW: 'Princesses and Wendy' achievement by TripFlip. In order to see it, you need to fuck Daisy, then Wendy, then fuck them all in a gangbang scene in her bedroom.
+- NEW: 'Less Belly' button during showers, like checkpoint showers, tube baths and pools. Now you can decrease her belly there. If Allow Farting is ON, you will hear fart sounds. This button WONT decrease her belly if Peach is already with default Belly, or if her MINIMUM Belly is already big, or if pregnant.
+- NEW: 'Burn Off' button during shower. It will appear if you're a Fire Peach or a Fire Peach PS. It will return you to normal Peach.
+- NEW: You can press LEFT and RIGHT during shower/bath scenes to select a given button, then just press space. So you dont need the mouse in those scenes anymore.
+- NEW Option: 'Bigger Belly when' (single button that changes its text): none, eating, pregnancy, creatures, or all. If you choose any option while pregnant, you will still be pregnant. If 'none' is selected, this will only make your belly at 'min belly size' at all times. If you choose eating, it will only grow when eating certain fruits, and so on.
+- NEW: 'Call a Toad' option when the princess is sat down in her bed. IN PROGRESS yet (but well it's there so I'll urge myself to make it fully)!
+- NEW: 'Asshole swollen till...' option, so you can choose the number of days for it to be back to normal (1,2,3,5,10, 20 and 'NEVER')
+- IMPROVED shower balloons of text. Instead of buttons, you can click right in the names. More room for more buttons!
+- IMPROVED gravity check for 'hurting the princess' when creatures are falling off grounds (tech info: GRAV 2)
+- FASTER 'kick' shells
+- Rule Change: The princess wont lose her asshole status when losing a life, as you now can choose the number of days for it to be back to normal.
+- Rule Change: Now, creatures will only harm the princess (when falling down while hitting her) in hard game mode. People are complaining that, in normal game, they were being hurt in a way it's harder to avoid.
+- Rule Change: Now, when going to worldmap, it wont count +1 day. Its like the princess has plenty of time (before or after a level) to do something else before the day ends. This makes the 'day count' better, as it should count in each adventure (in each level). This also avoids problems like 'only having odd numbers' when going to worldmap, then going back to another level.
+- Glitch Fix: The princess was starting the level with a dress (skirt, vest, shoulder top and bra), but she was supposed to be with lingerie only. Also, when losing a life, she remained with her entire pink dress.
+- Glitch Fix: 'Press to Interact' blue button not disappearing after the princess gets into her bath (like in her Castle)
+- Glitch Fix: the princess was not sleeping anymore after laying down in her bath (when you press 'lay' button).
+- Glitch Fix: 'vanilla peach' leg in Krystal character.
+- Glitch Fix: when Wario was naked in some bars, he was regaining clothes in the end of his scene.
+- Glitch Fix: in some toilets behind closed doors, like in 6-4 level (Delfino), even if the princess opens the door, she couldn't use the toilet (Tech info: state needs to be Dict.opened, not "opened")
+- Glitch Fix: when you configured her Belly in the options (say, to be 'always Bigger'), she was not respecting this in the beginning of the game (only if you lose a life).
+- Other minor changes, like more room for Achievement screen buttons, and new XML tags, like ALWAYS and SOMETIMES.
+
+Update 3.39 (11th July 2017)
+- NEW: Luma scene 3 by Blargh! Also, added all the three Lumas scenes to 'Friends' Gallery.
+- NEW: A REAL ponytail to Peachy! (like when Peach is playing in a tennis court). You can change her ponytail style (normal or ponytail) in her drawer next to her bathroom (you will see a 'MAKEUP' text in the drawer). If ponytail was selected, this hair state will only change back to normal if you get a Shadow Queen outfit.
 - NEW: You can change other princesses' NPC belly and boobs in the Options (below Boobies/Belly header)! Daisy, Rosalina, Shygirl, Mona and Pauline are there (only Daisy and Shygirl is available so far).
-- Added all the three Lumas scenes to 'Friends' Gallery.
-- IMPROVED classic masturbation. No more 'two masturbation types' at random. Now, every time you press the masturbation key or if she does it automatically when a nymph, she will engage on it by those rules: If NOT a nymph, or NOT horny enough, she will start by looking left/right (as she is embarrassed). If she is Daisy, or already a nymph, but not horny enough, she will tenderly touch her insides, touching/rubbing them a bit, then sniffing it. If horny enough (say, 50%), she will engage in a more directly masturbation (the classic one we know since the early versions), until falling while cumming. No more 'dumb/slow sniffing alternative pose', where the player used to get annoyed because she did it slow in order to cum, and with just two repetitive loops. Before, we needed to press the masturbation button again and again until getting the classic masturbation action.
+- IMPROVED classic masturbation. No more 'two masturbation types' at random. Now, every time you press the masturbation key or if she does it automatically when a nymph, she will engage on it by those rules: If NOT a nymph, or NOT horny enough, she will start by looking left/right (as she is embarrassed). If she is Daisy, or already a nymph, but not horny enough, she will tenderly touch her insides, touching/rubbing them a bit, then sniffing it. If horny enough (say, 50%), she will engage in a more directly masturbation (the classic one we know since the early versions), until falling while cumming. No more 'dumb/slow sniffing alternative pose', where the player used to get annoyed because she do it slow in order to cum, and with just two repetitive loops. Before, we needed to press the masturbation button again and again until getting the classic masturbation action.
 - Rule Change: when taking a new powerup, the princess wont have her (erhm) little perverted asshole back to normal anymore (if swollen due to sex). You have to lose a life to get it back.
 - Rule Change: instead of 'Fart Sounds' in the options, we have 'Allow Farting': ON/OFF. OFF as default. If ON, fart sounds will also be enabled. Also, the farting will only happen if she is stopped (that is, just standing up).
 - Rule Change: tail attacks (as a leaf or pure raccoon) wont lock you anymore. If you do the attack, she will do the move, but you can interrupt her just by pressing any key.
@@ -39,7 +101,6 @@ Update 3.39 (9th July 2017)
 - Glitch FIX: a bit of wrong color tone in the new Peach character (Peachy)
 - Glitch FIX: the princess was not 'changing her belly' in certain scenes. Strangely, the belly only 'updated' itself later.
 - Glitch FIX: Rosalina without a 'front hand' in certain scenes, like when she falls down (when losing a life)
-
 
 Update 3.38 (28th June 2017)
 - NEW! The so awaited NEW PEACH MODEL from TripFlip! Her name is Peachy and she is the default character from now on. If you want the playshapes or aedler Peach versions, they are (and will) still be available. Just change her character when playing a new game (or use the cheat code to change her character in the OUTFIT screen)! Well, I cant guarantee she is 100% free of glitches for now, but I tested her a lot before releasing her. No Fire Peachy available (and I may not make her until finishing all the worlds and other features first).
