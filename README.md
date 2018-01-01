@@ -13,8 +13,8 @@ For now, the files are related to XML (i18n), that is, translation of the game a
 - ENGLISH already done! Its here in case people want to improve it. The game already has ENGLISH as default inside the engine. 
 - RUSSIAN: 1%
 - GERMAN: 2%
-- SPANISH: 4%
-- FRENCH : 16%
+- SPANISH: 6%
+- FRENCH : PRACTICALLY 100%
 - PORTUGUESE (EUROPE): 80% (precisa ser adaptado do brasileiro)
 - PORTUGUESE (BR): 100%
 - (put your XML language here): 0%
