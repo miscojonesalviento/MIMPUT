@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--PLEASE READ!!!
 - NEW! ACCENTS (tilde, acute, grave...) for French, Portuguese, German, and Cyrilic (Russian) characters is now supported!
-- Version 0.2! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like '㡢 ࡧ' are not supported-. 
+- Version 0.5! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like \'㡢 ࡧ\' are not supported-. 
 - Although too early, it already covers up 99% of the game (more than 5,000 lines!), and ALL creature scenes (well, perhaps some exceptions might appear)! Certain screens, scene names in the gallery are NOT in the XML yet.
-- UTF8 chars NOT supported because fonts used in the game is NOT UTF8, please use LATIN (ASCII) only.
 - You should use a good XML editor. Notepad++ is great because it will be colored differently, easing your work.
 - You DONT need to translate text inside <!-  ->
 - Please BE CAREFUL about not closing tags or other misses. Incomplete or errors in XML will give a'XML load error' message or give unexpected behavior in the game!
-- Its not possible to change some text, like Princess and Creature names (e.g. if you want to call Peach as 'Pêssego' or Goomba as 'Gumpa', you wont be able to do so). This is due to XML and the game limitations. If I figure it out in the future, I can implement it.
+- Its not possible to change some text, like Princess and Creature names (e.g. if you want to call Peach as 'Pêssego' or Goomba as 'Gumpa', you won\'t be able to do so). This is due to XML and the game limitations. If I figure it out in the future, I can implement it.
 - \\u or \u is UNICODE character. THIS IS NOT SUPPORTED here. Just paste the character directly!
 - Please translate observing the placement of \n. Its the line breaker. I use them many times just to adjust (centralize) text better. If you translate a given phrase and you see the text is trespassing the balloon, you can force its break by adding a \n. Dont use <br/>!
 You can live without \n, but certain balloons will be 'very empty' without them, or the first line might trespass it a bit because of the curve of the balloon.
 - I use 'loop="1a", "1b"', etc (that is, variations) to give ALTERNATIVE words according to the logic inside the scene, like if Peach is a nymph or if her...asshole is swollen.
 - There are scenes with same messages. This can occur. You can also make them different, if you want more variety.
 - Please DONT change variables (those inside { } ), or the game will malfunction!
-- If any errors (or something in the game that doesnt have a tag here to be able to translate, or a text that trespasses buttons/boundaries), please contact me on Legend of Krystal site (ivanaedler). 
+- If any errors (or something in the game that doesn't have a tag here to be able to translate, or a text that trespasses buttons/boundaries), please contact me on Legend of Krystal site (ivanaedler). 
 -->
 
 		<game>
@@ -908,6 +907,14 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="7c">Oh! Oh yes!\nI came so hard! I love you--r Mario impression!</p>
 				<e i="7d">\nThank you so much for-to-playing my game!</e>
 				<p i="7d">\nOh! Oh yes! I came so hard! I love you, Mario!</p>
+			</scenes>
+			<scenes scene="mario8">
+				<p i="1">I\'m sorry Mario! I couldn\'t help myself! I never meant to hurt you!</p>
+				<f i="1">You whore! You never used to be this slutty! How many dicks have you sucked!?</f>
+				<p i="2">Ooh yes! Punish me more, Mario! I\'ll make up for my slutty behavior with you!</p>
+				<f i="2">Mmm, yeah!\nA whore like you deserves to be punished! Take it deep!</f>
+				<p i="3">Oh Mario! Please keep punishing me! I\'ll only be your dirty whore from now on!</p>
+				<f i="3">Whew! I\'ma going\nto have to punish you again, and again!</f>
 			</scenes>
 			
 	<!--CHOMPS-->
@@ -2137,7 +2144,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 	<!--ZESS T. (Grumpy female Toad from PAPER MARIO II)-->
 			<scenes scene="zess1">
-				<f i="1">You can Start by putting\nthat flour into the bowl.</f>
+				<f i="1">You can start by\nputting that flour into the bowl.</f>
 				<p i="2">Yes, Aunt\nZess.</p>
 				<f i="3">Once I know\nyou\'re doing\n it right, I\'ll go.</f>
 				<f i="4">You\'re\nnot Mixing\nfast Enough!!</f>

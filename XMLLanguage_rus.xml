@@ -923,6 +923,14 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<e i="7d">\nThank you so much for-to-playing my game!</e>
 				<p i="7d">\nOh! Oh yes! I came so hard! I love you, Mario!</p>
 			</scenes>			
+			<scenes scene="mario8">
+				<p i="1">I\'m sorry Mario! I couldn\'t help myself! I never meant to hurt you!</p>
+				<f i="1">You whore! You never used to be this slutty! How many dicks have you sucked!?</f>
+				<p i="2">Ooh yes! Punish me more, Mario! I\'ll make up for my slutty behavior with you!</p>
+				<f i="2">Mmm, yeah!\nA whore like you deserves to be punished! Take it deep!</f>
+				<p i="3">Oh Mario! Please keep punishing me! I\'ll only be your dirty whore from now on!</p>
+				<f i="3">Whew! I\'ma going\nto have to punish you again, and again!</f>
+			</scenes>
 			
 	<!--CHOMPS-->
 			<scenes scene="chomp1">
@@ -2152,7 +2160,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 	<!--ZESS T. (Grumpy female Toad from PAPER MARIO II)-->
 			<scenes scene="zess1">
-				<f i="1">You can Start by putting\nthat flour into the bowl.</f>
+				<f i="1">You can start by\nputting that flour into the bowl.</f>
 				<p i="2">Yes, Aunt\nZess.</p>
 				<f i="3">Once I know\nyou\'re doing\n it right, I\'ll go.</f>
 				<f i="4">You\'re\nnot Mixing\nfast Enough!!</f>

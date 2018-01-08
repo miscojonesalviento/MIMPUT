@@ -910,6 +910,14 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<e i="7d">\nObrigado muito por... jogar meu jogo! Hehe!</e>
 				<p i="7d">\nOh! SIM! Gozei muuuuuuito! Eu te amo, Mário!</p>
 			</scenes>
+			<scenes scene="mario8">
+				<p i="1">Desculpa, Mário! Eu\nnão pude me conter! Eu...nunca quis lhe decepcionar!</p>
+				<f i="1">Sua PUTA! VocÊ\nnunca foi assim assanhada! Quandos perus andou chupando?!</f>
+				<p i="2">Ahhh, SIM! Me puna\nmais, Mário! Serei toda tua por ter sido uma puta!</p>
+				<f i="2">Hum, isso!\nUma vadia como você merece ser punida! Tome lá dentro!</f>
+				<p i="3">Ou, Mário! Continue!\nVai, vai! Serei sua putinha pessoal daqui para a frente!</p>
+				<f i="3">Uau! Irei te foder\nde novo e de novo! Mamma mia!</f>
+			</scenes>
 			
 	<!--CHOMPS--><!--Sección traducida al 0%.-->
 			<scenes scene="chomp1">
